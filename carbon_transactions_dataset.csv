@@ -1,0 +1,1001 @@
+Transaction Amount,Carbon Volume,Price per Ton,Origin Country,Cross-Border Flag,Buyer Industry,Sudden Transaction Spike,Transaction Hour,Entity Type,Label
+3090.09,156.12,19.79,Malaysia,False,Technology,False,16,Ltd.,Verified
+243969.91,22250.28,10.96,Singapore,False,Real Estate,False,18,PT,Caution
+102887.24,5094.77,20.19,China,True,Real Estate,False,6,PT,Caution
+1341.13,117.24,11.44,Indonesia,False,Forestry,False,11,PT,Verified
+37821.21,1917.15,19.73,Indonesia,False,Forestry,False,13,CV,Verified
+23206.98,2282.99,10.17,Singapore,False,Manufacturing,False,14,PT,Verified
+25222.39,2323.46,10.86,Singapore,False,Technology,False,17,PT,Verified
+76746.77,5174.35,14.83,Indonesia,False,Energy,False,15,Ltd.,Verified
+56729.04,2745.71,20.66,Vietnam,False,Consulting,True,7,Foundation,Caution
+92079.88,7980.46,11.54,Indonesia,True,Agriculture,False,15,PT,Verified
+813514.04,78872.01,10.31,Singapore,False,Real Estate,True,7,Foundation,Caution
+61849.68,5718.14,10.82,Indonesia,True,Energy,False,9,PT,Verified
+54184.48,2843.25,19.06,Malaysia,False,Energy,False,14,PT,Verified
+7750662.43,49210476.47,0.16,Switzerland,True,Holding Company,True,0,Foundation,High-Risk
+1557107.36,10092910.84,0.15,Panama,True,Holding Company,True,1,LLC,High-Risk
+54527.4,4249.78,12.83,China,False,Technology,True,6,PT,Caution
+23682.2,2217.81,10.68,Singapore,False,Forestry,False,17,CV,Verified
+13193.21,857.48,15.39,China,True,Real Estate,False,18,Individual,Caution
+40057.58,2446.76,16.37,UAE,False,Consulting,True,19,Individual,Caution
+57621.4,5250.34,10.97,Indonesia,False,Energy,False,17,PT,Verified
+46137.07,2478.15,18.62,Indonesia,False,Energy,False,17,CV,Verified
+74096.67,5279.41,14.04,Indonesia,True,Energy,False,16,PT,Verified
+13625.67,1210.83,11.25,Indonesia,True,Energy,False,10,PT,Verified
+163788.11,12202.51,13.42,Indonesia,False,Agriculture,False,11,Ltd.,Verified
+62462.0,5839.48,10.7,Malaysia,False,Agriculture,False,16,PT,Verified
+37826.33,3004.51,12.59,Indonesia,False,Forestry,False,14,CV,Verified
+6262.72,,17.33,Indonesia,False,,False,14,,Verified
+316674.57,989671.72,0.32,Cayman Islands,True,Holding Company,True,4,Foundation,High-Risk
+285337.42,1519487.93,0.19,UAE,True,Luxury Goods,True,3,Foundation,High-Risk
+706902.87,2019726.62,0.35,Cayman Islands,True,Real Estate,True,5,Individual,High-Risk
+26269.61,1776.5,14.79,Indonesia,False,Manufacturing,False,9,PT,Verified
+25822.83,1417.94,18.21,Indonesia,False,Energy,False,17,Ltd.,Verified
+24608.5,1585.16,15.52,USA,False,Forestry,False,12,CV,Verified
+11040.66,979.26,11.27,Singapore,False,Energy,False,11,PT,Verified
+34180.6,2430.1,14.07,Indonesia,False,Forestry,False,14,CV,Verified
+94672.24,6944.49,13.63,Indonesia,False,Agriculture,False,10,PT,Verified
+16467.53,976.94,16.86,UK,False,Manufacturing,False,13,PT,Verified
+6519.34,427.01,15.27,USA,True,Manufacturing,False,14,PT,Verified
+1676167.52,10292630.98,0.16,Cayman Islands,True,Holding Company,True,1,Individual,High-Risk
+9266.78,569.04,16.28,Indonesia,False,Energy,False,17,PT,Verified
+11481.69,632.91,18.14,Indonesia,False,Technology,False,12,PT,Verified
+4289.23,252.33,17.0,USA,False,Forestry,False,9,PT,Verified
+37075.56,2420.54,15.32,Indonesia,False,Forestry,False,13,CV,Verified
+3599290.66,13934244.36,0.26,Panama,True,Holding Company,True,3,LLC,High-Risk
+5277.99,291.14,18.13,Indonesia,False,Forestry,False,11,PT,Verified
+16885.36,1390.15,12.15,Indonesia,False,Manufacturing,False,12,PT,Verified
+15481.3,39174.6,0.4,Panama,True,Luxury Goods,True,0,Foundation,High-Risk
+108625.15,10534.27,10.31,Indonesia,False,Energy,False,14,Ltd.,Verified
+5192.21,386.58,13.43,Indonesia,False,Manufacturing,False,11,Ltd.,Verified
+71702.01,3187.75,22.49,Singapore,True,Holding Company,True,6,PT,Caution
+11696.75,615.54,19.0,Indonesia,False,Energy,False,11,PT,Verified
+400513.7,22768.43,17.59,China,True,Technology,True,6,Individual,Caution
+34002.89,2194.33,15.5,UK,False,Technology,False,11,PT,Verified
+15231.68,1316.66,11.57,Indonesia,False,Technology,False,13,PT,Verified
+8672.93,673.78,12.87,USA,False,Manufacturing,False,17,PT,Verified
+20316.94,1302.89,15.59,Singapore,False,Technology,False,11,Ltd.,Verified
+28681.04,1944.46,14.75,Indonesia,False,Agriculture,False,13,PT,Verified
+23678.94,2132.69,11.1,Malaysia,True,Energy,False,17,PT,Verified
+28363.7,1469.44,19.3,USA,False,Forestry,False,13,PT,Verified
+4638.02,192.63,24.08,Singapore,True,Real Estate,False,8,Individual,Caution
+3824.6,330.09,11.59,Indonesia,False,Manufacturing,False,15,PT,Verified
+17338.07,1384.42,12.52,Malaysia,False,Forestry,False,11,Ltd.,Verified
+32046.99,2749.17,11.66,Indonesia,False,Energy,False,12,PT,Verified
+85704.46,5633.81,15.21,Malaysia,False,Energy,False,12,CV,Verified
+7911.59,458.77,17.25,Indonesia,False,Technology,False,17,PT,Verified
+38842.41,2820.58,13.77,USA,True,Manufacturing,False,11,PT,Verified
+12071.91,665.59,18.14,Singapore,True,Energy,False,17,PT,Verified
+19837.79,1610.39,12.32,Indonesia,False,Technology,True,20,Foundation,Caution
+132102.33,8268.63,15.98,Singapore,False,Energy,False,9,PT,Verified
+35241.06,2245.08,15.7,Indonesia,False,Energy,False,15,PT,Verified
+23957.91,1878.13,12.76,Indonesia,False,Manufacturing,False,17,PT,Verified
+8485.18,442.58,19.17,Indonesia,False,Energy,False,12,PT,Verified
+11046.65,703.16,15.71,Indonesia,False,Technology,False,14,PT,Verified
+4000.43,206.46,19.38,UAE,False,Technology,True,7,PT,Caution
+37980.06,1993.32,19.05,Singapore,False,Energy,False,13,PT,Verified
+27055.57,1552.91,17.42,Indonesia,False,Energy,False,16,PT,Verified
+146541.13,7336.72,19.97,Indonesia,False,Technology,False,11,CV,Verified
+16492.38,1214.15,13.58,UK,False,Technology,False,11,PT,Verified
+30170.4,,16.06,Indonesia,False,,False,13,,Verified
+12593.49,732.79,17.19,Singapore,False,Energy,False,9,PT,Verified
+52375.57,3708.21,14.12,USA,False,Energy,False,16,PT,Verified
+17031.79,1702.72,10.0,Malaysia,False,Energy,False,12,PT,Verified
+14056.05,902.33,15.58,Indonesia,False,Energy,False,12,CV,Verified
+14894.06,961.88,15.48,Malaysia,False,Forestry,False,16,PT,Verified
+19652.55,,19.46,Indonesia,False,,False,14,,Verified
+269815.54,15845.6,17.03,UK,False,Technology,False,9,CV,Verified
+746393.54,2106266.06,0.35,Cayman Islands,True,Holding Company,True,1,Foundation,High-Risk
+78939.83,4600.34,17.16,Indonesia,True,Holding Company,False,20,Foundation,Caution
+61928.79,6736.14,9.19,Singapore,True,Consulting,True,23,Foundation,Caution
+33485.59,2421.62,13.83,Indonesia,True,Agriculture,False,10,PT,Verified
+11286.38,969.44,11.64,Singapore,False,Technology,False,14,CV,Verified
+64138.14,3795.92,16.9,Singapore,False,Energy,False,12,CV,Verified
+54421.46,3127.85,17.4,Malaysia,False,Technology,False,16,CV,Verified
+2779.5,165.94,16.75,Singapore,False,Manufacturing,False,13,PT,Verified
+26801.31,2091.18,12.82,Indonesia,True,Holding Company,False,6,PT,Caution
+15789.13,1129.86,13.97,Singapore,False,Technology,False,10,PT,Verified
+12350.04,610.48,20.23,China,True,Consulting,True,23,Foundation,Caution
+98573.71,7557.25,13.04,Singapore,True,Technology,False,14,Ltd.,Verified
+5341.8,303.44,17.6,USA,False,Energy,False,14,PT,Verified
+154654.2,6492.53,23.82,Singapore,True,Consulting,False,22,PT,Caution
+363561.65,26252.08,13.85,Singapore,False,Holding Company,True,20,Foundation,Caution
+21815.89,1841.45,11.85,Indonesia,False,Manufacturing,False,13,PT,Verified
+2003277.99,5187694.89,0.39,Switzerland,True,Luxury Goods,True,3,LLC,High-Risk
+35885.18,1897.47,18.91,Malaysia,False,Energy,False,14,PT,Verified
+9097.73,499.64,18.21,Indonesia,False,Energy,False,11,PT,Verified
+9941.94,,18.06,Malaysia,False,,False,11,,Verified
+9535.66,534.11,17.85,UK,True,Forestry,False,9,PT,Verified
+371837.51,3433095.62,0.11,Switzerland,True,Holding Company,True,0,Foundation,High-Risk
+42966.16,2255.2,19.05,Indonesia,False,Energy,False,16,PT,Verified
+277490580.43,2308880935.26,0.12,Panama,True,Real Estate,True,3,Individual,High-Risk
+10474.14,654.37,16.01,Indonesia,False,Energy,False,16,Ltd.,Verified
+65989.47,5238.13,12.6,UAE,True,Real Estate,False,19,Foundation,Caution
+1514226.86,4988709.96,0.3,Panama,True,Luxury Goods,True,4,Foundation,High-Risk
+63963.63,3100.33,20.63,Indonesia,True,Real Estate,False,18,Individual,Caution
+41063.29,2298.87,17.86,Indonesia,True,Technology,False,16,PT,Verified
+6130.76,359.08,17.07,Indonesia,True,Technology,False,13,CV,Verified
+19664.2,1478.34,13.3,Malaysia,True,Manufacturing,False,17,PT,Verified
+22194.29,58638.71,0.38,Cayman Islands,True,Holding Company,True,2,Foundation,High-Risk
+3507.55,231.62,15.14,Indonesia,False,Energy,False,10,PT,Verified
+143999.19,11943.84,12.06,Indonesia,False,Technology,False,12,CV,Verified
+59909.23,3532.68,16.96,Indonesia,False,Technology,True,19,Individual,Caution
+168271.02,11923.53,14.11,Singapore,False,Agriculture,False,11,CV,Verified
+1325637.26,66689.17,19.88,Vietnam,False,Consulting,False,8,Individual,Caution
+19876.07,1952.23,10.18,Indonesia,False,Agriculture,False,14,Ltd.,Verified
+41613.59,2274.02,18.3,Malaysia,False,Energy,False,14,PT,Verified
+51933.23,3170.29,16.38,Indonesia,False,Energy,False,16,PT,Verified
+14446.41,1328.23,10.88,Indonesia,False,Technology,False,14,PT,Verified
+9335.46,566.09,16.49,Indonesia,True,Energy,False,17,PT,Verified
+1578896.71,193970.5,8.14,UAE,True,Holding Company,True,22,PT,Caution
+120564.98,14402.98,8.37,Indonesia,False,Holding Company,True,19,Foundation,Caution
+29349.9,1953.52,15.02,Indonesia,False,Technology,False,13,PT,Verified
+11888.66,654.26,18.17,China,True,Technology,True,23,PT,Caution
+52228.73,4368.48,11.96,USA,False,Manufacturing,False,16,PT,Verified
+2065116.47,,0.28,Panama,True,,True,4,,High-Risk
+13644.7,988.32,13.81,UK,False,Manufacturing,False,14,PT,Verified
+33465.72,1705.93,19.62,Indonesia,False,Agriculture,False,14,PT,Verified
+46482.52,2995.4,15.52,Singapore,False,Technology,False,12,PT,Verified
+25264.97,2184.02,11.57,Indonesia,True,Technology,False,13,PT,Verified
+4660.39,287.68,16.2,Indonesia,False,Technology,False,9,PT,Verified
+5575.16,282.37,19.74,Singapore,False,Energy,False,12,PT,Verified
+14392.46,878.53,16.38,USA,True,Manufacturing,False,14,Ltd.,Verified
+24907.51,1903.51,13.09,Indonesia,False,Energy,False,16,PT,Verified
+104053.18,,11.87,Vietnam,True,,False,21,,Caution
+54036.77,3216.62,16.8,Indonesia,False,Energy,False,13,PT,Verified
+554844.32,49126.27,11.29,UAE,False,Consulting,False,23,Individual,Caution
+2253623.73,22199959.95,0.1,Switzerland,True,Holding Company,True,1,Foundation,High-Risk
+93915.7,,20.41,UAE,True,,True,8,,Caution
+118017.24,8891.28,13.27,Malaysia,True,Technology,False,11,CV,Verified
+486339.74,26587.25,18.29,Indonesia,True,Real Estate,False,8,Individual,Caution
+74957.67,4582.48,16.36,Singapore,False,Energy,False,16,PT,Verified
+12861.73,770.57,16.69,USA,False,Technology,False,11,Ltd.,Verified
+16477.11,1067.69,15.43,Indonesia,False,Energy,False,14,PT,Verified
+46441543.02,335416067.14,0.14,UAE,True,Luxury Goods,True,4,Foundation,High-Risk
+8239.24,601.94,13.69,Malaysia,True,Energy,False,17,PT,Verified
+4513159.47,9829284.78,0.46,Cayman Islands,True,Luxury Goods,False,4,Foundation,High-Risk
+32061.25,1880.8,17.05,Singapore,False,Forestry,False,11,PT,Verified
+140615.32,12686.46,11.08,Indonesia,False,Energy,False,13,PT,Verified
+56316.49,3680.37,15.3,Singapore,True,Agriculture,False,16,CV,Verified
+58383.58,4476.85,13.04,Indonesia,False,Agriculture,False,11,PT,Verified
+366424.83,15890.67,23.06,China,False,Real Estate,True,19,PT,Caution
+7062.89,356.65,19.8,Indonesia,False,Energy,False,15,PT,Verified
+793436.62,36187.52,21.93,Indonesia,False,Consulting,False,22,PT,Caution
+74015.24,4557.6,16.24,Indonesia,False,Energy,False,17,PT,Verified
+5855.52,366.64,15.97,Malaysia,False,Forestry,False,11,PT,Verified
+319179.25,23052.5,13.85,Vietnam,True,Consulting,False,8,PT.,Caution
+3097.03,220.49,14.05,Singapore,True,Manufacturing,False,17,CV,Verified
+26634.63,1860.04,14.32,Indonesia,False,Agriculture,False,12,PT,Verified
+30173.13,1901.29,15.87,Indonesia,False,Energy,False,13,PT,Verified
+23159.62,1809.27,12.8,Indonesia,False,Energy,False,11,PT,Verified
+18679.58,1071.37,17.44,Malaysia,True,Energy,False,11,CV,Verified
+12370.54,936.89,13.2,Singapore,False,Agriculture,False,13,Ltd.,Verified
+17166.16,1080.25,15.89,USA,False,Manufacturing,False,12,CV,Verified
+39078.18,3103.59,12.59,Indonesia,False,Agriculture,False,10,PT,Verified
+402677.95,1888179.06,0.21,Switzerland,True,Holding Company,True,3,Individual,High-Risk
+64917.97,5740.01,11.31,Indonesia,False,Forestry,False,13,CV,Verified
+15724.21,878.81,17.89,Indonesia,False,Manufacturing,False,9,PT,Verified
+40647.26,2476.36,16.41,USA,False,Manufacturing,False,9,CV,Verified
+38429.61,1978.84,19.42,Singapore,False,Manufacturing,False,15,CV,Verified
+56054.02,3331.41,16.83,Indonesia,False,Real Estate,False,6,Foundation,Caution
+4532.29,428.33,10.58,Indonesia,False,Energy,False,14,PT,Verified
+22978.5,,11.29,Indonesia,False,,False,11,,Verified
+10818.87,884.23,12.24,Indonesia,False,Manufacturing,False,14,CV,Verified
+15876.2,1505.24,10.55,Malaysia,False,Agriculture,False,9,PT,Verified
+90104.11,6919.83,13.02,Singapore,False,Manufacturing,False,16,PT,Verified
+56399.67,3851.76,14.64,UAE,True,Real Estate,True,18,Foundation,Caution
+26331.49,1573.02,16.74,Indonesia,True,Manufacturing,False,11,PT,Verified
+35941.19,2226.17,16.14,Malaysia,False,Agriculture,False,10,PT,Verified
+2803.02,192.88,14.53,Indonesia,False,Energy,False,16,PT,Verified
+292737.11,939604.44,0.31,UAE,True,Holding Company,True,1,Foundation,High-Risk
+43689.84,2358.18,18.53,Indonesia,True,Technology,False,18,Individual,Caution
+70062936.69,295392310.09,0.24,Cayman Islands,True,Holding Company,True,2,Foundation,High-Risk
+34846.35,3725.26,9.35,Singapore,True,Consulting,True,23,Individual,Caution
+7909.63,654.98,12.08,Indonesia,False,Agriculture,False,14,PT,Verified
+57135.75,4961.85,11.52,Indonesia,True,Manufacturing,False,13,CV,Verified
+106770.83,6813.42,15.67,USA,False,Energy,False,10,CV,Verified
+146236.69,8672.78,16.86,Indonesia,False,Forestry,False,13,Ltd.,Verified
+246689.07,24461.3,10.08,Singapore,False,Manufacturing,False,16,CV,Verified
+5699.33,372.18,15.31,Indonesia,True,Forestry,False,17,Ltd.,Verified
+41330.9,2719.15,15.2,Indonesia,False,Manufacturing,False,11,PT,Verified
+17211.72,,13.98,UK,False,,False,15,,Verified
+57399.76,2921.91,19.64,Indonesia,False,Technology,False,17,PT,Verified
+7642.65,394.39,19.38,Indonesia,False,Agriculture,False,13,PT,Verified
+8226.09,605.68,13.58,Indonesia,False,Agriculture,False,10,PT,Verified
+24564.2,1715.05,14.32,Indonesia,False,Energy,False,10,CV,Verified
+335344.2,17611.58,19.04,China,False,Consulting,False,6,PT,Caution
+6257.56,375.58,16.66,Indonesia,False,Energy,False,14,PT,Verified
+5081.53,305.57,16.63,Indonesia,False,Technology,False,10,PT,Verified
+33481268.5,99337945.6,0.34,Panama,True,Holding Company,True,0,LLC,High-Risk
+10295.04,729.28,14.12,Indonesia,False,Energy,False,9,PT,Verified
+846241.45,38510.39,21.97,Vietnam,True,Technology,False,19,PT,Caution
+23113.01,1717.94,13.45,Singapore,False,Agriculture,False,10,PT,Verified
+36596.81,2751.82,13.3,Indonesia,False,Technology,False,13,PT,Verified
+78032.82,471136.18,0.17,Panama,True,Holding Company,True,5,Individual,High-Risk
+129035.22,5332.44,24.2,Indonesia,True,Holding Company,False,21,Individual,Caution
+57526.05,3507.04,16.4,Indonesia,False,Energy,False,17,PT,Verified
+10657.05,635.1,16.78,Singapore,False,Technology,False,16,PT.,Verified
+159554.15,8413.14,18.96,Singapore,False,Manufacturing,False,9,PT,Verified
+17091.73,1381.24,12.37,Indonesia,False,Technology,False,10,CV,Verified
+3228832.53,12440267.3,0.26,Cayman Islands,True,Luxury Goods,True,3,Individual,High-Risk
+375056.85,42494.87,8.83,UAE,True,Consulting,False,8,Foundation,Caution
+8505.65,470.96,18.06,Indonesia,False,Technology,False,16,PT,Verified
+378229.78,38646.64,9.79,Indonesia,False,Consulting,True,7,Individual,Caution
+227319587.24,912646210.08,0.25,Panama,True,Holding Company,True,2,Individual,High-Risk
+18482.09,,18.74,USA,False,,False,15,,Verified
+134156.66,8197.47,16.37,Vietnam,True,Real Estate,False,8,PT,Caution
+8018.71,762.27,10.52,Indonesia,False,Forestry,False,13,PT,Verified
+13821.81,1015.39,13.61,Indonesia,True,Manufacturing,False,12,PT,Verified
+35797.99,2338.12,15.31,Indonesia,False,Manufacturing,False,13,PT,Verified
+1630369.33,3430238.18,0.48,Cayman Islands,True,Holding Company,True,0,Foundation,High-Risk
+8295.76,580.74,14.28,USA,False,Agriculture,False,13,CV,Verified
+4716.07,313.89,15.02,Indonesia,False,Technology,False,10,PT,Verified
+3390179.77,8299978.52,0.41,Cayman Islands,True,Holding Company,True,3,Individual,High-Risk
+61565.75,3194.13,19.27,Indonesia,False,Technology,False,10,Ltd.,Verified
+23107.85,1606.33,14.39,Malaysia,False,Agriculture,False,10,PT,Verified
+21489.9,1124.95,19.1,USA,False,Agriculture,False,13,PT,Verified
+27167.83,1448.6,18.75,Indonesia,False,Manufacturing,False,14,PT,Verified
+148574.97,10416.0,14.26,Singapore,False,Energy,False,12,PT,Verified
+12812140.71,74148196.08,0.17,Panama,True,Holding Company,True,2,LLC,High-Risk
+67545.86,3566.55,18.94,UK,True,Energy,False,9,PT,Verified
+14778.58,951.32,15.53,Indonesia,False,Technology,False,14,CV,Verified
+57790.14,3852.01,15.0,USA,True,Technology,False,12,CV,Verified
+9730.7,626.68,15.53,Malaysia,False,Agriculture,False,11,PT,Verified
+12424.21,1150.84,10.8,USA,False,Manufacturing,False,11,PT,Verified
+356415.16,26648.84,13.37,Vietnam,True,Holding Company,False,6,Foundation,Caution
+83500.2,4505.45,18.53,USA,False,Technology,False,12,PT,Verified
+3523.82,207.03,17.02,Indonesia,False,Energy,False,10,PT.,Verified
+40435.61,2985.26,13.55,Indonesia,False,Technology,False,9,PT,Verified
+3551.54,234.01,15.18,Indonesia,False,Energy,False,10,PT,Verified
+14865.65,1270.36,11.7,Indonesia,False,Forestry,False,9,PT.,Verified
+77522.28,4500.19,17.23,Singapore,True,Manufacturing,False,13,PT,Verified
+86860.89,6196.49,14.02,Indonesia,True,Manufacturing,False,10,PT,Verified
+2938759.47,13372008.61,0.22,Cayman Islands,True,Luxury Goods,True,3,Individual,High-Risk
+50081.44,2354.21,21.27,Indonesia,True,Real Estate,True,7,PT,Caution
+333713.88,17412.63,19.17,Indonesia,False,Consulting,True,22,PT,Caution
+2928.22,159.01,18.42,Indonesia,False,Technology,False,12,PT.,Verified
+52724.94,3166.5,16.65,Indonesia,False,Energy,False,11,PT,Verified
+5799.39,362.96,15.98,Malaysia,True,Energy,False,11,PT,Verified
+48985.48,127652.74,0.38,UAE,True,Holding Company,True,5,Foundation,High-Risk
+5615770.26,12385017.69,0.45,Panama,True,Holding Company,True,2,Individual,High-Risk
+74334.99,4182.87,17.77,Indonesia,False,Technology,False,15,PT,Verified
+12263.22,749.81,16.36,Singapore,True,Consulting,True,22,Foundation,Caution
+27361.13,2043.65,13.39,UK,False,Manufacturing,False,13,PT,Verified
+48720.84,2749.35,17.72,USA,True,Energy,False,10,CV,Verified
+65879.98,4755.46,13.85,Indonesia,True,Energy,False,17,PT,Verified
+67078.19,4280.68,15.67,Malaysia,False,Manufacturing,False,12,CV,Verified
+304098.49,15701.78,19.37,Singapore,True,Holding Company,False,23,Foundation,Caution
+34016.44,3013.17,11.29,Indonesia,False,Consulting,False,20,Foundation,Caution
+6435.31,589.32,10.92,Indonesia,True,Energy,False,17,PT,Verified
+41877.53,2481.75,16.87,Indonesia,False,Technology,False,14,PT,Verified
+2505.22,137.81,18.18,Indonesia,True,Agriculture,False,11,PT,Verified
+22018.2,1116.43,19.72,Indonesia,False,Agriculture,False,9,PT,Verified
+43908.8,2911.05,15.08,USA,False,Forestry,False,15,PT,Verified
+1231811.79,2988209.95,0.41,Panama,True,Holding Company,True,4,Individual,High-Risk
+6786.15,496.48,13.67,Indonesia,False,Agriculture,False,12,CV,Verified
+4430.41,346.62,12.78,Singapore,False,Agriculture,False,12,PT,Verified
+68583.06,4364.99,15.71,Singapore,False,Manufacturing,False,10,CV,Verified
+11356.29,670.27,16.94,Singapore,False,Agriculture,False,16,PT,Verified
+21130.71,1336.76,15.81,Indonesia,False,Manufacturing,False,13,PT,Verified
+107153.13,9843.22,10.89,Singapore,False,Manufacturing,False,16,CV,Verified
+1890695.72,212079.06,8.92,Vietnam,True,Real Estate,False,21,Individual,Caution
+10198.64,565.45,18.04,Malaysia,False,Energy,False,16,PT,Verified
+56342.73,3764.34,14.97,China,True,Holding Company,False,8,Foundation,Caution
+18343.59,970.12,18.91,UK,False,Energy,False,15,PT,Verified
+13851.27,938.37,14.76,Indonesia,False,Manufacturing,False,17,PT,Verified
+26962.46,1820.92,14.81,Malaysia,False,Technology,False,9,PT,Verified
+8120.95,644.66,12.6,China,False,Holding Company,False,21,Individual,Caution
+6691.59,367.69,18.2,Indonesia,False,Energy,False,12,PT,Verified
+10037.6,574.55,17.47,Indonesia,True,Energy,False,14,CV,Verified
+69741.95,4849.06,14.38,Indonesia,False,Manufacturing,False,9,PT,Verified
+283815.86,608068.95,0.47,Cayman Islands,True,Real Estate,True,4,Foundation,High-Risk
+353154.26,1174023.66,0.3,UAE,True,Consulting,True,5,LLC,High-Risk
+127415.62,9648.25,13.21,Indonesia,True,Real Estate,True,18,Individual,Caution
+44180.91,3102.97,14.24,USA,True,Technology,False,11,CV,Verified
+15940.14,1217.31,13.09,Indonesia,False,Agriculture,False,13,PT,Verified
+143294.93,11309.21,12.67,Indonesia,False,Manufacturing,False,15,PT,Verified
+21463.31,1247.51,17.2,Indonesia,False,Agriculture,False,9,PT,Verified
+425518.67,892581.03,0.48,Panama,True,Holding Company,True,1,Individual,High-Risk
+30523.32,2831.93,10.78,Singapore,False,Manufacturing,False,17,PT,Verified
+34120.82,2579.56,13.23,Malaysia,False,Agriculture,False,12,CV,Verified
+18623.02,1053.73,17.67,Indonesia,True,Energy,False,17,PT,Verified
+31262.0,1792.41,17.44,Indonesia,True,Energy,False,9,Ltd.,Verified
+12659.16,1196.43,10.58,USA,False,Manufacturing,False,15,PT.,Verified
+18577.31,1248.76,14.88,Indonesia,False,Technology,False,9,PT,Verified
+30179.34,1787.09,16.89,Indonesia,False,Energy,False,10,Ltd.,Verified
+1033901.65,48478.36,21.33,Indonesia,False,Real Estate,False,23,PT,Caution
+20360794.42,40908524.08,0.5,Cayman Islands,True,Holding Company,True,1,Foundation,High-Risk
+12771.73,692.89,18.43,Indonesia,True,Technology,False,15,CV,Verified
+11161.49,564.2,19.78,UK,False,Technology,False,15,PT,Verified
+198729.67,695428.28,0.29,Switzerland,True,Holding Company,True,4,Individual,High-Risk
+17762.89,1140.4,15.58,Indonesia,False,Energy,False,15,PT,Verified
+10179.51,644.65,15.79,Indonesia,True,Forestry,False,12,PT,Verified
+5540.85,357.16,15.51,Indonesia,False,Energy,False,11,PT,Verified
+27131.83,2372.87,11.43,Indonesia,False,Energy,False,11,PT,Verified
+156472.47,12115.4,12.92,Vietnam,True,Technology,True,22,Foundation,Caution
+43086.52,2826.43,15.24,Indonesia,False,Agriculture,False,17,PT,Verified
+3827.1,,13.31,Singapore,False,,False,10,,Verified
+20642.91,1639.28,12.59,Indonesia,False,Energy,False,13,PT,Verified
+28975.01,2285.63,12.68,Indonesia,False,Agriculture,False,16,PT,Verified
+58269.24,2350.48,24.79,Indonesia,False,Technology,True,18,Foundation,Caution
+16182.03,1051.32,15.39,Singapore,False,Forestry,False,9,CV,Verified
+8323.57,426.85,19.5,Indonesia,False,Forestry,False,15,PT,Verified
+57562.36,5189.87,11.09,Malaysia,False,Energy,False,13,PT,Verified
+13888.0,1070.48,12.97,Indonesia,False,Technology,False,17,CV,Verified
+63149.52,3888.22,16.24,Indonesia,False,Technology,False,11,PT,Verified
+545784.49,28265.17,19.31,Vietnam,False,Real Estate,False,18,PT,Caution
+95057.61,5155.51,18.44,Indonesia,False,Technology,False,12,PT,Verified
+123656.96,8152.12,15.17,Indonesia,False,Technology,False,15,CV,Verified
+26162.36,2602.86,10.05,USA,False,Forestry,False,9,PT,Verified
+173846.82,19115.14,9.09,Singapore,True,Holding Company,False,18,Foundation,Caution
+3164.28,,13.69,UK,True,,False,15,,Verified
+24664.78,2247.22,10.98,Indonesia,True,Technology,False,22,Foundation,Caution
+9469.77,611.31,15.49,USA,False,Manufacturing,False,9,PT,Verified
+116445.65,5897.73,19.74,China,False,Real Estate,True,18,Foundation,Caution
+4182.29,380.71,10.99,Singapore,False,Manufacturing,False,16,PT,Verified
+9080.42,606.32,14.98,USA,False,Energy,False,13,CV,Verified
+30786.9,1693.31,18.18,USA,False,Technology,False,17,PT,Verified
+293435.13,13722.42,21.38,China,True,Consulting,False,6,Foundation,Caution
+20809.99,1048.65,19.84,USA,False,Energy,False,12,PT,Verified
+188047.1,,15.62,Indonesia,True,,False,20,,Caution
+6165.41,499.03,12.35,Indonesia,False,Manufacturing,False,15,Ltd.,Verified
+10592.89,576.16,18.39,Singapore,False,Technology,False,11,PT,Verified
+12117.82,,10.58,USA,False,,False,9,,Verified
+34114.27,2664.64,12.8,Malaysia,False,Agriculture,False,16,Ltd.,Verified
+6170.42,384.55,16.05,UK,True,Manufacturing,False,13,PT.,Verified
+96509.37,8420.25,11.46,Malaysia,False,Manufacturing,False,11,PT,Verified
+52375.3,3073.35,17.04,Indonesia,False,Forestry,False,16,PT,Verified
+8308.64,589.23,14.1,Malaysia,False,Manufacturing,False,10,PT,Verified
+951179.64,3924901.32,0.24,Panama,True,Holding Company,True,0,Individual,High-Risk
+21146.94,,13.96,Indonesia,False,,False,10,,Verified
+16381826.06,80427859.31,0.2,UAE,True,Luxury Goods,True,0,Foundation,High-Risk
+45914.65,2733.04,16.8,Indonesia,True,Manufacturing,False,13,PT,Verified
+7487.29,,19.59,Indonesia,False,,False,14,,Verified
+110094.64,9130.19,12.06,UAE,True,Consulting,True,6,PT,Caution
+11532.57,925.62,12.46,Indonesia,False,Agriculture,False,14,PT,Verified
+6199.44,541.18,11.46,Indonesia,False,Technology,False,16,PT,Verified
+5558.57,474.38,11.72,UK,False,Energy,False,13,PT,Verified
+9244.24,572.74,16.14,Singapore,True,Forestry,False,10,PT,Verified
+24268.56,2194.41,11.06,Indonesia,True,Manufacturing,False,9,CV,Verified
+49938.41,3411.04,14.64,Indonesia,False,Manufacturing,False,15,PT,Verified
+16124.37,888.31,18.15,Singapore,False,Manufacturing,False,11,PT,Verified
+91042.03,5162.2,17.64,Indonesia,False,Technology,False,16,CV,Verified
+95208.04,6823.37,13.95,Malaysia,False,Forestry,False,13,PT.,Verified
+23019.6,1167.04,19.72,Indonesia,False,Energy,False,9,PT,Verified
+92103.36,4941.51,18.64,Indonesia,False,Agriculture,False,9,Ltd.,Verified
+14999.61,1454.55,10.31,UK,False,Technology,False,17,PT,Verified
+31022.8,2818.01,11.01,USA,False,Agriculture,False,11,CV,Verified
+227320.08,18796.47,12.09,China,True,Real Estate,True,18,PT,Caution
+40546.47,3877.52,10.46,Indonesia,False,Agriculture,False,16,CV,Verified
+29613.03,1911.01,15.5,UK,False,Forestry,False,10,PT,Verified
+23234.07,943.84,24.62,China,True,Holding Company,True,18,Foundation,Caution
+49965.76,3399.27,14.7,Malaysia,False,Energy,False,17,Ltd.,Verified
+1753483.05,76859.73,22.81,Vietnam,False,Consulting,False,6,PT,Caution
+2648.8,188.71,14.04,USA,False,Energy,False,11,PT,Verified
+13895.47,916.58,15.16,USA,True,Manufacturing,False,16,PT,Verified
+17415.66,,12.43,Indonesia,False,,False,12,,Verified
+172259.57,12623.46,13.65,Singapore,False,Real Estate,True,6,PT,Caution
+14091.04,1007.78,13.98,Singapore,False,Agriculture,False,10,CV,Verified
+10071.46,609.46,16.53,Indonesia,False,Energy,False,15,Ltd.,Verified
+203010.1,,0.49,Panama,True,,True,2,,High-Risk
+24024.77,1930.34,12.45,China,False,Consulting,False,20,Individual,Caution
+8357.0,445.67,18.75,Singapore,False,Energy,False,17,CV,Verified
+43614.53,2321.3,18.79,Indonesia,False,Energy,False,10,PT,Verified
+100022.87,5320.44,18.8,UAE,True,Consulting,True,20,PT,Caution
+41848.52,2905.39,14.4,Indonesia,False,Manufacturing,False,14,PT,Verified
+83084.03,5588.43,14.87,Indonesia,False,Technology,False,12,PT,Verified
+33250.18,72296.22,0.46,Panama,True,Luxury Goods,True,1,LLC,High-Risk
+12043.89,815.09,14.78,Indonesia,True,Technology,False,10,PT,Verified
+7659.67,391.11,19.58,USA,False,Energy,False,13,PT,Verified
+2061801.27,8849325.68,0.23,Cayman Islands,True,Luxury Goods,True,3,Foundation,High-Risk
+500569.52,28224.65,17.74,China,False,Real Estate,True,6,PT,Caution
+16660.45,1010.27,16.49,Indonesia,True,Forestry,False,10,Ltd.,Verified
+6324.73,,16.27,Indonesia,False,,False,12,,Verified
+52556.64,5163.86,10.18,Indonesia,False,Technology,False,12,PT,Verified
+45287.9,,13.24,Singapore,True,,False,9,,Verified
+10460.05,569.55,18.37,Indonesia,False,Manufacturing,False,14,PT,Verified
+20698.81,1538.07,13.46,USA,False,Manufacturing,False,12,PT,Verified
+79315.23,7312.42,10.85,Indonesia,True,Energy,False,10,PT,Verified
+30329.94,1999.65,15.17,Indonesia,False,Technology,False,9,Ltd.,Verified
+441048.48,25394.05,17.37,Indonesia,True,Consulting,False,19,PT,Caution
+1496862.35,3225247.99,0.46,Panama,True,Holding Company,True,1,LLC,High-Risk
+135395.95,10992.23,12.32,Singapore,False,Technology,False,16,PT,Verified
+14433.32,1301.67,11.09,USA,False,Technology,False,15,PT,Verified
+46027.24,3413.87,13.48,USA,False,Agriculture,False,12,CV,Verified
+23033.57,2054.21,11.21,UK,True,Energy,False,16,PT.,Verified
+101310.08,9609.51,10.54,Malaysia,False,Energy,False,15,CV,Verified
+22875.0,1422.06,16.09,Indonesia,False,Agriculture,False,15,CV,Verified
+154427724.19,362831415.21,0.43,Cayman Islands,True,Holding Company,True,5,LLC,High-Risk
+32403.71,1813.12,17.87,Indonesia,False,Manufacturing,False,12,PT,Verified
+78037.31,4490.72,17.38,USA,False,Manufacturing,False,14,PT,Verified
+17635.97,,18.21,Malaysia,True,,False,9,,Verified
+2089.2,162.54,12.85,Indonesia,True,Agriculture,False,13,PT,Verified
+152993.0,331026.13,0.46,UAE,True,Luxury Goods,False,1,LLC,High-Risk
+106945.47,9135.64,11.71,Indonesia,False,Real Estate,False,19,Foundation,Caution
+9358.15,525.67,17.8,Singapore,False,Manufacturing,False,16,CV,Verified
+382791.13,27108.57,14.12,Indonesia,True,Consulting,True,23,Individual,Caution
+116096.56,5548.16,20.93,Vietnam,True,Real Estate,False,6,Foundation,Caution
+18254.4,1228.79,14.86,UK,False,Technology,False,13,PT,Verified
+1164683.32,60774.26,19.16,China,False,Technology,True,18,Foundation,Caution
+50335.85,3412.63,14.75,Indonesia,False,Manufacturing,False,15,Ltd.,Verified
+18613.23,1015.57,18.33,Singapore,False,Manufacturing,False,13,PT,Verified
+27621.25,1417.79,19.48,USA,True,Manufacturing,False,12,Ltd.,Verified
+311279.34,22937.18,13.57,Singapore,False,Real Estate,False,18,PT.,Caution
+49617.69,4057.43,12.23,Indonesia,False,Technology,False,17,CV,Verified
+5348.02,289.06,18.5,Malaysia,False,Agriculture,False,11,PT,Verified
+8934.78,,12.66,Indonesia,False,,False,16,,Verified
+16536.32,1203.51,13.74,Indonesia,False,Energy,False,13,PT,Verified
+23101.1,1490.67,15.5,Singapore,True,Energy,False,12,PT,Verified
+3559.65,350.43,10.16,Malaysia,False,Forestry,False,11,CV,Verified
+110962.62,9166.97,12.1,Indonesia,False,Forestry,False,11,PT,Verified
+60547.42,4756.06,12.73,Indonesia,True,Energy,False,11,PT,Verified
+11641.81,1105.22,10.53,Indonesia,False,Agriculture,False,14,CV,Verified
+26896.71,1524.22,17.65,Singapore,False,Agriculture,False,10,CV,Verified
+7383.89,439.38,16.81,UK,True,Agriculture,False,16,PT,Verified
+18962.52,1310.33,14.47,Indonesia,False,Manufacturing,False,15,PT,Verified
+20648.99,1386.93,14.89,Indonesia,False,Manufacturing,False,11,Ltd.,Verified
+67161.02,3377.28,19.89,Indonesia,False,Manufacturing,False,15,CV,Verified
+3005.27,269.39,11.16,Indonesia,False,Energy,False,11,PT,Verified
+19815.75,,10.67,UK,False,,False,16,,Verified
+448234.26,28829.56,15.55,China,False,Consulting,False,23,Foundation,Caution
+13788.87,775.16,17.79,Malaysia,False,Manufacturing,False,15,Ltd.,Verified
+21275.21,1803.09,11.8,Indonesia,False,Energy,False,15,PT,Verified
+31710.39,2369.59,13.38,Singapore,True,Manufacturing,False,9,PT,Verified
+389206.76,1489359.26,0.26,UAE,True,Luxury Goods,True,2,Individual,High-Risk
+64199.32,3359.75,19.11,Indonesia,False,Energy,False,16,PT,Verified
+4097.16,393.58,10.41,Indonesia,False,Technology,False,17,CV,Verified
+29915.8,2110.47,14.17,Malaysia,True,Energy,False,16,PT,Verified
+10684.48,706.88,15.11,Indonesia,False,Technology,False,11,PT,Verified
+17589.76,1135.61,15.49,Indonesia,False,Energy,False,17,PT,Verified
+41452.17,2088.54,19.85,Indonesia,False,Manufacturing,False,10,PT,Verified
+64737.99,3836.37,16.87,Indonesia,False,Energy,False,11,PT,Verified
+1761.01,106.18,16.59,Indonesia,False,Energy,False,14,PT,Verified
+1368629.19,81572.55,16.78,Indonesia,True,Consulting,False,20,PT,Caution
+91700.5,6170.81,14.86,Indonesia,False,Manufacturing,False,15,PT,Verified
+48684.31,2620.66,18.58,Indonesia,False,Energy,False,14,PT,Verified
+8340.75,645.09,12.93,Singapore,False,Manufacturing,False,13,PT,Verified
+49419.9,4798.96,10.3,Indonesia,False,Technology,False,10,PT,Verified
+782201.74,34101.3,22.94,China,True,Technology,False,23,PT,Caution
+19056.24,1712.21,11.13,Indonesia,False,Energy,False,14,PT,Verified
+6369.69,319.2,19.96,Indonesia,False,Manufacturing,False,14,PT,Verified
+5915.34,366.97,16.12,Indonesia,False,Energy,False,14,CV,Verified
+9137.1,472.87,19.32,Singapore,False,Forestry,False,16,CV,Verified
+15891.51,1014.29,15.67,Indonesia,False,Manufacturing,False,9,PT.,Verified
+453825.31,,17.08,Singapore,False,,False,11,,Verified
+64959449.43,250637577.34,0.26,Cayman Islands,True,Holding Company,True,5,Foundation,High-Risk
+18927.67,1672.55,11.32,Indonesia,False,Forestry,False,9,Ltd.,Verified
+62578.54,,14.16,Indonesia,False,,False,12,,Verified
+5030.27,358.06,14.05,Singapore,False,Agriculture,False,10,PT,Verified
+18491.76,1000.87,18.48,Indonesia,False,Manufacturing,False,17,PT,Verified
+9996.63,774.45,12.91,Malaysia,False,Technology,False,15,CV,Verified
+19611.86,1514.31,12.95,Singapore,True,Energy,False,11,PT,Verified
+202101.64,18293.77,11.05,Indonesia,False,Manufacturing,False,15,PT,Verified
+80159.79,4943.63,16.21,Singapore,False,Manufacturing,False,17,PT,Verified
+17706744.77,45432110.07,0.39,Cayman Islands,True,Luxury Goods,True,5,Foundation,High-Risk
+7715.87,429.76,17.95,Indonesia,False,Manufacturing,False,16,PT,Verified
+3096.39,221.39,13.99,Indonesia,True,Energy,False,12,PT,Verified
+729739.71,1636907.47,0.45,Panama,True,Consulting,True,0,Individual,High-Risk
+1064020.78,5487547.64,0.19,Panama,True,Consulting,True,0,LLC,High-Risk
+10668241.93,24459784.59,0.44,UAE,True,Consulting,True,0,Foundation,High-Risk
+53847.59,5325.95,10.11,Indonesia,False,Energy,False,14,PT,Verified
+10973.48,754.38,14.55,Indonesia,True,Energy,False,9,PT,Verified
+143219.82,8806.59,16.26,Indonesia,False,Manufacturing,False,16,Ltd.,Verified
+37909.18,,15.09,Indonesia,False,,False,13,,Verified
+20422.01,1659.21,12.31,Malaysia,False,Agriculture,False,10,PT.,Verified
+31057.75,2326.25,13.35,Indonesia,False,Energy,False,12,CV,Verified
+3720.5,221.23,16.82,Indonesia,False,Energy,False,17,PT,Verified
+7699.62,479.41,16.06,USA,False,Manufacturing,False,9,PT,Verified
+150064.5,10153.24,14.78,USA,False,Forestry,False,11,Ltd.,Verified
+10087.89,686.82,14.69,Indonesia,False,Technology,False,12,PT,Verified
+3546.73,245.73,14.43,Indonesia,True,Energy,False,13,CV,Verified
+8284.48,515.99,16.06,Singapore,False,Energy,False,17,PT,Verified
+926146.2,93206.87,9.94,China,True,Technology,True,8,PT,Caution
+6085.93,382.95,15.89,Indonesia,True,Energy,False,10,CV,Verified
+1424004.84,97799.4,14.56,Indonesia,True,Holding Company,True,20,PT,Caution
+23632.48,1583.36,14.93,Indonesia,True,Technology,False,16,PT,Verified
+12729.7,715.45,17.79,Singapore,False,Agriculture,False,10,PT,Verified
+14516.44,981.62,14.79,Malaysia,False,Energy,False,16,PT,Verified
+48642.17,4670.96,10.41,UK,False,Energy,False,16,PT,Verified
+23196.71,1881.8,12.33,Indonesia,False,Technology,False,15,PT,Verified
+167851.68,8358.89,20.08,Indonesia,True,Real Estate,False,8,Foundation,Caution
+7827.19,338.98,23.09,China,False,Consulting,False,22,Foundation,Caution
+20032.73,1868.01,10.72,Singapore,False,Forestry,False,16,CV,Verified
+39257.92,2072.81,18.94,Indonesia,False,Technology,False,15,PT,Verified
+29144.51,1956.12,14.9,Indonesia,False,Energy,False,12,CV,Verified
+5928099.04,14945389.73,0.4,Switzerland,True,Luxury Goods,True,2,Foundation,High-Risk
+192907.99,14531.96,13.27,Singapore,False,Real Estate,False,8,PT,Caution
+163197.84,579672.41,0.28,Switzerland,True,Holding Company,True,2,Individual,High-Risk
+10648.37,578.64,18.4,Indonesia,False,Energy,False,14,PT,Verified
+33058.81,2592.29,12.75,Indonesia,False,Technology,False,9,PT,Verified
+10239797.96,50576876.41,0.2,UAE,True,Consulting,True,1,Individual,High-Risk
+814998.79,72574.88,11.23,Singapore,True,Real Estate,True,21,Individual,Caution
+5783.32,289.45,19.98,Malaysia,False,Energy,False,14,PT,Verified
+22531.22,1226.79,18.37,Singapore,False,Energy,False,16,PT,Verified
+32880.79,1929.94,17.04,Indonesia,False,Manufacturing,False,14,PT,Verified
+7190.97,522.85,13.75,Indonesia,False,Manufacturing,False,10,Ltd.,Verified
+14085.94,1154.48,12.2,Indonesia,False,Energy,False,11,CV,Verified
+19871.57,2021.92,9.83,Indonesia,False,Real Estate,False,6,Individual,Caution
+18652.66,1004.51,18.57,USA,True,Manufacturing,False,17,PT,Verified
+16859.34,1109.64,15.19,USA,False,Energy,False,12,PT,Verified
+23888277.93,55468682.14,0.43,Panama,True,Holding Company,True,1,LLC,High-Risk
+28008.75,1843.48,15.19,Indonesia,False,Manufacturing,False,15,PT,Verified
+7272.49,388.95,18.7,Indonesia,False,Agriculture,False,9,PT,Verified
+232883.9,20970.43,11.11,Indonesia,True,Energy,False,9,PT,Verified
+122038.68,5732.69,21.29,UAE,False,Holding Company,False,22,Individual,Caution
+56474.14,5495.23,10.28,Indonesia,True,Manufacturing,False,12,PT,Verified
+26800.73,1466.82,18.27,Indonesia,False,Manufacturing,False,12,PT,Verified
+37354.86,3608.78,10.35,Indonesia,False,Technology,False,14,CV,Verified
+2157734.2,180996.97,11.92,China,True,Technology,False,8,PT,Caution
+36627.75,2899.42,12.63,Indonesia,False,Energy,False,12,PT,Verified
+21983.32,2119.59,10.37,Indonesia,False,Manufacturing,False,17,PT,Verified
+32016.1,2357.39,13.58,Indonesia,False,Manufacturing,False,13,PT,Verified
+38658.72,3094.35,12.49,Malaysia,False,Manufacturing,False,16,CV,Verified
+7466.21,379.75,19.66,USA,False,Agriculture,False,17,CV,Verified
+3483.75,229.67,15.17,Indonesia,False,Technology,False,12,CV,Verified
+25412.32,1822.57,13.94,Singapore,False,Agriculture,False,15,PT,Verified
+47353.16,2056.75,23.02,China,True,Holding Company,False,8,PT,Caution
+52056.22,3010.09,17.29,Indonesia,False,Forestry,False,17,PT,Verified
+18505.14,1221.7,15.15,Singapore,False,Technology,False,15,Ltd.,Verified
+54311.84,4016.24,13.52,Indonesia,False,Agriculture,False,14,PT,Verified
+35261.03,2204.27,16.0,Indonesia,False,Holding Company,True,8,Individual,Caution
+156926.55,,12.23,Indonesia,False,,False,12,,Verified
+51899.68,2976.09,17.44,Indonesia,False,Agriculture,False,11,PT,Verified
+15037.17,964.45,15.59,Indonesia,False,Energy,False,17,PT,Verified
+16932.64,1235.61,13.7,Singapore,False,Technology,False,9,CV,Verified
+7564.91,722.94,10.46,Indonesia,True,Manufacturing,False,16,PT,Verified
+14418.67,984.77,14.64,Malaysia,False,Energy,False,11,PT,Verified
+1307715.38,10785806.46,0.12,Cayman Islands,True,Real Estate,True,1,Foundation,High-Risk
+14681.29,804.98,18.24,Indonesia,False,Energy,False,17,PT,Verified
+193412.95,15866.81,12.19,Singapore,True,Consulting,False,19,Individual,Caution
+19459.92,1372.0,14.18,USA,False,Agriculture,False,11,PT,Verified
+19734.27,1449.9,13.61,Indonesia,False,Energy,False,10,PT,Verified
+296682.76,17013.38,17.44,Indonesia,False,Manufacturing,False,16,Ltd.,Verified
+27833.47,1550.61,17.95,Indonesia,False,Energy,False,13,CV,Verified
+44085.24,2646.13,16.66,USA,False,Technology,False,11,PT,Verified
+24647.35,1332.6,18.5,Indonesia,False,Energy,False,16,PT,Verified
+357231.52,38511.1,9.28,UAE,True,Real Estate,True,8,Foundation,Caution
+7278772.31,16666395.61,0.44,Panama,True,Luxury Goods,True,0,LLC,High-Risk
+207476.39,11893.89,17.44,Indonesia,False,Technology,False,13,PT,Verified
+12359.17,957.5,12.91,Indonesia,True,Technology,False,12,PT,Verified
+14028.72,948.42,14.79,USA,False,Manufacturing,False,16,PT,Verified
+6329.92,469.48,13.48,Malaysia,False,Forestry,False,10,Ltd.,Verified
+140097.4,10895.93,12.86,Indonesia,False,Agriculture,False,9,PT,Verified
+495528.67,2161456.51,0.23,UAE,True,Holding Company,True,0,Individual,High-Risk
+32974.1,1717.62,19.2,Vietnam,True,Holding Company,True,6,PT,Caution
+545595.46,33621.12,16.23,Vietnam,False,Consulting,True,21,Individual,Caution
+93389.16,8036.85,11.62,Singapore,False,Manufacturing,False,16,PT,Verified
+19409.02,1307.06,14.85,Indonesia,False,Technology,False,10,PT,Verified
+22577.86,2051.74,11.0,Indonesia,False,Forestry,False,13,PT,Verified
+17317.97,1564.3,11.07,Indonesia,False,Agriculture,False,12,CV,Verified
+33182.68,2045.17,16.22,Indonesia,False,Manufacturing,False,17,PT,Verified
+283169.71,616972.64,0.46,Switzerland,True,Holding Company,False,5,Individual,High-Risk
+11405.09,720.77,15.82,Indonesia,False,Manufacturing,False,14,Ltd.,Verified
+20742.48,1411.21,14.7,Indonesia,False,Forestry,False,17,PT,Verified
+2174236.83,127416.19,17.06,UAE,True,Consulting,True,6,Foundation,Caution
+50799.55,2750.32,18.47,Indonesia,True,Manufacturing,False,16,PT,Verified
+13650.61,860.95,15.86,Indonesia,True,Energy,False,15,CV,Verified
+25912097.74,104828227.59,0.25,Cayman Islands,True,Luxury Goods,True,3,Individual,High-Risk
+16555.39,,15.28,Indonesia,False,,False,11,,Verified
+9685.23,703.31,13.77,Indonesia,False,Technology,False,9,PT,Verified
+14855.36,1132.85,13.11,Indonesia,False,Manufacturing,False,13,PT,Verified
+11148.62,1051.83,10.6,Indonesia,False,Manufacturing,False,12,PT,Verified
+15710.49,1009.5,15.56,Indonesia,False,Energy,False,17,PT,Verified
+36225.91,3502.04,10.34,UK,False,Technology,False,11,CV,Verified
+2462.62,158.06,15.58,Indonesia,False,Real Estate,False,21,PT,Caution
+335909.88,31880.79,10.54,Singapore,False,Holding Company,False,6,PT,Caution
+16510.74,1337.55,12.34,UAE,False,Technology,False,21,Foundation,Caution
+19113.28,1190.81,16.05,Singapore,False,Energy,False,11,CV,Verified
+24150.95,,13.85,UK,False,,False,10,,Verified
+8600.48,467.46,18.4,Indonesia,False,Energy,False,12,Ltd.,Verified
+23276.41,1399.19,16.64,Indonesia,True,Energy,False,16,PT,Verified
+44464.42,3784.91,11.75,Indonesia,False,Agriculture,False,9,PT,Verified
+3517.97,207.31,16.97,USA,True,Manufacturing,False,15,PT,Verified
+263142.33,10567.22,24.9,Indonesia,False,Consulting,False,6,Individual,Caution
+21882.78,1351.02,16.2,UK,True,Energy,False,17,PT,Verified
+104785.2,4654.95,22.51,UAE,True,Real Estate,False,7,Foundation,Caution
+881796.47,76354.04,11.55,Vietnam,True,Consulting,True,19,PT,Caution
+26914.13,1966.96,13.68,Indonesia,False,Forestry,False,11,PT,Verified
+270850.2,13944.21,19.42,Indonesia,False,Technology,False,16,CV,Verified
+35251.31,2780.85,12.68,Indonesia,False,Manufacturing,False,13,CV,Verified
+34132.19,2243.89,15.21,USA,True,Forestry,False,10,PT,Verified
+1210554.5,66553.84,18.19,Singapore,True,Real Estate,True,21,PT,Caution
+7357.38,586.2,12.55,Singapore,False,Technology,False,15,PT,Verified
+46277.57,3923.94,11.79,Singapore,False,Energy,False,15,PT,Verified
+8201.23,816.75,10.04,Indonesia,False,Technology,False,17,CV,Verified
+30957.35,2508.04,12.34,Indonesia,False,Manufacturing,False,10,PT,Verified
+117403.11,7065.66,16.62,Indonesia,False,Energy,False,15,CV,Verified
+667910.86,1451490.16,0.46,Panama,True,Holding Company,True,0,Foundation,High-Risk
+214682.45,11007.07,19.5,Indonesia,False,Forestry,False,17,PT,Verified
+9362.29,566.1,16.54,Indonesia,False,Manufacturing,False,14,Ltd.,Verified
+97980.39,5843.98,16.77,Indonesia,True,Manufacturing,False,9,PT,Verified
+29950.06,1551.09,19.31,Malaysia,False,Energy,False,14,PT,Verified
+15307.89,982.0,15.59,Indonesia,False,Energy,False,10,CV,Verified
+30154.61,2059.62,14.64,Malaysia,False,Agriculture,False,14,Ltd.,Verified
+589779.85,26989.35,21.85,Indonesia,True,Holding Company,True,22,PT.,Caution
+18631.44,866.52,21.5,China,False,Consulting,True,18,Individual,Caution
+46389.08,2160.82,21.47,Vietnam,True,Real Estate,True,6,Foundation,Caution
+4919.85,266.13,18.49,Malaysia,False,Energy,False,9,PT,Verified
+45160986.93,302963598.95,0.15,Panama,True,Holding Company,True,1,LLC,High-Risk
+10749.01,561.2,19.15,Malaysia,False,Forestry,False,16,PT,Verified
+15658266.43,58254866.69,0.27,Switzerland,True,Holding Company,True,2,Foundation,High-Risk
+29443.31,2553.06,11.53,Singapore,False,Energy,False,11,PT,Verified
+35965354.05,80845529.42,0.44,Panama,True,Real Estate,True,3,Foundation,High-Risk
+48737.42,2759.2,17.66,Singapore,False,Technology,False,12,CV,Verified
+1103627.08,105035.73,10.51,Indonesia,True,Consulting,False,20,PT,Caution
+15186.55,1180.2,12.87,Singapore,False,Manufacturing,False,17,Ltd.,Verified
+31425.72,2827.35,11.11,Singapore,False,Forestry,False,15,Ltd.,Verified
+28201.33,2615.84,10.78,Indonesia,False,Agriculture,False,17,PT,Verified
+26847.95,1510.15,17.78,Indonesia,False,Agriculture,False,10,PT,Verified
+120743.58,,0.25,Cayman Islands,True,,True,4,,High-Risk
+142922665.08,839385457.85,0.17,Panama,True,Luxury Goods,True,5,Foundation,High-Risk
+27538.23,1507.2,18.27,Indonesia,False,Energy,False,17,PT.,Verified
+2036896.36,9235705.35,0.22,Switzerland,True,Luxury Goods,True,4,Foundation,High-Risk
+14168.68,1415.06,10.01,Indonesia,False,Agriculture,False,9,CV,Verified
+175361.37,8866.38,19.78,Singapore,False,Energy,False,15,PT.,Verified
+1471957.46,,14.66,UAE,True,,False,23,,Caution
+26096.05,1073.36,24.31,Indonesia,False,Technology,True,20,Foundation,Caution
+75622.47,3866.51,19.56,Indonesia,False,Energy,False,15,PT,Verified
+3232.8,198.86,16.26,Indonesia,True,Agriculture,False,11,PT,Verified
+91852.7,209050.27,0.44,Switzerland,True,Luxury Goods,True,0,Individual,High-Risk
+40055.97,3434.69,11.66,USA,False,Manufacturing,False,16,PT,Verified
+12457448.51,53378566.76,0.23,Switzerland,True,Real Estate,True,4,LLC,High-Risk
+14763.1,1065.07,13.86,Indonesia,False,Forestry,False,10,CV,Verified
+11315.09,917.01,12.34,Indonesia,False,Manufacturing,False,9,PT,Verified
+5169.01,270.09,19.14,Indonesia,False,Manufacturing,False,10,PT,Verified
+2281680.95,9188097.77,0.25,Cayman Islands,True,Luxury Goods,True,2,Individual,High-Risk
+4336.68,,19.09,Malaysia,False,,False,10,,Verified
+20195.71,1126.01,17.94,Indonesia,True,Technology,False,15,PT,Verified
+2236992.35,10237593.67,0.22,UAE,True,Holding Company,True,0,Individual,High-Risk
+240377.53,13763.55,17.46,Indonesia,True,Holding Company,False,23,PT,Caution
+55593.88,5912.13,9.4,UAE,False,Consulting,False,21,Foundation,Caution
+15327.69,1449.62,10.57,China,False,Technology,False,20,PT,Caution
+11322.63,1066.01,10.62,USA,False,Manufacturing,False,14,PT,Verified
+71109.21,5793.3,12.27,Vietnam,False,Holding Company,False,22,Foundation,Caution
+63275.46,6526.8,9.69,Indonesia,False,Consulting,True,6,Foundation,Caution
+9770.69,951.81,10.27,Indonesia,False,Technology,False,9,CV,Verified
+125714458.45,1013737572.56,0.12,Cayman Islands,True,Consulting,True,0,LLC,High-Risk
+130851.98,6458.11,20.26,UAE,True,Technology,True,19,Individual,Caution
+6517.07,461.48,14.12,Indonesia,False,Energy,False,15,PT,Verified
+1287275.57,,0.47,Panama,True,,False,5,,High-Risk
+38275.3,1977.35,19.36,Indonesia,False,Technology,False,13,PT,Verified
+150772.14,840802.84,0.18,Cayman Islands,True,Holding Company,True,3,Foundation,High-Risk
+114908.56,9726.65,11.81,Indonesia,False,Manufacturing,False,9,PT,Verified
+537127.45,46117.76,11.65,Vietnam,False,Real Estate,True,18,Foundation,Caution
+255015.61,662942.49,0.38,Switzerland,True,Luxury Goods,True,2,LLC,High-Risk
+870847.58,56217.12,15.49,Indonesia,True,Holding Company,False,19,Foundation,Caution
+173277.81,9553.17,18.14,UK,False,Forestry,False,10,PT.,Verified
+112413.77,6875.83,16.35,Indonesia,False,Energy,False,17,CV,Verified
+28615.94,2090.6,13.69,Indonesia,False,Technology,False,12,CV,Verified
+7708.0,760.69,10.13,UK,False,Energy,False,17,PT,Verified
+7133.27,665.57,10.72,Indonesia,False,Forestry,False,16,Ltd.,Verified
+3061.55,184.73,16.57,USA,False,Manufacturing,False,16,PT,Verified
+315272.87,27880.59,11.31,China,True,Holding Company,True,18,Individual,Caution
+15562.31,1076.33,14.46,Indonesia,False,Energy,False,17,CV,Verified
+158363.62,18967.14,8.35,China,False,Technology,False,22,Individual,Caution
+43644.57,2594.7,16.82,USA,False,Manufacturing,False,10,PT,Verified
+36590.81,,13.83,Singapore,False,,False,13,,Verified
+28131.02,2487.15,11.31,Indonesia,False,Manufacturing,False,17,PT,Verified
+85398.21,7120.05,11.99,Indonesia,True,Manufacturing,False,10,PT,Verified
+17051.09,1295.3,13.16,Malaysia,False,Technology,False,12,PT,Verified
+16534030.16,37226165.72,0.44,Cayman Islands,True,Consulting,True,2,Individual,High-Risk
+4562.17,251.14,18.17,Indonesia,False,Manufacturing,False,13,PT,Verified
+21811.66,1375.89,15.85,Indonesia,False,Manufacturing,False,9,PT,Verified
+372563.07,17787.35,20.95,UAE,False,Holding Company,True,8,PT,Caution
+97392.3,4805.12,20.27,Indonesia,False,Technology,False,21,PT,Caution
+19197.07,1845.74,10.4,Indonesia,False,Manufacturing,False,15,PT,Verified
+253634.41,20894.99,12.14,Vietnam,True,Real Estate,False,7,Foundation,Caution
+36188.42,1989.68,18.19,Indonesia,False,Manufacturing,False,11,Ltd.,Verified
+49431.84,,18.61,Indonesia,False,,False,9,,Verified
+11049.38,944.89,11.69,Indonesia,False,Energy,False,16,PT,Verified
+117252.76,11524.85,10.17,Indonesia,False,Manufacturing,False,10,PT,Verified
+16703.56,971.46,17.19,Indonesia,False,Energy,False,17,CV,Verified
+282782.89,12906.73,21.91,Singapore,True,Real Estate,False,20,Individual,Caution
+36480.56,2973.92,12.27,Indonesia,True,Energy,False,14,CV,Verified
+3895.84,211.82,18.39,Malaysia,False,Forestry,False,10,PT.,Verified
+1192502.14,76273.1,15.63,China,True,Holding Company,True,22,Individual,Caution
+159902.43,8741.27,18.29,Singapore,False,Technology,True,23,PT,Caution
+73270.94,,16.01,Indonesia,False,,False,17,,Verified
+26798.97,2160.64,12.4,Malaysia,False,Forestry,False,16,PT,Verified
+13807.89,899.95,15.34,Singapore,False,Agriculture,False,13,Ltd.,Verified
+15422.46,772.91,19.95,Singapore,False,Agriculture,False,11,PT,Verified
+14296.16,1397.42,10.23,Malaysia,False,Energy,False,11,PT,Verified
+124267.86,11764.05,10.56,UAE,True,Consulting,False,21,Foundation,Caution
+21913.92,1244.51,17.61,Malaysia,True,Technology,False,13,CV,Verified
+522619.7,50277.28,10.39,Vietnam,False,Consulting,False,8,Foundation,Caution
+9106.79,508.26,17.92,Indonesia,False,Energy,False,9,PT,Verified
+2125920.51,97937.08,21.71,Indonesia,False,Real Estate,True,8,PT,Caution
+14900.11,1378.98,10.81,Indonesia,False,Energy,False,13,PT,Verified
+20545.18,1235.27,16.63,Indonesia,True,Agriculture,False,16,PT.,Verified
+4868.87,247.93,19.64,Indonesia,False,Technology,False,13,Ltd.,Verified
+139049.28,8787.92,15.82,Singapore,False,Technology,True,18,PT,Caution
+10156425.92,22547252.26,0.45,Switzerland,True,Holding Company,True,1,LLC,High-Risk
+133596.44,8416.13,15.87,Singapore,True,Consulting,False,20,PT,Caution
+38364.82,3325.51,11.54,Malaysia,False,Forestry,False,15,PT,Verified
+227022.63,12328.24,18.41,Indonesia,False,Energy,False,9,PT,Verified
+23065.53,1457.18,15.83,Indonesia,False,Energy,False,17,PT,Verified
+43367.93,2918.42,14.86,USA,False,Agriculture,False,16,PT,Verified
+26957.17,1378.18,19.56,Indonesia,False,Technology,False,11,PT,Verified
+278385.42,18698.68,14.89,UK,False,Forestry,False,11,PT,Verified
+75958.95,3472.16,21.88,Indonesia,True,Real Estate,True,8,Individual,Caution
+25822.59,1841.27,14.02,Indonesia,False,Energy,False,17,PT,Verified
+14105.37,1169.07,12.07,Indonesia,False,Manufacturing,False,9,Ltd.,Verified
+80537094.53,244625081.9,0.33,Cayman Islands,True,Real Estate,True,0,Individual,High-Risk
+11037.32,873.89,12.63,Indonesia,False,Energy,False,15,Ltd.,Verified
+31090.64,2072.84,15.0,Indonesia,False,Agriculture,False,15,Ltd.,Verified
+32726.76,1728.75,18.93,Indonesia,False,Technology,False,15,Ltd.,Verified
+121403.98,7894.96,15.38,Indonesia,False,Energy,False,12,PT,Verified
+21012.98,1667.31,12.6,Singapore,True,Manufacturing,False,16,Ltd.,Verified
+54393.67,3456.39,15.74,Indonesia,False,Technology,False,14,PT,Verified
+151949.15,13884.22,10.94,Indonesia,False,Agriculture,False,15,CV,Verified
+33015.13,2237.62,14.75,Malaysia,False,Manufacturing,False,9,PT,Verified
+37510.84,2974.32,12.61,Singapore,False,Technology,False,10,PT,Verified
+10985.52,681.08,16.13,Indonesia,False,Forestry,False,10,PT,Verified
+4156.13,282.99,14.69,Indonesia,False,Agriculture,False,9,CV,Verified
+4555216.93,10439143.23,0.44,Panama,True,Real Estate,True,1,Individual,High-Risk
+1395334.36,58432.26,23.88,Indonesia,True,Consulting,False,18,PT,Caution
+527362.84,1614607.67,0.33,Switzerland,True,Real Estate,True,2,Individual,High-Risk
+78926.37,7947.96,9.93,Vietnam,True,Holding Company,False,22,PT,Caution
+53398.38,2420.77,22.06,China,True,Consulting,True,20,Foundation,Caution
+24373.06,1342.62,18.15,UK,False,Energy,False,12,PT,Verified
+18179.08,947.21,19.19,Indonesia,False,Forestry,False,16,PT,Verified
+18818.0,1420.65,13.25,Indonesia,False,Technology,False,10,PT,Verified
+175963.28,7644.45,23.02,Vietnam,True,Consulting,False,8,PT,Caution
+44942.51,2023.42,22.21,Singapore,True,Technology,True,7,Foundation,Caution
+131589.58,6045.89,21.77,Singapore,True,Real Estate,False,21,Foundation,Caution
+58600649.62,229863264.6,0.25,Panama,True,Holding Company,True,2,Foundation,High-Risk
+25662.45,2054.76,12.49,Malaysia,False,Manufacturing,False,15,PT,Verified
+81059.78,5899.01,13.74,Indonesia,False,Agriculture,False,12,Ltd.,Verified
+25016226.09,150398660.32,0.17,Cayman Islands,True,Holding Company,True,1,Foundation,High-Risk
+267594.68,19979.14,13.39,UAE,False,Real Estate,False,7,PT,Caution
+56352.08,5327.03,10.58,China,True,Real Estate,False,7,PT,Caution
+16692665.36,55486934.32,0.3,Panama,True,Real Estate,True,0,LLC,High-Risk
+29672.24,1830.91,16.21,Indonesia,False,Manufacturing,False,12,Ltd.,Verified
+472881.49,37151.82,12.73,Indonesia,False,Consulting,True,20,PT,Caution
+160060.32,9197.12,17.4,Vietnam,True,Real Estate,True,7,PT,Caution
+20578.29,1429.01,14.4,Indonesia,False,Technology,False,13,CV,Verified
+6464279.63,53044776.69,0.12,UAE,True,Luxury Goods,True,3,Foundation,High-Risk
+82900.71,6739.4,12.3,Indonesia,True,Energy,False,10,Ltd.,Verified
+10028.69,564.36,17.77,Singapore,False,Manufacturing,False,17,PT,Verified
+1030366.87,70483.95,14.62,Indonesia,False,Holding Company,False,7,Foundation,Caution
+4316.99,228.2,18.92,Indonesia,False,Manufacturing,False,14,PT,Verified
+19705.86,,18.02,USA,False,,False,9,,Verified
+38617.41,2788.75,13.85,Singapore,True,Agriculture,False,9,PT,Verified
+6447.61,,13.59,USA,False,,False,10,,Verified
+5125.5,444.8,11.52,Indonesia,False,Energy,False,9,CV,Verified
+14636.76,1307.67,11.19,UAE,False,Real Estate,False,8,Individual,Caution
+140774.52,7731.13,18.21,Indonesia,False,Forestry,False,16,CV,Verified
+15737.07,883.07,17.82,Singapore,False,Technology,False,15,PT,Verified
+11847.98,625.39,18.94,Indonesia,False,Agriculture,False,14,PT,Verified
+4178688.37,14667691.86,0.28,Panama,True,Holding Company,True,3,Foundation,High-Risk
+104237.47,6235.62,16.72,Indonesia,True,Technology,True,21,Individual,Caution
+30754.69,2331.28,13.19,Indonesia,False,Agriculture,False,17,PT,Verified
+9728.36,1112.26,8.75,Singapore,True,Real Estate,False,7,Individual,Caution
+20018.3,1842.03,10.87,USA,False,Energy,False,17,Ltd.,Verified
+69883.45,5142.08,13.59,Indonesia,False,Manufacturing,False,17,CV,Verified
+19927.83,1918.4,10.39,Indonesia,False,Manufacturing,False,9,PT,Verified
+139008.22,12646.18,10.99,Indonesia,False,Technology,False,17,PT,Verified
+126077.34,12895.51,9.78,Indonesia,True,Real Estate,True,22,Individual,Caution
+640335.76,28893.17,22.16,Indonesia,True,Technology,False,20,Foundation,Caution
+9120.02,625.45,14.58,USA,False,Technology,False,16,PT,Verified
+24816.0,2221.18,11.17,Indonesia,True,Manufacturing,False,16,PT,Verified
+30245.71,,14.15,China,False,,False,8,,Caution
+10828.14,916.97,11.81,Indonesia,True,Energy,False,9,CV,Verified
+12132.96,751.67,16.14,Indonesia,False,Manufacturing,False,9,PT,Verified
+43064.27,3550.96,12.13,Indonesia,False,Manufacturing,False,14,PT,Verified
+35995.99,2672.75,13.47,Malaysia,True,Forestry,False,9,PT,Verified
+24208.44,1628.06,14.87,Singapore,False,Technology,False,9,PT,Verified
+7543.62,412.27,18.3,USA,True,Energy,False,12,PT,Verified
+319279760.74,996577488.48,0.32,Switzerland,True,Consulting,True,5,Foundation,High-Risk
+121601.21,7102.82,17.12,Indonesia,True,Technology,False,21,Individual,Caution
+18821.41,,16.89,Indonesia,True,,False,16,,Verified
+9963.09,937.47,10.63,Indonesia,False,Agriculture,False,15,CV,Verified
+50725.98,2754.45,18.42,Indonesia,True,Energy,False,12,Ltd.,Verified
+8111.39,456.52,17.77,Indonesia,False,Manufacturing,False,14,CV,Verified
+163795.32,347781.84,0.47,Cayman Islands,True,Holding Company,True,0,Individual,High-Risk
+35268738.3,154785515.13,0.23,Switzerland,True,Real Estate,True,4,Individual,High-Risk
+16564078.63,40879280.64,0.41,Panama,True,Real Estate,True,1,Foundation,High-Risk
+33107.29,2525.54,13.11,Malaysia,False,Forestry,False,11,PT,Verified
+133865.41,9064.83,14.77,Indonesia,True,Holding Company,False,23,PT,Caution
+17613.23,1064.94,16.54,Singapore,True,Real Estate,True,6,Individual,Caution
+42707.26,2761.21,15.47,Indonesia,False,Energy,False,10,CV,Verified
+388882.25,18763.49,20.73,Indonesia,True,Holding Company,True,21,Foundation,Caution
+156480.5,7925.28,19.74,Singapore,True,Agriculture,False,14,CV,Verified
+4837016.96,18386780.58,0.26,Switzerland,True,Holding Company,True,1,Foundation,High-Risk
+52269.79,,16.88,Malaysia,False,,False,16,,Verified
+517532.39,39603.18,13.07,China,True,Technology,True,20,Individual,Caution
+63209.1,6005.61,10.53,UK,False,Forestry,False,15,PT,Verified
+32753.65,,15.34,Indonesia,False,,False,9,,Verified
+5270.08,281.74,18.71,USA,True,Manufacturing,False,13,PT,Verified
+35705.15,1821.57,19.6,Indonesia,False,Technology,False,13,CV,Verified
+17833.49,974.08,18.31,Indonesia,False,Agriculture,False,14,PT,Verified
+7186.26,453.1,15.86,Indonesia,True,Manufacturing,False,16,PT,Verified
+50119.56,3097.04,16.18,Indonesia,False,Agriculture,False,11,PT,Verified
+12997.31,795.23,16.34,Singapore,True,Manufacturing,False,17,PT.,Verified
+25698.2,1573.79,16.33,Indonesia,False,Energy,False,14,PT,Verified
+96366.76,10124.1,9.52,Singapore,False,Consulting,True,6,PT,Caution
+406369.73,38824.99,10.47,Vietnam,False,Consulting,True,19,Foundation,Caution
+1432786.24,147556.98,9.71,Indonesia,True,Technology,False,20,Foundation,Caution
+1034271.29,2470665.58,0.42,Panama,True,Luxury Goods,True,2,Foundation,High-Risk
+419929.8,17278.11,24.3,Indonesia,False,Holding Company,False,8,Foundation,Caution
+527726.26,48464.89,10.89,Singapore,False,Energy,False,11,PT,Verified
+37847.32,2883.85,13.12,Singapore,False,Manufacturing,False,14,PT,Verified
+25040.47,1482.52,16.89,Indonesia,False,Manufacturing,False,10,CV,Verified
+23569.95,2838.44,8.3,China,False,Real Estate,False,18,Foundation,Caution
+60690.84,3882.02,15.63,Indonesia,False,Energy,False,13,PT,Verified
+15773.19,892.65,17.67,Indonesia,False,Technology,False,15,PT,Verified
+25648.77,1410.15,18.19,Malaysia,True,Technology,False,10,PT,Verified
+18597.37,991.63,18.75,Malaysia,True,Energy,False,12,Ltd.,Verified
+166336.22,8300.53,20.04,Vietnam,False,Real Estate,True,7,Foundation,Caution
+37986.1,2290.87,16.58,Indonesia,False,Manufacturing,False,15,CV,Verified
+60156.56,5873.5,10.24,Indonesia,True,Technology,False,9,PT,Verified
+46319.74,3467.69,13.36,Indonesia,False,Real Estate,False,8,Individual,Caution
+32436.72,2029.28,15.98,Malaysia,False,Technology,False,10,CV,Verified
+346932.07,14379.92,24.13,Indonesia,False,Consulting,False,8,PT,Caution
+55668.41,4978.91,11.18,Indonesia,False,Real Estate,False,8,Individual,Caution
+73619.02,4318.52,17.05,Indonesia,False,Technology,False,11,PT,Verified
+10354.38,836.98,12.37,Singapore,False,Energy,False,10,PT,Verified
+205983.33,10366.29,19.87,China,True,Technology,True,21,Individual,Caution
+10008.34,526.8,19.0,Indonesia,False,Forestry,False,9,PT,Verified
+3317570.41,,0.34,Switzerland,True,,True,3,,High-Risk
+10429.5,619.35,16.84,Singapore,False,Agriculture,False,11,PT,Verified
+4409459.5,188530.91,23.39,Indonesia,False,Technology,False,7,PT,Caution
+50926.85,2575.15,19.78,Indonesia,False,Agriculture,False,17,PT,Verified
+164999.73,8236.19,20.03,Indonesia,True,Consulting,False,19,PT,Caution
+34489.47,2069.49,16.67,Singapore,False,Forestry,False,11,PT,Verified
+32074.86,2715.74,11.81,Malaysia,False,Energy,False,9,PT,Verified
+116808.39,5180.23,22.55,UAE,True,Consulting,False,8,PT,Caution
+95083.33,8783.21,10.83,Singapore,False,Technology,False,7,PT,Caution
+28096.52,2598.57,10.81,Indonesia,True,Energy,False,15,PT,Verified
+24165.98,2342.86,10.31,Singapore,False,Technology,False,16,PT,Verified
+92406.51,,14.12,Indonesia,False,,False,9,,Verified
+27833.13,1615.0,17.23,Malaysia,False,Energy,False,11,PT,Verified
+12975.43,726.76,17.85,Indonesia,False,Forestry,False,11,CV,Verified
+383237.44,17725.52,21.62,Vietnam,True,Holding Company,False,22,PT,Caution
+177431.07,7319.1,24.24,Vietnam,True,Consulting,False,6,Foundation,Caution
+17245.79,976.49,17.66,Indonesia,True,Technology,False,17,PT,Verified
+16789.58,880.39,19.07,Indonesia,False,Energy,False,16,CV,Verified
+125476.68,8509.64,14.75,USA,False,Energy,False,12,PT,Verified
+47129.96,1999.23,23.57,China,False,Holding Company,False,6,Individual,Caution
+17880.68,1123.33,15.92,Singapore,False,Energy,False,10,PT,Verified
+9645.32,578.57,16.67,Indonesia,False,Energy,False,11,Ltd.,Verified
+22501639.87,2274019.42,9.9,China,False,Real Estate,False,18,Individual,Caution
+16707.33,1440.41,11.6,USA,True,Manufacturing,False,15,PT,Verified
+11857.89,622.38,19.05,Indonesia,False,Energy,False,13,PT,Verified
+65299.13,4396.55,14.85,Indonesia,False,Manufacturing,False,9,PT,Verified
+379598.08,21079.9,18.01,Singapore,False,Energy,False,14,PT,Verified
+17684.95,1235.21,14.32,Indonesia,False,Energy,False,17,PT,Verified
+31334.3,2368.57,13.23,Singapore,False,Agriculture,False,12,PT,Verified
+6115.44,505.06,12.11,Indonesia,False,Energy,False,14,PT,Verified
+3511.34,209.05,16.8,Indonesia,False,Agriculture,False,15,CV,Verified
+10461.24,618.95,16.9,Singapore,False,Agriculture,False,10,PT,Verified
+12792.61,1063.17,12.03,Indonesia,False,Energy,False,11,PT,Verified
+60303.59,,13.21,Singapore,False,,False,14,,Verified
+27649.63,2190.38,12.62,Indonesia,False,Agriculture,False,11,PT,Verified
+21948115.9,70873320.95,0.31,Cayman Islands,True,Holding Company,True,5,LLC,High-Risk
+12539.04,695.09,18.04,Indonesia,False,Manufacturing,False,11,PT,Verified
+4766.37,285.2,16.71,Vietnam,False,Consulting,False,20,PT,Caution
+5090808.21,13588522.64,0.37,Cayman Islands,True,Luxury Goods,True,4,Foundation,High-Risk
+41919.78,3042.43,13.78,Indonesia,False,Energy,False,10,CV,Verified
+216952.8,12434.48,17.45,Vietnam,True,Technology,True,20,Foundation,Caution
+34151.58,1970.23,17.33,Singapore,True,Technology,False,14,PT,Verified
+196152.41,12746.99,15.39,Indonesia,False,Manufacturing,False,14,PT,Verified
+424973.09,23263.54,18.27,Singapore,False,Agriculture,False,16,Ltd.,Verified
+8917.59,651.23,13.69,Indonesia,False,Technology,False,11,PT,Verified
+45213.2,3424.25,13.2,Malaysia,False,Energy,False,13,PT,Verified
+86046.53,7581.24,11.35,Indonesia,True,Forestry,False,10,PT,Verified
+800310.29,38171.7,20.97,Singapore,True,Holding Company,True,8,PT,Caution
+184843.69,11681.98,15.82,Singapore,True,Technology,False,14,PT,Verified
+64974.89,8040.24,8.08,Singapore,True,Holding Company,False,18,Foundation,Caution
+6222.28,569.53,10.93,Indonesia,False,Energy,False,17,PT,Verified
+132600.84,13912.82,9.53,Singapore,False,Consulting,True,8,Individual,Caution
+11834.59,989.79,11.96,USA,False,Energy,False,9,PT,Verified
+10623.58,611.59,17.37,UAE,False,Consulting,False,23,Foundation,Caution
+285900.16,16301.35,17.54,Singapore,False,Technology,True,18,Individual,Caution
+13693.36,756.26,18.11,China,False,Technology,True,7,Foundation,Caution
+32884.47,1672.22,19.67,Indonesia,False,Energy,False,13,PT,Verified
+177802.36,21179.57,8.39,Indonesia,True,Holding Company,True,7,PT.,Caution
+57072.65,3707.46,15.39,Indonesia,False,Manufacturing,False,15,PT,Verified
+6030214.66,329611.1,18.29,UAE,True,Holding Company,False,20,Individual,Caution
+20296.54,1150.33,17.64,Indonesia,False,Manufacturing,False,17,PT,Verified
+52877.43,3758.89,14.07,UK,False,Agriculture,False,16,CV,Verified
+28230510.76,83770679.05,0.34,Panama,True,Holding Company,True,2,LLC,High-Risk
+119822.18,8003.28,14.97,Indonesia,True,Real Estate,False,6,PT,Caution
+138221.87,8782.07,15.74,Indonesia,False,Consulting,False,21,PT,Caution
+60998.68,4074.22,14.97,Indonesia,False,Manufacturing,False,16,CV,Verified
+16658.49,1339.78,12.43,Malaysia,False,Manufacturing,False,9,PT,Verified
+12062.64,809.73,14.9,USA,False,Energy,False,14,Ltd.,Verified
+21483.48,1874.07,11.46,UK,True,Forestry,False,16,PT,Verified
+2627213.99,133846.71,19.63,UAE,False,Consulting,True,19,Individual,Caution
+27743.98,2028.52,13.68,Indonesia,False,Technology,False,10,PT,Verified
+2238153.91,,8.45,Indonesia,True,,True,8,,Caution
+11578.13,591.72,19.57,USA,False,Technology,False,9,PT,Verified
+224744.19,9438.39,23.81,Vietnam,True,Holding Company,False,19,PT,Caution
+10541.65,447.69,23.55,Indonesia,True,Real Estate,True,22,Individual,Caution
+21339.76,1297.01,16.45,Indonesia,True,Energy,False,12,PT,Verified
+17733.05,1059.68,16.73,Singapore,True,Manufacturing,False,10,PT,Verified
+10952.71,766.1,14.3,UK,False,Forestry,False,14,PT,Verified
+6299.42,443.39,14.21,Indonesia,False,Technology,False,15,PT,Verified
+1357070.87,6068306.29,0.22,Switzerland,True,Holding Company,True,0,Individual,High-Risk
+403316.46,2705539.62,0.15,Cayman Islands,True,Holding Company,True,0,Foundation,High-Risk
+13220.27,662.31,19.96,Indonesia,False,Energy,False,15,PT,Verified
+24747.45,1282.11,19.3,Malaysia,False,Technology,False,11,PT,Verified
+7203.18,593.96,12.13,Indonesia,False,Forestry,False,9,PT,Verified
+6209.63,418.04,14.85,Indonesia,False,Energy,False,10,PT,Verified
+165980.7,16247.43,10.22,Vietnam,False,Real Estate,False,21,Individual,Caution
+30657.59,1640.99,18.68,Indonesia,False,Manufacturing,False,11,PT,Verified
+4991.81,348.86,14.31,USA,False,Agriculture,False,16,CV,Verified
+26868.47,1443.64,18.61,Indonesia,True,Manufacturing,False,11,PT,Verified
+31255.69,1568.14,19.93,Indonesia,True,Forestry,False,11,CV,Verified
+50120.39,2547.33,19.68,Singapore,False,Forestry,False,11,PT,Verified
+38614.93,3404.33,11.34,Indonesia,False,Agriculture,False,17,CV,Verified
+331811.32,18446.33,17.99,China,False,Consulting,True,21,Individual,Caution
+20739.82,1524.91,13.6,Indonesia,False,Agriculture,False,16,PT,Verified
+71569.48,,12.2,Singapore,False,,False,14,,Verified
+114957.6,5285.55,21.75,Vietnam,True,Consulting,True,21,PT,Caution
+86390.96,4758.14,18.16,Indonesia,False,Technology,False,14,PT,Verified
+75544.03,4509.88,16.75,Indonesia,False,Manufacturing,False,10,PT,Verified
+2976.18,195.83,15.2,Indonesia,True,Energy,False,17,PT,Verified
+12931.69,,13.62,Indonesia,True,,False,14,,Verified
+14678.89,904.97,16.22,Indonesia,False,Manufacturing,False,14,Ltd.,Verified
+6716.99,491.57,13.66,Indonesia,True,Energy,False,11,PT,Verified
+47769.26,3782.5,12.63,Indonesia,False,Forestry,False,11,PT,Verified
+73783.42,4135.16,17.84,Singapore,False,Real Estate,True,18,Individual,Caution
+140526322.9,337959146.51,0.42,Panama,True,Holding Company,True,3,Foundation,High-Risk
+26135.06,2461.5,10.62,Singapore,False,Agriculture,False,13,CV,Verified
+106705.06,,8.82,Singapore,True,,True,7,,Caution
+50729.76,3865.7,13.12,Indonesia,False,Energy,False,12,CV,Verified
+8324593.86,24307259.47,0.34,Panama,True,Holding Company,True,0,Foundation,High-Risk
+16229.77,1383.73,11.73,Singapore,False,Agriculture,False,10,PT,Verified
+60904.11,4819.58,12.64,Vietnam,True,Holding Company,True,6,Foundation,Caution
+20129.96,1040.61,19.34,Indonesia,False,Energy,False,12,PT,Verified
+1736.67,124.7,13.93,Indonesia,False,Technology,False,14,Ltd.,Verified
+41289.17,3530.54,11.69,Vietnam,True,Technology,True,22,Foundation,Caution
+36656.21,2363.13,15.51,Indonesia,False,Agriculture,False,16,CV,Verified
+22239.15,1212.38,18.34,Indonesia,False,Energy,False,13,PT,Verified
+60850.83,4408.91,13.8,Indonesia,True,Technology,False,14,PT,Verified
+27557.38,2134.63,12.91,China,True,Holding Company,True,6,Foundation,Caution
+7554.17,598.82,12.62,Indonesia,False,Manufacturing,False,11,PT,Verified
+13403.23,681.61,19.66,Indonesia,True,Energy,False,12,CV,Verified
+8545.33,648.04,13.19,Indonesia,True,Energy,False,16,PT,Verified
+15132.9,1376.75,10.99,Indonesia,False,Agriculture,False,15,PT,Verified
+14312.82,1012.46,14.14,USA,False,Energy,False,15,CV,Verified
+17706.83,1075.8,16.46,Indonesia,False,Agriculture,False,14,CV,Verified
+122558.07,6920.77,17.71,Indonesia,True,Energy,False,17,PT,Verified
+21175.23,2119.04,9.99,Vietnam,False,Holding Company,False,7,Foundation,Caution
+52388.75,2745.1,19.08,China,False,Real Estate,True,22,PT,Caution
+39162.43,3848.44,10.18,Indonesia,False,Manufacturing,False,16,PT,Verified
+11832.55,953.23,12.41,Indonesia,False,Manufacturing,False,16,PT,Verified
+16588.52,1221.51,13.58,Malaysia,False,Agriculture,False,17,PT,Verified
+35868.51,2657.42,13.5,Indonesia,False,Manufacturing,False,16,PT,Verified
+59553.39,4415.88,13.49,Indonesia,False,Agriculture,False,17,PT,Verified
+1018.8,95.37,10.68,Indonesia,False,Forestry,False,17,Ltd.,Verified
+745698.06,2033975.48,0.37,Panama,True,Real Estate,True,4,LLC,High-Risk
+37708.16,2846.65,13.25,Indonesia,False,Energy,False,9,PT,Verified
+4587.26,240.49,19.07,Indonesia,False,Agriculture,False,17,PT,Verified
+3135.53,128.37,24.43,Indonesia,True,Real Estate,False,22,Individual,Caution
+70694.38,6170.72,11.46,USA,False,Technology,False,17,PT,Verified
+59369.71,3092.17,19.2,Indonesia,False,Technology,False,15,PT,Verified
+7342.23,467.51,15.7,USA,False,Technology,False,15,PT,Verified
+104844.75,6056.36,17.31,Vietnam,False,Consulting,True,18,Foundation,Caution
+15110.82,1189.7,12.7,USA,False,Manufacturing,False,10,PT,Verified
+6868.69,505.43,13.59,Indonesia,False,Manufacturing,False,16,PT,Verified
+11578.18,812.36,14.25,Indonesia,True,Forestry,False,11,PT,Verified
+11124.41,783.9,14.19,Indonesia,False,Agriculture,False,12,PT,Verified
+587029.62,59622.86,9.85,Vietnam,True,Technology,True,19,Individual,Caution
+28902.52,2220.97,13.01,Singapore,True,Agriculture,False,15,PT,Verified
+76185.33,6232.07,12.22,Indonesia,True,Technology,False,15,PT,Verified
+7269.94,371.3,19.58,Indonesia,True,Energy,False,9,PT,Verified
+11065.63,968.81,11.42,Indonesia,False,Manufacturing,False,14,CV,Verified
+3561.82,339.65,10.49,Indonesia,True,Manufacturing,False,13,PT,Verified
+69691.66,5331.81,13.07,Indonesia,False,Agriculture,False,11,PT,Verified
+86556.09,7478.67,11.57,UK,False,Energy,False,12,PT,Verified
+111326.54,7009.99,15.88,Indonesia,False,Agriculture,False,10,PT,Verified
+21440.75,,12.81,Indonesia,False,,False,16,,Verified
+5716.77,330.47,17.3,Indonesia,False,Energy,False,9,PT,Verified
+468744.82,23382.14,20.05,UAE,True,Consulting,True,7,Individual,Caution
+20594.01,1038.9,19.82,Indonesia,False,Forestry,False,14,Ltd.,Verified
+16736.55,1111.69,15.06,Indonesia,False,Energy,False,11,PT,Verified
+35729.12,3396.81,10.52,UK,False,Forestry,False,12,PT,Verified
+70854.95,5038.94,14.06,Vietnam,True,Consulting,True,22,PT,Caution
+5204.06,260.64,19.97,Indonesia,False,Forestry,False,9,CV,Verified
+66490.54,3906.2,17.02,Indonesia,False,Technology,False,12,PT,Verified
