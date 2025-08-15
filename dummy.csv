@@ -1,0 +1,1001 @@
+Transaction Amount,Carbon Volume,Price per Ton,Origin Country,Cross-Border Flag,Buyer Industry,Sudden Transaction Spike,Transaction Hour,Entity Type,Label,company id,nama perusahaan
+3090.09,156.12,19.79,Malaysia,False,Technology,False,16,Ltd.,Verified,MYS-LTD-TECHNOLOGY-066,Ltd. Technology Malaysia 066
+243969.91,22250.28,10.96,Singapore,False,Real Estate,False,18,PT,Caution,SGP-PT-REAL_ESTATE-108,PT Real Estate Singapore 108
+102887.24,5094.77,20.19,China,True,Real Estate,False,6,PT,Caution,CHN-PT-REAL_ESTATE-021,PT Real Estate China 021
+1341.13,117.24,11.44,Indonesia,False,Forestry,False,11,PT,Verified,IDN-PT-FORESTRY-045,PT Forestry Indonesia 045
+37821.21,1917.15,19.73,Indonesia,False,Forestry,False,13,CV,Verified,IDN-CV-FORESTRY-026,CV Forestry Indonesia 026
+23206.98,2282.99,10.17,Singapore,False,Manufacturing,False,14,PT,Verified,SGP-PT-MANUFACTURING-107,PT Manufacturing Singapore 107
+25222.39,2323.46,10.86,Singapore,False,Technology,False,17,PT,Verified,SGP-PT-TECHNOLOGY-109,PT Technology Singapore 109
+76746.77,5174.35,14.83,Indonesia,False,Energy,False,15,Ltd.,Verified,IDN-LTD-ENERGY-038,Ltd. Energy Indonesia 038
+56729.04,2745.71,20.66,Vietnam,False,Consulting,True,7,Foundation,Caution,VIE-FOUNDATION-CONSULTING-169,Foundation Consulting Vietnam 169
+92079.88,7980.46,11.54,Indonesia,True,Agriculture,False,15,PT,Verified,IDN-PT-AGRICULTURE-042,PT Agriculture Indonesia 042
+813514.04,78872.01,10.31,Singapore,False,Real Estate,True,7,Foundation,Caution,SGP-FOUNDATION-REAL_ESTATE-093,Foundation Real Estate Singapore 093
+61849.68,5718.14,10.82,Indonesia,True,Energy,False,9,PT,Verified,IDN-PT-ENERGY-044,PT Energy Indonesia 044
+54184.48,2843.25,19.06,Malaysia,False,Energy,False,14,PT,Verified,MYS-PT-ENERGY-068,PT Energy Malaysia 068
+7750662.43,49210476.47,0.16,Switzerland,True,Holding Company,True,0,Foundation,High-Risk,SWI-FOUNDATION-HOLDING_COMPANY-116,Foundation Holding Company Switzerland 116
+1557107.36,10092910.84,0.15,Panama,True,Holding Company,True,1,LLC,High-Risk,PAN-LLC-HOLDING_COMPANY-082,LLC Holding Company Panama 082
+54527.4,4249.78,12.83,China,False,Technology,True,6,PT,Caution,CHN-PT-TECHNOLOGY-022,PT Technology China 022
+23682.2,2217.81,10.68,Singapore,False,Forestry,False,17,CV,Verified,SGP-CV-FORESTRY-088,CV Forestry Singapore 088
+13193.21,857.48,15.39,China,True,Real Estate,False,18,Individual,Caution,CHN-INDIVIDUAL-REAL_ESTATE-017,Individual Real Estate China 017
+40057.58,2446.76,16.37,UAE,False,Consulting,True,19,Individual,Caution,UAE-INDIVIDUAL-CONSULTING-130,Individual Consulting UAE 130
+57621.4,5250.34,10.97,Indonesia,False,Energy,False,17,PT,Verified,IDN-PT-ENERGY-044,PT Energy Indonesia 044
+46137.07,2478.15,18.62,Indonesia,False,Energy,False,17,CV,Verified,IDN-CV-ENERGY-025,CV Energy Indonesia 025
+74096.67,5279.41,14.04,Indonesia,True,Energy,False,16,PT,Verified,IDN-PT-ENERGY-044,PT Energy Indonesia 044
+13625.67,1210.83,11.25,Indonesia,True,Energy,False,10,PT,Verified,IDN-PT-ENERGY-044,PT Energy Indonesia 044
+163788.11,12202.51,13.42,Indonesia,False,Agriculture,False,11,Ltd.,Verified,IDN-LTD-AGRICULTURE-037,Ltd. Agriculture Indonesia 037
+62462.0,5839.48,10.7,Malaysia,False,Agriculture,False,16,PT,Verified,MYS-PT-AGRICULTURE-067,PT Agriculture Malaysia 067
+37826.33,3004.51,12.59,Indonesia,False,Forestry,False,14,CV,Verified,IDN-CV-FORESTRY-026,CV Forestry Indonesia 026
+6262.72,,17.33,Indonesia,False,,False,14,,Verified,IDN-UNKNOWN-UNKNOWN-056,Unknown Unknown Indonesia 056
+316674.57,989671.72,0.32,Cayman Islands,True,Holding Company,True,4,Foundation,High-Risk,CAY-FOUNDATION-HOLDING_COMPANY-001,Foundation Holding Company Cayman Islands 001
+285337.42,1519487.93,0.19,UAE,True,Luxury Goods,True,3,Foundation,High-Risk,UAE-FOUNDATION-LUXURY_GOODS-127,Foundation Luxury Goods UAE 127
+706902.87,2019726.62,0.35,Cayman Islands,True,Real Estate,True,5,Individual,High-Risk,CAY-INDIVIDUAL-REAL_ESTATE-007,Individual Real Estate Cayman Islands 007
+26269.61,1776.5,14.79,Indonesia,False,Manufacturing,False,9,PT,Verified,IDN-PT-MANUFACTURING-047,PT Manufacturing Indonesia 047
+25822.83,1417.94,18.21,Indonesia,False,Energy,False,17,Ltd.,Verified,IDN-LTD-ENERGY-038,Ltd. Energy Indonesia 038
+24608.5,1585.16,15.52,USA,False,Forestry,False,12,CV,Verified,USA-CV-FORESTRY-155,CV Forestry USA 155
+11040.66,979.26,11.27,Singapore,False,Energy,False,11,PT,Verified,SGP-PT-ENERGY-104,PT Energy Singapore 104
+34180.6,2430.1,14.07,Indonesia,False,Forestry,False,14,CV,Verified,IDN-CV-FORESTRY-026,CV Forestry Indonesia 026
+94672.24,6944.49,13.63,Indonesia,False,Agriculture,False,10,PT,Verified,IDN-PT-AGRICULTURE-042,PT Agriculture Indonesia 042
+16467.53,976.94,16.86,UK,False,Manufacturing,False,13,PT,Verified,UK-PT-MANUFACTURING-147,PT Manufacturing UK 147
+6519.34,427.01,15.27,USA,True,Manufacturing,False,14,PT,Verified,USA-PT-MANUFACTURING-165,PT Manufacturing USA 165
+1676167.52,10292630.98,0.16,Cayman Islands,True,Holding Company,True,1,Individual,High-Risk,CAY-INDIVIDUAL-HOLDING_COMPANY-005,Individual Holding Company Cayman Islands 005
+9266.78,569.04,16.28,Indonesia,False,Energy,False,17,PT,Verified,IDN-PT-ENERGY-044,PT Energy Indonesia 044
+11481.69,632.91,18.14,Indonesia,False,Technology,False,12,PT,Verified,IDN-PT-TECHNOLOGY-049,PT Technology Indonesia 049
+4289.23,252.33,17.0,USA,False,Forestry,False,9,PT,Verified,USA-PT-FORESTRY-164,PT Forestry USA 164
+37075.56,2420.54,15.32,Indonesia,False,Forestry,False,13,CV,Verified,IDN-CV-FORESTRY-026,CV Forestry Indonesia 026
+3599290.66,13934244.36,0.26,Panama,True,Holding Company,True,3,LLC,High-Risk,PAN-LLC-HOLDING_COMPANY-082,LLC Holding Company Panama 082
+5277.99,291.14,18.13,Indonesia,False,Forestry,False,11,PT,Verified,IDN-PT-FORESTRY-045,PT Forestry Indonesia 045
+16885.36,1390.15,12.15,Indonesia,False,Manufacturing,False,12,PT,Verified,IDN-PT-MANUFACTURING-047,PT Manufacturing Indonesia 047
+15481.3,39174.6,0.4,Panama,True,Luxury Goods,True,0,Foundation,High-Risk,PAN-FOUNDATION-LUXURY_GOODS-076,Foundation Luxury Goods Panama 076
+108625.15,10534.27,10.31,Indonesia,False,Energy,False,14,Ltd.,Verified,IDN-LTD-ENERGY-038,Ltd. Energy Indonesia 038
+5192.21,386.58,13.43,Indonesia,False,Manufacturing,False,11,Ltd.,Verified,IDN-LTD-MANUFACTURING-040,Ltd. Manufacturing Indonesia 040
+71702.01,3187.75,22.49,Singapore,True,Holding Company,True,6,PT,Caution,SGP-PT-HOLDING_COMPANY-106,PT Holding Company Singapore 106
+11696.75,615.54,19.0,Indonesia,False,Energy,False,11,PT,Verified,IDN-PT-ENERGY-044,PT Energy Indonesia 044
+400513.7,22768.43,17.59,China,True,Technology,True,6,Individual,Caution,CHN-INDIVIDUAL-TECHNOLOGY-018,Individual Technology China 018
+34002.89,2194.33,15.5,UK,False,Technology,False,11,PT,Verified,UK-PT-TECHNOLOGY-148,PT Technology UK 148
+15231.68,1316.66,11.57,Indonesia,False,Technology,False,13,PT,Verified,IDN-PT-TECHNOLOGY-049,PT Technology Indonesia 049
+8672.93,673.78,12.87,USA,False,Manufacturing,False,17,PT,Verified,USA-PT-MANUFACTURING-165,PT Manufacturing USA 165
+20316.94,1302.89,15.59,Singapore,False,Technology,False,11,Ltd.,Verified,SGP-LTD-TECHNOLOGY-101,Ltd. Technology Singapore 101
+28681.04,1944.46,14.75,Indonesia,False,Agriculture,False,13,PT,Verified,IDN-PT-AGRICULTURE-042,PT Agriculture Indonesia 042
+23678.94,2132.69,11.1,Malaysia,True,Energy,False,17,PT,Verified,MYS-PT-ENERGY-068,PT Energy Malaysia 068
+28363.7,1469.44,19.3,USA,False,Forestry,False,13,PT,Verified,USA-PT-FORESTRY-164,PT Forestry USA 164
+4638.02,192.63,24.08,Singapore,True,Real Estate,False,8,Individual,Caution,SGP-INDIVIDUAL-REAL_ESTATE-096,Individual Real Estate Singapore 096
+3824.6,330.09,11.59,Indonesia,False,Manufacturing,False,15,PT,Verified,IDN-PT-MANUFACTURING-047,PT Manufacturing Indonesia 047
+17338.07,1384.42,12.52,Malaysia,False,Forestry,False,11,Ltd.,Verified,MYS-LTD-FORESTRY-064,Ltd. Forestry Malaysia 064
+32046.99,2749.17,11.66,Indonesia,False,Energy,False,12,PT,Verified,IDN-PT-ENERGY-044,PT Energy Indonesia 044
+85704.46,5633.81,15.21,Malaysia,False,Energy,False,12,CV,Verified,MYS-CV-ENERGY-058,CV Energy Malaysia 058
+7911.59,458.77,17.25,Indonesia,False,Technology,False,17,PT,Verified,IDN-PT-TECHNOLOGY-049,PT Technology Indonesia 049
+38842.41,2820.58,13.77,USA,True,Manufacturing,False,11,PT,Verified,USA-PT-MANUFACTURING-165,PT Manufacturing USA 165
+12071.91,665.59,18.14,Singapore,True,Energy,False,17,PT,Verified,SGP-PT-ENERGY-104,PT Energy Singapore 104
+19837.79,1610.39,12.32,Indonesia,False,Technology,True,20,Foundation,Caution,IDN-FOUNDATION-TECHNOLOGY-032,Foundation Technology Indonesia 032
+132102.33,8268.63,15.98,Singapore,False,Energy,False,9,PT,Verified,SGP-PT-ENERGY-104,PT Energy Singapore 104
+35241.06,2245.08,15.7,Indonesia,False,Energy,False,15,PT,Verified,IDN-PT-ENERGY-044,PT Energy Indonesia 044
+23957.91,1878.13,12.76,Indonesia,False,Manufacturing,False,17,PT,Verified,IDN-PT-MANUFACTURING-047,PT Manufacturing Indonesia 047
+8485.18,442.58,19.17,Indonesia,False,Energy,False,12,PT,Verified,IDN-PT-ENERGY-044,PT Energy Indonesia 044
+11046.65,703.16,15.71,Indonesia,False,Technology,False,14,PT,Verified,IDN-PT-TECHNOLOGY-049,PT Technology Indonesia 049
+4000.43,206.46,19.38,UAE,False,Technology,True,7,PT,Caution,UAE-PT-TECHNOLOGY-140,PT Technology UAE 140
+37980.06,1993.32,19.05,Singapore,False,Energy,False,13,PT,Verified,SGP-PT-ENERGY-104,PT Energy Singapore 104
+27055.57,1552.91,17.42,Indonesia,False,Energy,False,16,PT,Verified,IDN-PT-ENERGY-044,PT Energy Indonesia 044
+146541.13,7336.72,19.97,Indonesia,False,Technology,False,11,CV,Verified,IDN-CV-TECHNOLOGY-028,CV Technology Indonesia 028
+16492.38,1214.15,13.58,UK,False,Technology,False,11,PT,Verified,UK-PT-TECHNOLOGY-148,PT Technology UK 148
+30170.4,,16.06,Indonesia,False,,False,13,,Verified,IDN-UNKNOWN-UNKNOWN-056,Unknown Unknown Indonesia 056
+12593.49,732.79,17.19,Singapore,False,Energy,False,9,PT,Verified,SGP-PT-ENERGY-104,PT Energy Singapore 104
+52375.57,3708.21,14.12,USA,False,Energy,False,16,PT,Verified,USA-PT-ENERGY-163,PT Energy USA 163
+17031.79,1702.72,10.0,Malaysia,False,Energy,False,12,PT,Verified,MYS-PT-ENERGY-068,PT Energy Malaysia 068
+14056.05,902.33,15.58,Indonesia,False,Energy,False,12,CV,Verified,IDN-CV-ENERGY-025,CV Energy Indonesia 025
+14894.06,961.88,15.48,Malaysia,False,Forestry,False,16,PT,Verified,MYS-PT-FORESTRY-069,PT Forestry Malaysia 069
+19652.55,,19.46,Indonesia,False,,False,14,,Verified,IDN-UNKNOWN-UNKNOWN-056,Unknown Unknown Indonesia 056
+269815.54,15845.6,17.03,UK,False,Technology,False,9,CV,Verified,UK-CV-TECHNOLOGY-143,CV Technology UK 143
+746393.54,2106266.06,0.35,Cayman Islands,True,Holding Company,True,1,Foundation,High-Risk,CAY-FOUNDATION-HOLDING_COMPANY-001,Foundation Holding Company Cayman Islands 001
+78939.83,4600.34,17.16,Indonesia,True,Holding Company,False,20,Foundation,Caution,IDN-FOUNDATION-HOLDING_COMPANY-030,Foundation Holding Company Indonesia 030
+61928.79,6736.14,9.19,Singapore,True,Consulting,True,23,Foundation,Caution,SGP-FOUNDATION-CONSULTING-091,Foundation Consulting Singapore 091
+33485.59,2421.62,13.83,Indonesia,True,Agriculture,False,10,PT,Verified,IDN-PT-AGRICULTURE-042,PT Agriculture Indonesia 042
+11286.38,969.44,11.64,Singapore,False,Technology,False,14,CV,Verified,SGP-CV-TECHNOLOGY-090,CV Technology Singapore 090
+64138.14,3795.92,16.9,Singapore,False,Energy,False,12,CV,Verified,SGP-CV-ENERGY-087,CV Energy Singapore 087
+54421.46,3127.85,17.4,Malaysia,False,Technology,False,16,CV,Verified,MYS-CV-TECHNOLOGY-061,CV Technology Malaysia 061
+2779.5,165.94,16.75,Singapore,False,Manufacturing,False,13,PT,Verified,SGP-PT-MANUFACTURING-107,PT Manufacturing Singapore 107
+26801.31,2091.18,12.82,Indonesia,True,Holding Company,False,6,PT,Caution,IDN-PT-HOLDING_COMPANY-046,PT Holding Company Indonesia 046
+15789.13,1129.86,13.97,Singapore,False,Technology,False,10,PT,Verified,SGP-PT-TECHNOLOGY-109,PT Technology Singapore 109
+12350.04,610.48,20.23,China,True,Consulting,True,23,Foundation,Caution,CHN-FOUNDATION-CONSULTING-011,Foundation Consulting China 011
+98573.71,7557.25,13.04,Singapore,True,Technology,False,14,Ltd.,Verified,SGP-LTD-TECHNOLOGY-101,Ltd. Technology Singapore 101
+5341.8,303.44,17.6,USA,False,Energy,False,14,PT,Verified,USA-PT-ENERGY-163,PT Energy USA 163
+154654.2,6492.53,23.82,Singapore,True,Consulting,False,22,PT,Caution,SGP-PT-CONSULTING-103,PT Consulting Singapore 103
+363561.65,26252.08,13.85,Singapore,False,Holding Company,True,20,Foundation,Caution,SGP-FOUNDATION-HOLDING_COMPANY-092,Foundation Holding Company Singapore 092
+21815.89,1841.45,11.85,Indonesia,False,Manufacturing,False,13,PT,Verified,IDN-PT-MANUFACTURING-047,PT Manufacturing Indonesia 047
+2003277.99,5187694.89,0.39,Switzerland,True,Luxury Goods,True,3,LLC,High-Risk,SWI-LLC-LUXURY_GOODS-122,LLC Luxury Goods Switzerland 122
+35885.18,1897.47,18.91,Malaysia,False,Energy,False,14,PT,Verified,MYS-PT-ENERGY-068,PT Energy Malaysia 068
+9097.73,499.64,18.21,Indonesia,False,Energy,False,11,PT,Verified,IDN-PT-ENERGY-044,PT Energy Indonesia 044
+9941.94,,18.06,Malaysia,False,,False,11,,Verified,MYS-UNKNOWN-UNKNOWN-074,Unknown Unknown Malaysia 074
+9535.66,534.11,17.85,UK,True,Forestry,False,9,PT,Verified,UK-PT-FORESTRY-146,PT Forestry UK 146
+371837.51,3433095.62,0.11,Switzerland,True,Holding Company,True,0,Foundation,High-Risk,SWI-FOUNDATION-HOLDING_COMPANY-116,Foundation Holding Company Switzerland 116
+42966.16,2255.2,19.05,Indonesia,False,Energy,False,16,PT,Verified,IDN-PT-ENERGY-044,PT Energy Indonesia 044
+277490580.43,2308880935.26,0.12,Panama,True,Real Estate,True,3,Individual,High-Risk,PAN-INDIVIDUAL-REAL_ESTATE-080,Individual Real Estate Panama 080
+10474.14,654.37,16.01,Indonesia,False,Energy,False,16,Ltd.,Verified,IDN-LTD-ENERGY-038,Ltd. Energy Indonesia 038
+65989.47,5238.13,12.6,UAE,True,Real Estate,False,19,Foundation,Caution,UAE-FOUNDATION-REAL_ESTATE-128,Foundation Real Estate UAE 128
+1514226.86,4988709.96,0.3,Panama,True,Luxury Goods,True,4,Foundation,High-Risk,PAN-FOUNDATION-LUXURY_GOODS-076,Foundation Luxury Goods Panama 076
+63963.63,3100.33,20.63,Indonesia,True,Real Estate,False,18,Individual,Caution,IDN-INDIVIDUAL-REAL_ESTATE-035,Individual Real Estate Indonesia 035
+41063.29,2298.87,17.86,Indonesia,True,Technology,False,16,PT,Verified,IDN-PT-TECHNOLOGY-049,PT Technology Indonesia 049
+6130.76,359.08,17.07,Indonesia,True,Technology,False,13,CV,Verified,IDN-CV-TECHNOLOGY-028,CV Technology Indonesia 028
+19664.2,1478.34,13.3,Malaysia,True,Manufacturing,False,17,PT,Verified,MYS-PT-MANUFACTURING-070,PT Manufacturing Malaysia 070
+22194.29,58638.71,0.38,Cayman Islands,True,Holding Company,True,2,Foundation,High-Risk,CAY-FOUNDATION-HOLDING_COMPANY-001,Foundation Holding Company Cayman Islands 001
+3507.55,231.62,15.14,Indonesia,False,Energy,False,10,PT,Verified,IDN-PT-ENERGY-044,PT Energy Indonesia 044
+143999.19,11943.84,12.06,Indonesia,False,Technology,False,12,CV,Verified,IDN-CV-TECHNOLOGY-028,CV Technology Indonesia 028
+59909.23,3532.68,16.96,Indonesia,False,Technology,True,19,Individual,Caution,IDN-INDIVIDUAL-TECHNOLOGY-036,Individual Technology Indonesia 036
+168271.02,11923.53,14.11,Singapore,False,Agriculture,False,11,CV,Verified,SGP-CV-AGRICULTURE-086,CV Agriculture Singapore 086
+1325637.26,66689.17,19.88,Vietnam,False,Consulting,False,8,Individual,Caution,VIE-INDIVIDUAL-CONSULTING-173,Individual Consulting Vietnam 173
+19876.07,1952.23,10.18,Indonesia,False,Agriculture,False,14,Ltd.,Verified,IDN-LTD-AGRICULTURE-037,Ltd. Agriculture Indonesia 037
+41613.59,2274.02,18.3,Malaysia,False,Energy,False,14,PT,Verified,MYS-PT-ENERGY-068,PT Energy Malaysia 068
+51933.23,3170.29,16.38,Indonesia,False,Energy,False,16,PT,Verified,IDN-PT-ENERGY-044,PT Energy Indonesia 044
+14446.41,1328.23,10.88,Indonesia,False,Technology,False,14,PT,Verified,IDN-PT-TECHNOLOGY-049,PT Technology Indonesia 049
+9335.46,566.09,16.49,Indonesia,True,Energy,False,17,PT,Verified,IDN-PT-ENERGY-044,PT Energy Indonesia 044
+1578896.71,193970.5,8.14,UAE,True,Holding Company,True,22,PT,Caution,UAE-PT-HOLDING_COMPANY-138,PT Holding Company UAE 138
+120564.98,14402.98,8.37,Indonesia,False,Holding Company,True,19,Foundation,Caution,IDN-FOUNDATION-HOLDING_COMPANY-030,Foundation Holding Company Indonesia 030
+29349.9,1953.52,15.02,Indonesia,False,Technology,False,13,PT,Verified,IDN-PT-TECHNOLOGY-049,PT Technology Indonesia 049
+11888.66,654.26,18.17,China,True,Technology,True,23,PT,Caution,CHN-PT-TECHNOLOGY-022,PT Technology China 022
+52228.73,4368.48,11.96,USA,False,Manufacturing,False,16,PT,Verified,USA-PT-MANUFACTURING-165,PT Manufacturing USA 165
+2065116.47,,0.28,Panama,True,,True,4,,High-Risk,PAN-UNKNOWN-UNKNOWN-085,Unknown Unknown Panama 085
+13644.7,988.32,13.81,UK,False,Manufacturing,False,14,PT,Verified,UK-PT-MANUFACTURING-147,PT Manufacturing UK 147
+33465.72,1705.93,19.62,Indonesia,False,Agriculture,False,14,PT,Verified,IDN-PT-AGRICULTURE-042,PT Agriculture Indonesia 042
+46482.52,2995.4,15.52,Singapore,False,Technology,False,12,PT,Verified,SGP-PT-TECHNOLOGY-109,PT Technology Singapore 109
+25264.97,2184.02,11.57,Indonesia,True,Technology,False,13,PT,Verified,IDN-PT-TECHNOLOGY-049,PT Technology Indonesia 049
+4660.39,287.68,16.2,Indonesia,False,Technology,False,9,PT,Verified,IDN-PT-TECHNOLOGY-049,PT Technology Indonesia 049
+5575.16,282.37,19.74,Singapore,False,Energy,False,12,PT,Verified,SGP-PT-ENERGY-104,PT Energy Singapore 104
+14392.46,878.53,16.38,USA,True,Manufacturing,False,14,Ltd.,Verified,USA-LTD-MANUFACTURING-160,Ltd. Manufacturing USA 160
+24907.51,1903.51,13.09,Indonesia,False,Energy,False,16,PT,Verified,IDN-PT-ENERGY-044,PT Energy Indonesia 044
+104053.18,,11.87,Vietnam,True,,False,21,,Caution,VIE-UNKNOWN-UNKNOWN-181,Unknown Unknown Vietnam 181
+54036.77,3216.62,16.8,Indonesia,False,Energy,False,13,PT,Verified,IDN-PT-ENERGY-044,PT Energy Indonesia 044
+554844.32,49126.27,11.29,UAE,False,Consulting,False,23,Individual,Caution,UAE-INDIVIDUAL-CONSULTING-130,Individual Consulting UAE 130
+2253623.73,22199959.95,0.1,Switzerland,True,Holding Company,True,1,Foundation,High-Risk,SWI-FOUNDATION-HOLDING_COMPANY-116,Foundation Holding Company Switzerland 116
+93915.7,,20.41,UAE,True,,True,8,,Caution,UAE-UNKNOWN-UNKNOWN-141,Unknown Unknown UAE 141
+118017.24,8891.28,13.27,Malaysia,True,Technology,False,11,CV,Verified,MYS-CV-TECHNOLOGY-061,CV Technology Malaysia 061
+486339.74,26587.25,18.29,Indonesia,True,Real Estate,False,8,Individual,Caution,IDN-INDIVIDUAL-REAL_ESTATE-035,Individual Real Estate Indonesia 035
+74957.67,4582.48,16.36,Singapore,False,Energy,False,16,PT,Verified,SGP-PT-ENERGY-104,PT Energy Singapore 104
+12861.73,770.57,16.69,USA,False,Technology,False,11,Ltd.,Verified,USA-LTD-TECHNOLOGY-161,Ltd. Technology USA 161
+16477.11,1067.69,15.43,Indonesia,False,Energy,False,14,PT,Verified,IDN-PT-ENERGY-044,PT Energy Indonesia 044
+46441543.02,335416067.14,0.14,UAE,True,Luxury Goods,True,4,Foundation,High-Risk,UAE-FOUNDATION-LUXURY_GOODS-127,Foundation Luxury Goods UAE 127
+8239.24,601.94,13.69,Malaysia,True,Energy,False,17,PT,Verified,MYS-PT-ENERGY-068,PT Energy Malaysia 068
+4513159.47,9829284.78,0.46,Cayman Islands,True,Luxury Goods,False,4,Foundation,High-Risk,CAY-FOUNDATION-LUXURY_GOODS-002,Foundation Luxury Goods Cayman Islands 002
+32061.25,1880.8,17.05,Singapore,False,Forestry,False,11,PT,Verified,SGP-PT-FORESTRY-105,PT Forestry Singapore 105
+140615.32,12686.46,11.08,Indonesia,False,Energy,False,13,PT,Verified,IDN-PT-ENERGY-044,PT Energy Indonesia 044
+56316.49,3680.37,15.3,Singapore,True,Agriculture,False,16,CV,Verified,SGP-CV-AGRICULTURE-086,CV Agriculture Singapore 086
+58383.58,4476.85,13.04,Indonesia,False,Agriculture,False,11,PT,Verified,IDN-PT-AGRICULTURE-042,PT Agriculture Indonesia 042
+366424.83,15890.67,23.06,China,False,Real Estate,True,19,PT,Caution,CHN-PT-REAL_ESTATE-021,PT Real Estate China 021
+7062.89,356.65,19.8,Indonesia,False,Energy,False,15,PT,Verified,IDN-PT-ENERGY-044,PT Energy Indonesia 044
+793436.62,36187.52,21.93,Indonesia,False,Consulting,False,22,PT,Caution,IDN-PT-CONSULTING-043,PT Consulting Indonesia 043
+74015.24,4557.6,16.24,Indonesia,False,Energy,False,17,PT,Verified,IDN-PT-ENERGY-044,PT Energy Indonesia 044
+5855.52,366.64,15.97,Malaysia,False,Forestry,False,11,PT,Verified,MYS-PT-FORESTRY-069,PT Forestry Malaysia 069
+319179.25,23052.5,13.85,Vietnam,True,Consulting,False,8,PT.,Caution,VIE-PT-CONSULTING-180,PT. Consulting Vietnam 180
+3097.03,220.49,14.05,Singapore,True,Manufacturing,False,17,CV,Verified,SGP-CV-MANUFACTURING-089,CV Manufacturing Singapore 089
+26634.63,1860.04,14.32,Indonesia,False,Agriculture,False,12,PT,Verified,IDN-PT-AGRICULTURE-042,PT Agriculture Indonesia 042
+30173.13,1901.29,15.87,Indonesia,False,Energy,False,13,PT,Verified,IDN-PT-ENERGY-044,PT Energy Indonesia 044
+23159.62,1809.27,12.8,Indonesia,False,Energy,False,11,PT,Verified,IDN-PT-ENERGY-044,PT Energy Indonesia 044
+18679.58,1071.37,17.44,Malaysia,True,Energy,False,11,CV,Verified,MYS-CV-ENERGY-058,CV Energy Malaysia 058
+12370.54,936.89,13.2,Singapore,False,Agriculture,False,13,Ltd.,Verified,SGP-LTD-AGRICULTURE-098,Ltd. Agriculture Singapore 098
+17166.16,1080.25,15.89,USA,False,Manufacturing,False,12,CV,Verified,USA-CV-MANUFACTURING-156,CV Manufacturing USA 156
+39078.18,3103.59,12.59,Indonesia,False,Agriculture,False,10,PT,Verified,IDN-PT-AGRICULTURE-042,PT Agriculture Indonesia 042
+402677.95,1888179.06,0.21,Switzerland,True,Holding Company,True,3,Individual,High-Risk,SWI-INDIVIDUAL-HOLDING_COMPANY-118,Individual Holding Company Switzerland 118
+64917.97,5740.01,11.31,Indonesia,False,Forestry,False,13,CV,Verified,IDN-CV-FORESTRY-026,CV Forestry Indonesia 026
+15724.21,878.81,17.89,Indonesia,False,Manufacturing,False,9,PT,Verified,IDN-PT-MANUFACTURING-047,PT Manufacturing Indonesia 047
+40647.26,2476.36,16.41,USA,False,Manufacturing,False,9,CV,Verified,USA-CV-MANUFACTURING-156,CV Manufacturing USA 156
+38429.61,1978.84,19.42,Singapore,False,Manufacturing,False,15,CV,Verified,SGP-CV-MANUFACTURING-089,CV Manufacturing Singapore 089
+56054.02,3331.41,16.83,Indonesia,False,Real Estate,False,6,Foundation,Caution,IDN-FOUNDATION-REAL_ESTATE-031,Foundation Real Estate Indonesia 031
+4532.29,428.33,10.58,Indonesia,False,Energy,False,14,PT,Verified,IDN-PT-ENERGY-044,PT Energy Indonesia 044
+22978.5,,11.29,Indonesia,False,,False,11,,Verified,IDN-UNKNOWN-UNKNOWN-056,Unknown Unknown Indonesia 056
+10818.87,884.23,12.24,Indonesia,False,Manufacturing,False,14,CV,Verified,IDN-CV-MANUFACTURING-027,CV Manufacturing Indonesia 027
+15876.2,1505.24,10.55,Malaysia,False,Agriculture,False,9,PT,Verified,MYS-PT-AGRICULTURE-067,PT Agriculture Malaysia 067
+90104.11,6919.83,13.02,Singapore,False,Manufacturing,False,16,PT,Verified,SGP-PT-MANUFACTURING-107,PT Manufacturing Singapore 107
+56399.67,3851.76,14.64,UAE,True,Real Estate,True,18,Foundation,Caution,UAE-FOUNDATION-REAL_ESTATE-128,Foundation Real Estate UAE 128
+26331.49,1573.02,16.74,Indonesia,True,Manufacturing,False,11,PT,Verified,IDN-PT-MANUFACTURING-047,PT Manufacturing Indonesia 047
+35941.19,2226.17,16.14,Malaysia,False,Agriculture,False,10,PT,Verified,MYS-PT-AGRICULTURE-067,PT Agriculture Malaysia 067
+2803.02,192.88,14.53,Indonesia,False,Energy,False,16,PT,Verified,IDN-PT-ENERGY-044,PT Energy Indonesia 044
+292737.11,939604.44,0.31,UAE,True,Holding Company,True,1,Foundation,High-Risk,UAE-FOUNDATION-HOLDING_COMPANY-126,Foundation Holding Company UAE 126
+43689.84,2358.18,18.53,Indonesia,True,Technology,False,18,Individual,Caution,IDN-INDIVIDUAL-TECHNOLOGY-036,Individual Technology Indonesia 036
+70062936.69,295392310.09,0.24,Cayman Islands,True,Holding Company,True,2,Foundation,High-Risk,CAY-FOUNDATION-HOLDING_COMPANY-001,Foundation Holding Company Cayman Islands 001
+34846.35,3725.26,9.35,Singapore,True,Consulting,True,23,Individual,Caution,SGP-INDIVIDUAL-CONSULTING-095,Individual Consulting Singapore 095
+7909.63,654.98,12.08,Indonesia,False,Agriculture,False,14,PT,Verified,IDN-PT-AGRICULTURE-042,PT Agriculture Indonesia 042
+57135.75,4961.85,11.52,Indonesia,True,Manufacturing,False,13,CV,Verified,IDN-CV-MANUFACTURING-027,CV Manufacturing Indonesia 027
+106770.83,6813.42,15.67,USA,False,Energy,False,10,CV,Verified,USA-CV-ENERGY-154,CV Energy USA 154
+146236.69,8672.78,16.86,Indonesia,False,Forestry,False,13,Ltd.,Verified,IDN-LTD-FORESTRY-039,Ltd. Forestry Indonesia 039
+246689.07,24461.3,10.08,Singapore,False,Manufacturing,False,16,CV,Verified,SGP-CV-MANUFACTURING-089,CV Manufacturing Singapore 089
+5699.33,372.18,15.31,Indonesia,True,Forestry,False,17,Ltd.,Verified,IDN-LTD-FORESTRY-039,Ltd. Forestry Indonesia 039
+41330.9,2719.15,15.2,Indonesia,False,Manufacturing,False,11,PT,Verified,IDN-PT-MANUFACTURING-047,PT Manufacturing Indonesia 047
+17211.72,,13.98,UK,False,,False,15,,Verified,UK-UNKNOWN-UNKNOWN-152,Unknown Unknown UK 152
+57399.76,2921.91,19.64,Indonesia,False,Technology,False,17,PT,Verified,IDN-PT-TECHNOLOGY-049,PT Technology Indonesia 049
+7642.65,394.39,19.38,Indonesia,False,Agriculture,False,13,PT,Verified,IDN-PT-AGRICULTURE-042,PT Agriculture Indonesia 042
+8226.09,605.68,13.58,Indonesia,False,Agriculture,False,10,PT,Verified,IDN-PT-AGRICULTURE-042,PT Agriculture Indonesia 042
+24564.2,1715.05,14.32,Indonesia,False,Energy,False,10,CV,Verified,IDN-CV-ENERGY-025,CV Energy Indonesia 025
+335344.2,17611.58,19.04,China,False,Consulting,False,6,PT,Caution,CHN-PT-CONSULTING-019,PT Consulting China 019
+6257.56,375.58,16.66,Indonesia,False,Energy,False,14,PT,Verified,IDN-PT-ENERGY-044,PT Energy Indonesia 044
+5081.53,305.57,16.63,Indonesia,False,Technology,False,10,PT,Verified,IDN-PT-TECHNOLOGY-049,PT Technology Indonesia 049
+33481268.5,99337945.6,0.34,Panama,True,Holding Company,True,0,LLC,High-Risk,PAN-LLC-HOLDING_COMPANY-082,LLC Holding Company Panama 082
+10295.04,729.28,14.12,Indonesia,False,Energy,False,9,PT,Verified,IDN-PT-ENERGY-044,PT Energy Indonesia 044
+846241.45,38510.39,21.97,Vietnam,True,Technology,False,19,PT,Caution,VIE-PT-TECHNOLOGY-179,PT Technology Vietnam 179
+23113.01,1717.94,13.45,Singapore,False,Agriculture,False,10,PT,Verified,SGP-PT-AGRICULTURE-102,PT Agriculture Singapore 102
+36596.81,2751.82,13.3,Indonesia,False,Technology,False,13,PT,Verified,IDN-PT-TECHNOLOGY-049,PT Technology Indonesia 049
+78032.82,471136.18,0.17,Panama,True,Holding Company,True,5,Individual,High-Risk,PAN-INDIVIDUAL-HOLDING_COMPANY-079,Individual Holding Company Panama 079
+129035.22,5332.44,24.2,Indonesia,True,Holding Company,False,21,Individual,Caution,IDN-INDIVIDUAL-HOLDING_COMPANY-034,Individual Holding Company Indonesia 034
+57526.05,3507.04,16.4,Indonesia,False,Energy,False,17,PT,Verified,IDN-PT-ENERGY-044,PT Energy Indonesia 044
+10657.05,635.1,16.78,Singapore,False,Technology,False,16,PT.,Verified,SGP-PT-TECHNOLOGY-113,PT. Technology Singapore 113
+159554.15,8413.14,18.96,Singapore,False,Manufacturing,False,9,PT,Verified,SGP-PT-MANUFACTURING-107,PT Manufacturing Singapore 107
+17091.73,1381.24,12.37,Indonesia,False,Technology,False,10,CV,Verified,IDN-CV-TECHNOLOGY-028,CV Technology Indonesia 028
+3228832.53,12440267.3,0.26,Cayman Islands,True,Luxury Goods,True,3,Individual,High-Risk,CAY-INDIVIDUAL-LUXURY_GOODS-006,Individual Luxury Goods Cayman Islands 006
+375056.85,42494.87,8.83,UAE,True,Consulting,False,8,Foundation,Caution,UAE-FOUNDATION-CONSULTING-125,Foundation Consulting UAE 125
+8505.65,470.96,18.06,Indonesia,False,Technology,False,16,PT,Verified,IDN-PT-TECHNOLOGY-049,PT Technology Indonesia 049
+378229.78,38646.64,9.79,Indonesia,False,Consulting,True,7,Individual,Caution,IDN-INDIVIDUAL-CONSULTING-033,Individual Consulting Indonesia 033
+227319587.24,912646210.08,0.25,Panama,True,Holding Company,True,2,Individual,High-Risk,PAN-INDIVIDUAL-HOLDING_COMPANY-079,Individual Holding Company Panama 079
+18482.09,,18.74,USA,False,,False,15,,Verified,USA-UNKNOWN-UNKNOWN-168,Unknown Unknown USA 168
+134156.66,8197.47,16.37,Vietnam,True,Real Estate,False,8,PT,Caution,VIE-PT-REAL_ESTATE-178,PT Real Estate Vietnam 178
+8018.71,762.27,10.52,Indonesia,False,Forestry,False,13,PT,Verified,IDN-PT-FORESTRY-045,PT Forestry Indonesia 045
+13821.81,1015.39,13.61,Indonesia,True,Manufacturing,False,12,PT,Verified,IDN-PT-MANUFACTURING-047,PT Manufacturing Indonesia 047
+35797.99,2338.12,15.31,Indonesia,False,Manufacturing,False,13,PT,Verified,IDN-PT-MANUFACTURING-047,PT Manufacturing Indonesia 047
+1630369.33,3430238.18,0.48,Cayman Islands,True,Holding Company,True,0,Foundation,High-Risk,CAY-FOUNDATION-HOLDING_COMPANY-001,Foundation Holding Company Cayman Islands 001
+8295.76,580.74,14.28,USA,False,Agriculture,False,13,CV,Verified,USA-CV-AGRICULTURE-153,CV Agriculture USA 153
+4716.07,313.89,15.02,Indonesia,False,Technology,False,10,PT,Verified,IDN-PT-TECHNOLOGY-049,PT Technology Indonesia 049
+3390179.77,8299978.52,0.41,Cayman Islands,True,Holding Company,True,3,Individual,High-Risk,CAY-INDIVIDUAL-HOLDING_COMPANY-005,Individual Holding Company Cayman Islands 005
+61565.75,3194.13,19.27,Indonesia,False,Technology,False,10,Ltd.,Verified,IDN-LTD-TECHNOLOGY-041,Ltd. Technology Indonesia 041
+23107.85,1606.33,14.39,Malaysia,False,Agriculture,False,10,PT,Verified,MYS-PT-AGRICULTURE-067,PT Agriculture Malaysia 067
+21489.9,1124.95,19.1,USA,False,Agriculture,False,13,PT,Verified,USA-PT-AGRICULTURE-162,PT Agriculture USA 162
+27167.83,1448.6,18.75,Indonesia,False,Manufacturing,False,14,PT,Verified,IDN-PT-MANUFACTURING-047,PT Manufacturing Indonesia 047
+148574.97,10416.0,14.26,Singapore,False,Energy,False,12,PT,Verified,SGP-PT-ENERGY-104,PT Energy Singapore 104
+12812140.71,74148196.08,0.17,Panama,True,Holding Company,True,2,LLC,High-Risk,PAN-LLC-HOLDING_COMPANY-082,LLC Holding Company Panama 082
+67545.86,3566.55,18.94,UK,True,Energy,False,9,PT,Verified,UK-PT-ENERGY-145,PT Energy UK 145
+14778.58,951.32,15.53,Indonesia,False,Technology,False,14,CV,Verified,IDN-CV-TECHNOLOGY-028,CV Technology Indonesia 028
+57790.14,3852.01,15.0,USA,True,Technology,False,12,CV,Verified,USA-CV-TECHNOLOGY-157,CV Technology USA 157
+9730.7,626.68,15.53,Malaysia,False,Agriculture,False,11,PT,Verified,MYS-PT-AGRICULTURE-067,PT Agriculture Malaysia 067
+12424.21,1150.84,10.8,USA,False,Manufacturing,False,11,PT,Verified,USA-PT-MANUFACTURING-165,PT Manufacturing USA 165
+356415.16,26648.84,13.37,Vietnam,True,Holding Company,False,6,Foundation,Caution,VIE-FOUNDATION-HOLDING_COMPANY-170,Foundation Holding Company Vietnam 170
+83500.2,4505.45,18.53,USA,False,Technology,False,12,PT,Verified,USA-PT-TECHNOLOGY-166,PT Technology USA 166
+3523.82,207.03,17.02,Indonesia,False,Energy,False,10,PT.,Verified,IDN-PT-ENERGY-051,PT. Energy Indonesia 051
+40435.61,2985.26,13.55,Indonesia,False,Technology,False,9,PT,Verified,IDN-PT-TECHNOLOGY-049,PT Technology Indonesia 049
+3551.54,234.01,15.18,Indonesia,False,Energy,False,10,PT,Verified,IDN-PT-ENERGY-044,PT Energy Indonesia 044
+14865.65,1270.36,11.7,Indonesia,False,Forestry,False,9,PT.,Verified,IDN-PT-FORESTRY-052,PT. Forestry Indonesia 052
+77522.28,4500.19,17.23,Singapore,True,Manufacturing,False,13,PT,Verified,SGP-PT-MANUFACTURING-107,PT Manufacturing Singapore 107
+86860.89,6196.49,14.02,Indonesia,True,Manufacturing,False,10,PT,Verified,IDN-PT-MANUFACTURING-047,PT Manufacturing Indonesia 047
+2938759.47,13372008.61,0.22,Cayman Islands,True,Luxury Goods,True,3,Individual,High-Risk,CAY-INDIVIDUAL-LUXURY_GOODS-006,Individual Luxury Goods Cayman Islands 006
+50081.44,2354.21,21.27,Indonesia,True,Real Estate,True,7,PT,Caution,IDN-PT-REAL_ESTATE-048,PT Real Estate Indonesia 048
+333713.88,17412.63,19.17,Indonesia,False,Consulting,True,22,PT,Caution,IDN-PT-CONSULTING-043,PT Consulting Indonesia 043
+2928.22,159.01,18.42,Indonesia,False,Technology,False,12,PT.,Verified,IDN-PT-TECHNOLOGY-055,PT. Technology Indonesia 055
+52724.94,3166.5,16.65,Indonesia,False,Energy,False,11,PT,Verified,IDN-PT-ENERGY-044,PT Energy Indonesia 044
+5799.39,362.96,15.98,Malaysia,True,Energy,False,11,PT,Verified,MYS-PT-ENERGY-068,PT Energy Malaysia 068
+48985.48,127652.74,0.38,UAE,True,Holding Company,True,5,Foundation,High-Risk,UAE-FOUNDATION-HOLDING_COMPANY-126,Foundation Holding Company UAE 126
+5615770.26,12385017.69,0.45,Panama,True,Holding Company,True,2,Individual,High-Risk,PAN-INDIVIDUAL-HOLDING_COMPANY-079,Individual Holding Company Panama 079
+74334.99,4182.87,17.77,Indonesia,False,Technology,False,15,PT,Verified,IDN-PT-TECHNOLOGY-049,PT Technology Indonesia 049
+12263.22,749.81,16.36,Singapore,True,Consulting,True,22,Foundation,Caution,SGP-FOUNDATION-CONSULTING-091,Foundation Consulting Singapore 091
+27361.13,2043.65,13.39,UK,False,Manufacturing,False,13,PT,Verified,UK-PT-MANUFACTURING-147,PT Manufacturing UK 147
+48720.84,2749.35,17.72,USA,True,Energy,False,10,CV,Verified,USA-CV-ENERGY-154,CV Energy USA 154
+65879.98,4755.46,13.85,Indonesia,True,Energy,False,17,PT,Verified,IDN-PT-ENERGY-044,PT Energy Indonesia 044
+67078.19,4280.68,15.67,Malaysia,False,Manufacturing,False,12,CV,Verified,MYS-CV-MANUFACTURING-060,CV Manufacturing Malaysia 060
+304098.49,15701.78,19.37,Singapore,True,Holding Company,False,23,Foundation,Caution,SGP-FOUNDATION-HOLDING_COMPANY-092,Foundation Holding Company Singapore 092
+34016.44,3013.17,11.29,Indonesia,False,Consulting,False,20,Foundation,Caution,IDN-FOUNDATION-CONSULTING-029,Foundation Consulting Indonesia 029
+6435.31,589.32,10.92,Indonesia,True,Energy,False,17,PT,Verified,IDN-PT-ENERGY-044,PT Energy Indonesia 044
+41877.53,2481.75,16.87,Indonesia,False,Technology,False,14,PT,Verified,IDN-PT-TECHNOLOGY-049,PT Technology Indonesia 049
+2505.22,137.81,18.18,Indonesia,True,Agriculture,False,11,PT,Verified,IDN-PT-AGRICULTURE-042,PT Agriculture Indonesia 042
+22018.2,1116.43,19.72,Indonesia,False,Agriculture,False,9,PT,Verified,IDN-PT-AGRICULTURE-042,PT Agriculture Indonesia 042
+43908.8,2911.05,15.08,USA,False,Forestry,False,15,PT,Verified,USA-PT-FORESTRY-164,PT Forestry USA 164
+1231811.79,2988209.95,0.41,Panama,True,Holding Company,True,4,Individual,High-Risk,PAN-INDIVIDUAL-HOLDING_COMPANY-079,Individual Holding Company Panama 079
+6786.15,496.48,13.67,Indonesia,False,Agriculture,False,12,CV,Verified,IDN-CV-AGRICULTURE-024,CV Agriculture Indonesia 024
+4430.41,346.62,12.78,Singapore,False,Agriculture,False,12,PT,Verified,SGP-PT-AGRICULTURE-102,PT Agriculture Singapore 102
+68583.06,4364.99,15.71,Singapore,False,Manufacturing,False,10,CV,Verified,SGP-CV-MANUFACTURING-089,CV Manufacturing Singapore 089
+11356.29,670.27,16.94,Singapore,False,Agriculture,False,16,PT,Verified,SGP-PT-AGRICULTURE-102,PT Agriculture Singapore 102
+21130.71,1336.76,15.81,Indonesia,False,Manufacturing,False,13,PT,Verified,IDN-PT-MANUFACTURING-047,PT Manufacturing Indonesia 047
+107153.13,9843.22,10.89,Singapore,False,Manufacturing,False,16,CV,Verified,SGP-CV-MANUFACTURING-089,CV Manufacturing Singapore 089
+1890695.72,212079.06,8.92,Vietnam,True,Real Estate,False,21,Individual,Caution,VIE-INDIVIDUAL-REAL_ESTATE-174,Individual Real Estate Vietnam 174
+10198.64,565.45,18.04,Malaysia,False,Energy,False,16,PT,Verified,MYS-PT-ENERGY-068,PT Energy Malaysia 068
+56342.73,3764.34,14.97,China,True,Holding Company,False,8,Foundation,Caution,CHN-FOUNDATION-HOLDING_COMPANY-012,Foundation Holding Company China 012
+18343.59,970.12,18.91,UK,False,Energy,False,15,PT,Verified,UK-PT-ENERGY-145,PT Energy UK 145
+13851.27,938.37,14.76,Indonesia,False,Manufacturing,False,17,PT,Verified,IDN-PT-MANUFACTURING-047,PT Manufacturing Indonesia 047
+26962.46,1820.92,14.81,Malaysia,False,Technology,False,9,PT,Verified,MYS-PT-TECHNOLOGY-071,PT Technology Malaysia 071
+8120.95,644.66,12.6,China,False,Holding Company,False,21,Individual,Caution,CHN-INDIVIDUAL-HOLDING_COMPANY-016,Individual Holding Company China 016
+6691.59,367.69,18.2,Indonesia,False,Energy,False,12,PT,Verified,IDN-PT-ENERGY-044,PT Energy Indonesia 044
+10037.6,574.55,17.47,Indonesia,True,Energy,False,14,CV,Verified,IDN-CV-ENERGY-025,CV Energy Indonesia 025
+69741.95,4849.06,14.38,Indonesia,False,Manufacturing,False,9,PT,Verified,IDN-PT-MANUFACTURING-047,PT Manufacturing Indonesia 047
+283815.86,608068.95,0.47,Cayman Islands,True,Real Estate,True,4,Foundation,High-Risk,CAY-FOUNDATION-REAL_ESTATE-003,Foundation Real Estate Cayman Islands 003
+353154.26,1174023.66,0.3,UAE,True,Consulting,True,5,LLC,High-Risk,UAE-LLC-CONSULTING-135,LLC Consulting UAE 135
+127415.62,9648.25,13.21,Indonesia,True,Real Estate,True,18,Individual,Caution,IDN-INDIVIDUAL-REAL_ESTATE-035,Individual Real Estate Indonesia 035
+44180.91,3102.97,14.24,USA,True,Technology,False,11,CV,Verified,USA-CV-TECHNOLOGY-157,CV Technology USA 157
+15940.14,1217.31,13.09,Indonesia,False,Agriculture,False,13,PT,Verified,IDN-PT-AGRICULTURE-042,PT Agriculture Indonesia 042
+143294.93,11309.21,12.67,Indonesia,False,Manufacturing,False,15,PT,Verified,IDN-PT-MANUFACTURING-047,PT Manufacturing Indonesia 047
+21463.31,1247.51,17.2,Indonesia,False,Agriculture,False,9,PT,Verified,IDN-PT-AGRICULTURE-042,PT Agriculture Indonesia 042
+425518.67,892581.03,0.48,Panama,True,Holding Company,True,1,Individual,High-Risk,PAN-INDIVIDUAL-HOLDING_COMPANY-079,Individual Holding Company Panama 079
+30523.32,2831.93,10.78,Singapore,False,Manufacturing,False,17,PT,Verified,SGP-PT-MANUFACTURING-107,PT Manufacturing Singapore 107
+34120.82,2579.56,13.23,Malaysia,False,Agriculture,False,12,CV,Verified,MYS-CV-AGRICULTURE-057,CV Agriculture Malaysia 057
+18623.02,1053.73,17.67,Indonesia,True,Energy,False,17,PT,Verified,IDN-PT-ENERGY-044,PT Energy Indonesia 044
+31262.0,1792.41,17.44,Indonesia,True,Energy,False,9,Ltd.,Verified,IDN-LTD-ENERGY-038,Ltd. Energy Indonesia 038
+12659.16,1196.43,10.58,USA,False,Manufacturing,False,15,PT.,Verified,USA-PT-MANUFACTURING-167,PT. Manufacturing USA 167
+18577.31,1248.76,14.88,Indonesia,False,Technology,False,9,PT,Verified,IDN-PT-TECHNOLOGY-049,PT Technology Indonesia 049
+30179.34,1787.09,16.89,Indonesia,False,Energy,False,10,Ltd.,Verified,IDN-LTD-ENERGY-038,Ltd. Energy Indonesia 038
+1033901.65,48478.36,21.33,Indonesia,False,Real Estate,False,23,PT,Caution,IDN-PT-REAL_ESTATE-048,PT Real Estate Indonesia 048
+20360794.42,40908524.08,0.5,Cayman Islands,True,Holding Company,True,1,Foundation,High-Risk,CAY-FOUNDATION-HOLDING_COMPANY-001,Foundation Holding Company Cayman Islands 001
+12771.73,692.89,18.43,Indonesia,True,Technology,False,15,CV,Verified,IDN-CV-TECHNOLOGY-028,CV Technology Indonesia 028
+11161.49,564.2,19.78,UK,False,Technology,False,15,PT,Verified,UK-PT-TECHNOLOGY-148,PT Technology UK 148
+198729.67,695428.28,0.29,Switzerland,True,Holding Company,True,4,Individual,High-Risk,SWI-INDIVIDUAL-HOLDING_COMPANY-118,Individual Holding Company Switzerland 118
+17762.89,1140.4,15.58,Indonesia,False,Energy,False,15,PT,Verified,IDN-PT-ENERGY-044,PT Energy Indonesia 044
+10179.51,644.65,15.79,Indonesia,True,Forestry,False,12,PT,Verified,IDN-PT-FORESTRY-045,PT Forestry Indonesia 045
+5540.85,357.16,15.51,Indonesia,False,Energy,False,11,PT,Verified,IDN-PT-ENERGY-044,PT Energy Indonesia 044
+27131.83,2372.87,11.43,Indonesia,False,Energy,False,11,PT,Verified,IDN-PT-ENERGY-044,PT Energy Indonesia 044
+156472.47,12115.4,12.92,Vietnam,True,Technology,True,22,Foundation,Caution,VIE-FOUNDATION-TECHNOLOGY-172,Foundation Technology Vietnam 172
+43086.52,2826.43,15.24,Indonesia,False,Agriculture,False,17,PT,Verified,IDN-PT-AGRICULTURE-042,PT Agriculture Indonesia 042
+3827.1,,13.31,Singapore,False,,False,10,,Verified,SGP-UNKNOWN-UNKNOWN-114,Unknown Unknown Singapore 114
+20642.91,1639.28,12.59,Indonesia,False,Energy,False,13,PT,Verified,IDN-PT-ENERGY-044,PT Energy Indonesia 044
+28975.01,2285.63,12.68,Indonesia,False,Agriculture,False,16,PT,Verified,IDN-PT-AGRICULTURE-042,PT Agriculture Indonesia 042
+58269.24,2350.48,24.79,Indonesia,False,Technology,True,18,Foundation,Caution,IDN-FOUNDATION-TECHNOLOGY-032,Foundation Technology Indonesia 032
+16182.03,1051.32,15.39,Singapore,False,Forestry,False,9,CV,Verified,SGP-CV-FORESTRY-088,CV Forestry Singapore 088
+8323.57,426.85,19.5,Indonesia,False,Forestry,False,15,PT,Verified,IDN-PT-FORESTRY-045,PT Forestry Indonesia 045
+57562.36,5189.87,11.09,Malaysia,False,Energy,False,13,PT,Verified,MYS-PT-ENERGY-068,PT Energy Malaysia 068
+13888.0,1070.48,12.97,Indonesia,False,Technology,False,17,CV,Verified,IDN-CV-TECHNOLOGY-028,CV Technology Indonesia 028
+63149.52,3888.22,16.24,Indonesia,False,Technology,False,11,PT,Verified,IDN-PT-TECHNOLOGY-049,PT Technology Indonesia 049
+545784.49,28265.17,19.31,Vietnam,False,Real Estate,False,18,PT,Caution,VIE-PT-REAL_ESTATE-178,PT Real Estate Vietnam 178
+95057.61,5155.51,18.44,Indonesia,False,Technology,False,12,PT,Verified,IDN-PT-TECHNOLOGY-049,PT Technology Indonesia 049
+123656.96,8152.12,15.17,Indonesia,False,Technology,False,15,CV,Verified,IDN-CV-TECHNOLOGY-028,CV Technology Indonesia 028
+26162.36,2602.86,10.05,USA,False,Forestry,False,9,PT,Verified,USA-PT-FORESTRY-164,PT Forestry USA 164
+173846.82,19115.14,9.09,Singapore,True,Holding Company,False,18,Foundation,Caution,SGP-FOUNDATION-HOLDING_COMPANY-092,Foundation Holding Company Singapore 092
+3164.28,,13.69,UK,True,,False,15,,Verified,UK-UNKNOWN-UNKNOWN-152,Unknown Unknown UK 152
+24664.78,2247.22,10.98,Indonesia,True,Technology,False,22,Foundation,Caution,IDN-FOUNDATION-TECHNOLOGY-032,Foundation Technology Indonesia 032
+9469.77,611.31,15.49,USA,False,Manufacturing,False,9,PT,Verified,USA-PT-MANUFACTURING-165,PT Manufacturing USA 165
+116445.65,5897.73,19.74,China,False,Real Estate,True,18,Foundation,Caution,CHN-FOUNDATION-REAL_ESTATE-013,Foundation Real Estate China 013
+4182.29,380.71,10.99,Singapore,False,Manufacturing,False,16,PT,Verified,SGP-PT-MANUFACTURING-107,PT Manufacturing Singapore 107
+9080.42,606.32,14.98,USA,False,Energy,False,13,CV,Verified,USA-CV-ENERGY-154,CV Energy USA 154
+30786.9,1693.31,18.18,USA,False,Technology,False,17,PT,Verified,USA-PT-TECHNOLOGY-166,PT Technology USA 166
+293435.13,13722.42,21.38,China,True,Consulting,False,6,Foundation,Caution,CHN-FOUNDATION-CONSULTING-011,Foundation Consulting China 011
+20809.99,1048.65,19.84,USA,False,Energy,False,12,PT,Verified,USA-PT-ENERGY-163,PT Energy USA 163
+188047.1,,15.62,Indonesia,True,,False,20,,Caution,IDN-UNKNOWN-UNKNOWN-056,Unknown Unknown Indonesia 056
+6165.41,499.03,12.35,Indonesia,False,Manufacturing,False,15,Ltd.,Verified,IDN-LTD-MANUFACTURING-040,Ltd. Manufacturing Indonesia 040
+10592.89,576.16,18.39,Singapore,False,Technology,False,11,PT,Verified,SGP-PT-TECHNOLOGY-109,PT Technology Singapore 109
+12117.82,,10.58,USA,False,,False,9,,Verified,USA-UNKNOWN-UNKNOWN-168,Unknown Unknown USA 168
+34114.27,2664.64,12.8,Malaysia,False,Agriculture,False,16,Ltd.,Verified,MYS-LTD-AGRICULTURE-062,Ltd. Agriculture Malaysia 062
+6170.42,384.55,16.05,UK,True,Manufacturing,False,13,PT.,Verified,UK-PT-MANUFACTURING-151,PT. Manufacturing UK 151
+96509.37,8420.25,11.46,Malaysia,False,Manufacturing,False,11,PT,Verified,MYS-PT-MANUFACTURING-070,PT Manufacturing Malaysia 070
+52375.3,3073.35,17.04,Indonesia,False,Forestry,False,16,PT,Verified,IDN-PT-FORESTRY-045,PT Forestry Indonesia 045
+8308.64,589.23,14.1,Malaysia,False,Manufacturing,False,10,PT,Verified,MYS-PT-MANUFACTURING-070,PT Manufacturing Malaysia 070
+951179.64,3924901.32,0.24,Panama,True,Holding Company,True,0,Individual,High-Risk,PAN-INDIVIDUAL-HOLDING_COMPANY-079,Individual Holding Company Panama 079
+21146.94,,13.96,Indonesia,False,,False,10,,Verified,IDN-UNKNOWN-UNKNOWN-056,Unknown Unknown Indonesia 056
+16381826.06,80427859.31,0.2,UAE,True,Luxury Goods,True,0,Foundation,High-Risk,UAE-FOUNDATION-LUXURY_GOODS-127,Foundation Luxury Goods UAE 127
+45914.65,2733.04,16.8,Indonesia,True,Manufacturing,False,13,PT,Verified,IDN-PT-MANUFACTURING-047,PT Manufacturing Indonesia 047
+7487.29,,19.59,Indonesia,False,,False,14,,Verified,IDN-UNKNOWN-UNKNOWN-056,Unknown Unknown Indonesia 056
+110094.64,9130.19,12.06,UAE,True,Consulting,True,6,PT,Caution,UAE-PT-CONSULTING-137,PT Consulting UAE 137
+11532.57,925.62,12.46,Indonesia,False,Agriculture,False,14,PT,Verified,IDN-PT-AGRICULTURE-042,PT Agriculture Indonesia 042
+6199.44,541.18,11.46,Indonesia,False,Technology,False,16,PT,Verified,IDN-PT-TECHNOLOGY-049,PT Technology Indonesia 049
+5558.57,474.38,11.72,UK,False,Energy,False,13,PT,Verified,UK-PT-ENERGY-145,PT Energy UK 145
+9244.24,572.74,16.14,Singapore,True,Forestry,False,10,PT,Verified,SGP-PT-FORESTRY-105,PT Forestry Singapore 105
+24268.56,2194.41,11.06,Indonesia,True,Manufacturing,False,9,CV,Verified,IDN-CV-MANUFACTURING-027,CV Manufacturing Indonesia 027
+49938.41,3411.04,14.64,Indonesia,False,Manufacturing,False,15,PT,Verified,IDN-PT-MANUFACTURING-047,PT Manufacturing Indonesia 047
+16124.37,888.31,18.15,Singapore,False,Manufacturing,False,11,PT,Verified,SGP-PT-MANUFACTURING-107,PT Manufacturing Singapore 107
+91042.03,5162.2,17.64,Indonesia,False,Technology,False,16,CV,Verified,IDN-CV-TECHNOLOGY-028,CV Technology Indonesia 028
+95208.04,6823.37,13.95,Malaysia,False,Forestry,False,13,PT.,Verified,MYS-PT-FORESTRY-073,PT. Forestry Malaysia 073
+23019.6,1167.04,19.72,Indonesia,False,Energy,False,9,PT,Verified,IDN-PT-ENERGY-044,PT Energy Indonesia 044
+92103.36,4941.51,18.64,Indonesia,False,Agriculture,False,9,Ltd.,Verified,IDN-LTD-AGRICULTURE-037,Ltd. Agriculture Indonesia 037
+14999.61,1454.55,10.31,UK,False,Technology,False,17,PT,Verified,UK-PT-TECHNOLOGY-148,PT Technology UK 148
+31022.8,2818.01,11.01,USA,False,Agriculture,False,11,CV,Verified,USA-CV-AGRICULTURE-153,CV Agriculture USA 153
+227320.08,18796.47,12.09,China,True,Real Estate,True,18,PT,Caution,CHN-PT-REAL_ESTATE-021,PT Real Estate China 021
+40546.47,3877.52,10.46,Indonesia,False,Agriculture,False,16,CV,Verified,IDN-CV-AGRICULTURE-024,CV Agriculture Indonesia 024
+29613.03,1911.01,15.5,UK,False,Forestry,False,10,PT,Verified,UK-PT-FORESTRY-146,PT Forestry UK 146
+23234.07,943.84,24.62,China,True,Holding Company,True,18,Foundation,Caution,CHN-FOUNDATION-HOLDING_COMPANY-012,Foundation Holding Company China 012
+49965.76,3399.27,14.7,Malaysia,False,Energy,False,17,Ltd.,Verified,MYS-LTD-ENERGY-063,Ltd. Energy Malaysia 063
+1753483.05,76859.73,22.81,Vietnam,False,Consulting,False,6,PT,Caution,VIE-PT-CONSULTING-176,PT Consulting Vietnam 176
+2648.8,188.71,14.04,USA,False,Energy,False,11,PT,Verified,USA-PT-ENERGY-163,PT Energy USA 163
+13895.47,916.58,15.16,USA,True,Manufacturing,False,16,PT,Verified,USA-PT-MANUFACTURING-165,PT Manufacturing USA 165
+17415.66,,12.43,Indonesia,False,,False,12,,Verified,IDN-UNKNOWN-UNKNOWN-056,Unknown Unknown Indonesia 056
+172259.57,12623.46,13.65,Singapore,False,Real Estate,True,6,PT,Caution,SGP-PT-REAL_ESTATE-108,PT Real Estate Singapore 108
+14091.04,1007.78,13.98,Singapore,False,Agriculture,False,10,CV,Verified,SGP-CV-AGRICULTURE-086,CV Agriculture Singapore 086
+10071.46,609.46,16.53,Indonesia,False,Energy,False,15,Ltd.,Verified,IDN-LTD-ENERGY-038,Ltd. Energy Indonesia 038
+203010.1,,0.49,Panama,True,,True,2,,High-Risk,PAN-UNKNOWN-UNKNOWN-085,Unknown Unknown Panama 085
+24024.77,1930.34,12.45,China,False,Consulting,False,20,Individual,Caution,CHN-INDIVIDUAL-CONSULTING-015,Individual Consulting China 015
+8357.0,445.67,18.75,Singapore,False,Energy,False,17,CV,Verified,SGP-CV-ENERGY-087,CV Energy Singapore 087
+43614.53,2321.3,18.79,Indonesia,False,Energy,False,10,PT,Verified,IDN-PT-ENERGY-044,PT Energy Indonesia 044
+100022.87,5320.44,18.8,UAE,True,Consulting,True,20,PT,Caution,UAE-PT-CONSULTING-137,PT Consulting UAE 137
+41848.52,2905.39,14.4,Indonesia,False,Manufacturing,False,14,PT,Verified,IDN-PT-MANUFACTURING-047,PT Manufacturing Indonesia 047
+83084.03,5588.43,14.87,Indonesia,False,Technology,False,12,PT,Verified,IDN-PT-TECHNOLOGY-049,PT Technology Indonesia 049
+33250.18,72296.22,0.46,Panama,True,Luxury Goods,True,1,LLC,High-Risk,PAN-LLC-LUXURY_GOODS-083,LLC Luxury Goods Panama 083
+12043.89,815.09,14.78,Indonesia,True,Technology,False,10,PT,Verified,IDN-PT-TECHNOLOGY-049,PT Technology Indonesia 049
+7659.67,391.11,19.58,USA,False,Energy,False,13,PT,Verified,USA-PT-ENERGY-163,PT Energy USA 163
+2061801.27,8849325.68,0.23,Cayman Islands,True,Luxury Goods,True,3,Foundation,High-Risk,CAY-FOUNDATION-LUXURY_GOODS-002,Foundation Luxury Goods Cayman Islands 002
+500569.52,28224.65,17.74,China,False,Real Estate,True,6,PT,Caution,CHN-PT-REAL_ESTATE-021,PT Real Estate China 021
+16660.45,1010.27,16.49,Indonesia,True,Forestry,False,10,Ltd.,Verified,IDN-LTD-FORESTRY-039,Ltd. Forestry Indonesia 039
+6324.73,,16.27,Indonesia,False,,False,12,,Verified,IDN-UNKNOWN-UNKNOWN-056,Unknown Unknown Indonesia 056
+52556.64,5163.86,10.18,Indonesia,False,Technology,False,12,PT,Verified,IDN-PT-TECHNOLOGY-049,PT Technology Indonesia 049
+45287.9,,13.24,Singapore,True,,False,9,,Verified,SGP-UNKNOWN-UNKNOWN-114,Unknown Unknown Singapore 114
+10460.05,569.55,18.37,Indonesia,False,Manufacturing,False,14,PT,Verified,IDN-PT-MANUFACTURING-047,PT Manufacturing Indonesia 047
+20698.81,1538.07,13.46,USA,False,Manufacturing,False,12,PT,Verified,USA-PT-MANUFACTURING-165,PT Manufacturing USA 165
+79315.23,7312.42,10.85,Indonesia,True,Energy,False,10,PT,Verified,IDN-PT-ENERGY-044,PT Energy Indonesia 044
+30329.94,1999.65,15.17,Indonesia,False,Technology,False,9,Ltd.,Verified,IDN-LTD-TECHNOLOGY-041,Ltd. Technology Indonesia 041
+441048.48,25394.05,17.37,Indonesia,True,Consulting,False,19,PT,Caution,IDN-PT-CONSULTING-043,PT Consulting Indonesia 043
+1496862.35,3225247.99,0.46,Panama,True,Holding Company,True,1,LLC,High-Risk,PAN-LLC-HOLDING_COMPANY-082,LLC Holding Company Panama 082
+135395.95,10992.23,12.32,Singapore,False,Technology,False,16,PT,Verified,SGP-PT-TECHNOLOGY-109,PT Technology Singapore 109
+14433.32,1301.67,11.09,USA,False,Technology,False,15,PT,Verified,USA-PT-TECHNOLOGY-166,PT Technology USA 166
+46027.24,3413.87,13.48,USA,False,Agriculture,False,12,CV,Verified,USA-CV-AGRICULTURE-153,CV Agriculture USA 153
+23033.57,2054.21,11.21,UK,True,Energy,False,16,PT.,Verified,UK-PT-ENERGY-149,PT. Energy UK 149
+101310.08,9609.51,10.54,Malaysia,False,Energy,False,15,CV,Verified,MYS-CV-ENERGY-058,CV Energy Malaysia 058
+22875.0,1422.06,16.09,Indonesia,False,Agriculture,False,15,CV,Verified,IDN-CV-AGRICULTURE-024,CV Agriculture Indonesia 024
+154427724.19,362831415.21,0.43,Cayman Islands,True,Holding Company,True,5,LLC,High-Risk,CAY-LLC-HOLDING_COMPANY-009,LLC Holding Company Cayman Islands 009
+32403.71,1813.12,17.87,Indonesia,False,Manufacturing,False,12,PT,Verified,IDN-PT-MANUFACTURING-047,PT Manufacturing Indonesia 047
+78037.31,4490.72,17.38,USA,False,Manufacturing,False,14,PT,Verified,USA-PT-MANUFACTURING-165,PT Manufacturing USA 165
+17635.97,,18.21,Malaysia,True,,False,9,,Verified,MYS-UNKNOWN-UNKNOWN-074,Unknown Unknown Malaysia 074
+2089.2,162.54,12.85,Indonesia,True,Agriculture,False,13,PT,Verified,IDN-PT-AGRICULTURE-042,PT Agriculture Indonesia 042
+152993.0,331026.13,0.46,UAE,True,Luxury Goods,False,1,LLC,High-Risk,UAE-LLC-LUXURY_GOODS-136,LLC Luxury Goods UAE 136
+106945.47,9135.64,11.71,Indonesia,False,Real Estate,False,19,Foundation,Caution,IDN-FOUNDATION-REAL_ESTATE-031,Foundation Real Estate Indonesia 031
+9358.15,525.67,17.8,Singapore,False,Manufacturing,False,16,CV,Verified,SGP-CV-MANUFACTURING-089,CV Manufacturing Singapore 089
+382791.13,27108.57,14.12,Indonesia,True,Consulting,True,23,Individual,Caution,IDN-INDIVIDUAL-CONSULTING-033,Individual Consulting Indonesia 033
+116096.56,5548.16,20.93,Vietnam,True,Real Estate,False,6,Foundation,Caution,VIE-FOUNDATION-REAL_ESTATE-171,Foundation Real Estate Vietnam 171
+18254.4,1228.79,14.86,UK,False,Technology,False,13,PT,Verified,UK-PT-TECHNOLOGY-148,PT Technology UK 148
+1164683.32,60774.26,19.16,China,False,Technology,True,18,Foundation,Caution,CHN-FOUNDATION-TECHNOLOGY-014,Foundation Technology China 014
+50335.85,3412.63,14.75,Indonesia,False,Manufacturing,False,15,Ltd.,Verified,IDN-LTD-MANUFACTURING-040,Ltd. Manufacturing Indonesia 040
+18613.23,1015.57,18.33,Singapore,False,Manufacturing,False,13,PT,Verified,SGP-PT-MANUFACTURING-107,PT Manufacturing Singapore 107
+27621.25,1417.79,19.48,USA,True,Manufacturing,False,12,Ltd.,Verified,USA-LTD-MANUFACTURING-160,Ltd. Manufacturing USA 160
+311279.34,22937.18,13.57,Singapore,False,Real Estate,False,18,PT.,Caution,SGP-PT-REAL_ESTATE-112,PT. Real Estate Singapore 112
+49617.69,4057.43,12.23,Indonesia,False,Technology,False,17,CV,Verified,IDN-CV-TECHNOLOGY-028,CV Technology Indonesia 028
+5348.02,289.06,18.5,Malaysia,False,Agriculture,False,11,PT,Verified,MYS-PT-AGRICULTURE-067,PT Agriculture Malaysia 067
+8934.78,,12.66,Indonesia,False,,False,16,,Verified,IDN-UNKNOWN-UNKNOWN-056,Unknown Unknown Indonesia 056
+16536.32,1203.51,13.74,Indonesia,False,Energy,False,13,PT,Verified,IDN-PT-ENERGY-044,PT Energy Indonesia 044
+23101.1,1490.67,15.5,Singapore,True,Energy,False,12,PT,Verified,SGP-PT-ENERGY-104,PT Energy Singapore 104
+3559.65,350.43,10.16,Malaysia,False,Forestry,False,11,CV,Verified,MYS-CV-FORESTRY-059,CV Forestry Malaysia 059
+110962.62,9166.97,12.1,Indonesia,False,Forestry,False,11,PT,Verified,IDN-PT-FORESTRY-045,PT Forestry Indonesia 045
+60547.42,4756.06,12.73,Indonesia,True,Energy,False,11,PT,Verified,IDN-PT-ENERGY-044,PT Energy Indonesia 044
+11641.81,1105.22,10.53,Indonesia,False,Agriculture,False,14,CV,Verified,IDN-CV-AGRICULTURE-024,CV Agriculture Indonesia 024
+26896.71,1524.22,17.65,Singapore,False,Agriculture,False,10,CV,Verified,SGP-CV-AGRICULTURE-086,CV Agriculture Singapore 086
+7383.89,439.38,16.81,UK,True,Agriculture,False,16,PT,Verified,UK-PT-AGRICULTURE-144,PT Agriculture UK 144
+18962.52,1310.33,14.47,Indonesia,False,Manufacturing,False,15,PT,Verified,IDN-PT-MANUFACTURING-047,PT Manufacturing Indonesia 047
+20648.99,1386.93,14.89,Indonesia,False,Manufacturing,False,11,Ltd.,Verified,IDN-LTD-MANUFACTURING-040,Ltd. Manufacturing Indonesia 040
+67161.02,3377.28,19.89,Indonesia,False,Manufacturing,False,15,CV,Verified,IDN-CV-MANUFACTURING-027,CV Manufacturing Indonesia 027
+3005.27,269.39,11.16,Indonesia,False,Energy,False,11,PT,Verified,IDN-PT-ENERGY-044,PT Energy Indonesia 044
+19815.75,,10.67,UK,False,,False,16,,Verified,UK-UNKNOWN-UNKNOWN-152,Unknown Unknown UK 152
+448234.26,28829.56,15.55,China,False,Consulting,False,23,Foundation,Caution,CHN-FOUNDATION-CONSULTING-011,Foundation Consulting China 011
+13788.87,775.16,17.79,Malaysia,False,Manufacturing,False,15,Ltd.,Verified,MYS-LTD-MANUFACTURING-065,Ltd. Manufacturing Malaysia 065
+21275.21,1803.09,11.8,Indonesia,False,Energy,False,15,PT,Verified,IDN-PT-ENERGY-044,PT Energy Indonesia 044
+31710.39,2369.59,13.38,Singapore,True,Manufacturing,False,9,PT,Verified,SGP-PT-MANUFACTURING-107,PT Manufacturing Singapore 107
+389206.76,1489359.26,0.26,UAE,True,Luxury Goods,True,2,Individual,High-Risk,UAE-INDIVIDUAL-LUXURY_GOODS-132,Individual Luxury Goods UAE 132
+64199.32,3359.75,19.11,Indonesia,False,Energy,False,16,PT,Verified,IDN-PT-ENERGY-044,PT Energy Indonesia 044
+4097.16,393.58,10.41,Indonesia,False,Technology,False,17,CV,Verified,IDN-CV-TECHNOLOGY-028,CV Technology Indonesia 028
+29915.8,2110.47,14.17,Malaysia,True,Energy,False,16,PT,Verified,MYS-PT-ENERGY-068,PT Energy Malaysia 068
+10684.48,706.88,15.11,Indonesia,False,Technology,False,11,PT,Verified,IDN-PT-TECHNOLOGY-049,PT Technology Indonesia 049
+17589.76,1135.61,15.49,Indonesia,False,Energy,False,17,PT,Verified,IDN-PT-ENERGY-044,PT Energy Indonesia 044
+41452.17,2088.54,19.85,Indonesia,False,Manufacturing,False,10,PT,Verified,IDN-PT-MANUFACTURING-047,PT Manufacturing Indonesia 047
+64737.99,3836.37,16.87,Indonesia,False,Energy,False,11,PT,Verified,IDN-PT-ENERGY-044,PT Energy Indonesia 044
+1761.01,106.18,16.59,Indonesia,False,Energy,False,14,PT,Verified,IDN-PT-ENERGY-044,PT Energy Indonesia 044
+1368629.19,81572.55,16.78,Indonesia,True,Consulting,False,20,PT,Caution,IDN-PT-CONSULTING-043,PT Consulting Indonesia 043
+91700.5,6170.81,14.86,Indonesia,False,Manufacturing,False,15,PT,Verified,IDN-PT-MANUFACTURING-047,PT Manufacturing Indonesia 047
+48684.31,2620.66,18.58,Indonesia,False,Energy,False,14,PT,Verified,IDN-PT-ENERGY-044,PT Energy Indonesia 044
+8340.75,645.09,12.93,Singapore,False,Manufacturing,False,13,PT,Verified,SGP-PT-MANUFACTURING-107,PT Manufacturing Singapore 107
+49419.9,4798.96,10.3,Indonesia,False,Technology,False,10,PT,Verified,IDN-PT-TECHNOLOGY-049,PT Technology Indonesia 049
+782201.74,34101.3,22.94,China,True,Technology,False,23,PT,Caution,CHN-PT-TECHNOLOGY-022,PT Technology China 022
+19056.24,1712.21,11.13,Indonesia,False,Energy,False,14,PT,Verified,IDN-PT-ENERGY-044,PT Energy Indonesia 044
+6369.69,319.2,19.96,Indonesia,False,Manufacturing,False,14,PT,Verified,IDN-PT-MANUFACTURING-047,PT Manufacturing Indonesia 047
+5915.34,366.97,16.12,Indonesia,False,Energy,False,14,CV,Verified,IDN-CV-ENERGY-025,CV Energy Indonesia 025
+9137.1,472.87,19.32,Singapore,False,Forestry,False,16,CV,Verified,SGP-CV-FORESTRY-088,CV Forestry Singapore 088
+15891.51,1014.29,15.67,Indonesia,False,Manufacturing,False,9,PT.,Verified,IDN-PT-MANUFACTURING-054,PT. Manufacturing Indonesia 054
+453825.31,,17.08,Singapore,False,,False,11,,Verified,SGP-UNKNOWN-UNKNOWN-114,Unknown Unknown Singapore 114
+64959449.43,250637577.34,0.26,Cayman Islands,True,Holding Company,True,5,Foundation,High-Risk,CAY-FOUNDATION-HOLDING_COMPANY-001,Foundation Holding Company Cayman Islands 001
+18927.67,1672.55,11.32,Indonesia,False,Forestry,False,9,Ltd.,Verified,IDN-LTD-FORESTRY-039,Ltd. Forestry Indonesia 039
+62578.54,,14.16,Indonesia,False,,False,12,,Verified,IDN-UNKNOWN-UNKNOWN-056,Unknown Unknown Indonesia 056
+5030.27,358.06,14.05,Singapore,False,Agriculture,False,10,PT,Verified,SGP-PT-AGRICULTURE-102,PT Agriculture Singapore 102
+18491.76,1000.87,18.48,Indonesia,False,Manufacturing,False,17,PT,Verified,IDN-PT-MANUFACTURING-047,PT Manufacturing Indonesia 047
+9996.63,774.45,12.91,Malaysia,False,Technology,False,15,CV,Verified,MYS-CV-TECHNOLOGY-061,CV Technology Malaysia 061
+19611.86,1514.31,12.95,Singapore,True,Energy,False,11,PT,Verified,SGP-PT-ENERGY-104,PT Energy Singapore 104
+202101.64,18293.77,11.05,Indonesia,False,Manufacturing,False,15,PT,Verified,IDN-PT-MANUFACTURING-047,PT Manufacturing Indonesia 047
+80159.79,4943.63,16.21,Singapore,False,Manufacturing,False,17,PT,Verified,SGP-PT-MANUFACTURING-107,PT Manufacturing Singapore 107
+17706744.77,45432110.07,0.39,Cayman Islands,True,Luxury Goods,True,5,Foundation,High-Risk,CAY-FOUNDATION-LUXURY_GOODS-002,Foundation Luxury Goods Cayman Islands 002
+7715.87,429.76,17.95,Indonesia,False,Manufacturing,False,16,PT,Verified,IDN-PT-MANUFACTURING-047,PT Manufacturing Indonesia 047
+3096.39,221.39,13.99,Indonesia,True,Energy,False,12,PT,Verified,IDN-PT-ENERGY-044,PT Energy Indonesia 044
+729739.71,1636907.47,0.45,Panama,True,Consulting,True,0,Individual,High-Risk,PAN-INDIVIDUAL-CONSULTING-078,Individual Consulting Panama 078
+1064020.78,5487547.64,0.19,Panama,True,Consulting,True,0,LLC,High-Risk,PAN-LLC-CONSULTING-081,LLC Consulting Panama 081
+10668241.93,24459784.59,0.44,UAE,True,Consulting,True,0,Foundation,High-Risk,UAE-FOUNDATION-CONSULTING-125,Foundation Consulting UAE 125
+53847.59,5325.95,10.11,Indonesia,False,Energy,False,14,PT,Verified,IDN-PT-ENERGY-044,PT Energy Indonesia 044
+10973.48,754.38,14.55,Indonesia,True,Energy,False,9,PT,Verified,IDN-PT-ENERGY-044,PT Energy Indonesia 044
+143219.82,8806.59,16.26,Indonesia,False,Manufacturing,False,16,Ltd.,Verified,IDN-LTD-MANUFACTURING-040,Ltd. Manufacturing Indonesia 040
+37909.18,,15.09,Indonesia,False,,False,13,,Verified,IDN-UNKNOWN-UNKNOWN-056,Unknown Unknown Indonesia 056
+20422.01,1659.21,12.31,Malaysia,False,Agriculture,False,10,PT.,Verified,MYS-PT-AGRICULTURE-072,PT. Agriculture Malaysia 072
+31057.75,2326.25,13.35,Indonesia,False,Energy,False,12,CV,Verified,IDN-CV-ENERGY-025,CV Energy Indonesia 025
+3720.5,221.23,16.82,Indonesia,False,Energy,False,17,PT,Verified,IDN-PT-ENERGY-044,PT Energy Indonesia 044
+7699.62,479.41,16.06,USA,False,Manufacturing,False,9,PT,Verified,USA-PT-MANUFACTURING-165,PT Manufacturing USA 165
+150064.5,10153.24,14.78,USA,False,Forestry,False,11,Ltd.,Verified,USA-LTD-FORESTRY-159,Ltd. Forestry USA 159
+10087.89,686.82,14.69,Indonesia,False,Technology,False,12,PT,Verified,IDN-PT-TECHNOLOGY-049,PT Technology Indonesia 049
+3546.73,245.73,14.43,Indonesia,True,Energy,False,13,CV,Verified,IDN-CV-ENERGY-025,CV Energy Indonesia 025
+8284.48,515.99,16.06,Singapore,False,Energy,False,17,PT,Verified,SGP-PT-ENERGY-104,PT Energy Singapore 104
+926146.2,93206.87,9.94,China,True,Technology,True,8,PT,Caution,CHN-PT-TECHNOLOGY-022,PT Technology China 022
+6085.93,382.95,15.89,Indonesia,True,Energy,False,10,CV,Verified,IDN-CV-ENERGY-025,CV Energy Indonesia 025
+1424004.84,97799.4,14.56,Indonesia,True,Holding Company,True,20,PT,Caution,IDN-PT-HOLDING_COMPANY-046,PT Holding Company Indonesia 046
+23632.48,1583.36,14.93,Indonesia,True,Technology,False,16,PT,Verified,IDN-PT-TECHNOLOGY-049,PT Technology Indonesia 049
+12729.7,715.45,17.79,Singapore,False,Agriculture,False,10,PT,Verified,SGP-PT-AGRICULTURE-102,PT Agriculture Singapore 102
+14516.44,981.62,14.79,Malaysia,False,Energy,False,16,PT,Verified,MYS-PT-ENERGY-068,PT Energy Malaysia 068
+48642.17,4670.96,10.41,UK,False,Energy,False,16,PT,Verified,UK-PT-ENERGY-145,PT Energy UK 145
+23196.71,1881.8,12.33,Indonesia,False,Technology,False,15,PT,Verified,IDN-PT-TECHNOLOGY-049,PT Technology Indonesia 049
+167851.68,8358.89,20.08,Indonesia,True,Real Estate,False,8,Foundation,Caution,IDN-FOUNDATION-REAL_ESTATE-031,Foundation Real Estate Indonesia 031
+7827.19,338.98,23.09,China,False,Consulting,False,22,Foundation,Caution,CHN-FOUNDATION-CONSULTING-011,Foundation Consulting China 011
+20032.73,1868.01,10.72,Singapore,False,Forestry,False,16,CV,Verified,SGP-CV-FORESTRY-088,CV Forestry Singapore 088
+39257.92,2072.81,18.94,Indonesia,False,Technology,False,15,PT,Verified,IDN-PT-TECHNOLOGY-049,PT Technology Indonesia 049
+29144.51,1956.12,14.9,Indonesia,False,Energy,False,12,CV,Verified,IDN-CV-ENERGY-025,CV Energy Indonesia 025
+5928099.04,14945389.73,0.4,Switzerland,True,Luxury Goods,True,2,Foundation,High-Risk,SWI-FOUNDATION-LUXURY_GOODS-117,Foundation Luxury Goods Switzerland 117
+192907.99,14531.96,13.27,Singapore,False,Real Estate,False,8,PT,Caution,SGP-PT-REAL_ESTATE-108,PT Real Estate Singapore 108
+163197.84,579672.41,0.28,Switzerland,True,Holding Company,True,2,Individual,High-Risk,SWI-INDIVIDUAL-HOLDING_COMPANY-118,Individual Holding Company Switzerland 118
+10648.37,578.64,18.4,Indonesia,False,Energy,False,14,PT,Verified,IDN-PT-ENERGY-044,PT Energy Indonesia 044
+33058.81,2592.29,12.75,Indonesia,False,Technology,False,9,PT,Verified,IDN-PT-TECHNOLOGY-049,PT Technology Indonesia 049
+10239797.96,50576876.41,0.2,UAE,True,Consulting,True,1,Individual,High-Risk,UAE-INDIVIDUAL-CONSULTING-130,Individual Consulting UAE 130
+814998.79,72574.88,11.23,Singapore,True,Real Estate,True,21,Individual,Caution,SGP-INDIVIDUAL-REAL_ESTATE-096,Individual Real Estate Singapore 096
+5783.32,289.45,19.98,Malaysia,False,Energy,False,14,PT,Verified,MYS-PT-ENERGY-068,PT Energy Malaysia 068
+22531.22,1226.79,18.37,Singapore,False,Energy,False,16,PT,Verified,SGP-PT-ENERGY-104,PT Energy Singapore 104
+32880.79,1929.94,17.04,Indonesia,False,Manufacturing,False,14,PT,Verified,IDN-PT-MANUFACTURING-047,PT Manufacturing Indonesia 047
+7190.97,522.85,13.75,Indonesia,False,Manufacturing,False,10,Ltd.,Verified,IDN-LTD-MANUFACTURING-040,Ltd. Manufacturing Indonesia 040
+14085.94,1154.48,12.2,Indonesia,False,Energy,False,11,CV,Verified,IDN-CV-ENERGY-025,CV Energy Indonesia 025
+19871.57,2021.92,9.83,Indonesia,False,Real Estate,False,6,Individual,Caution,IDN-INDIVIDUAL-REAL_ESTATE-035,Individual Real Estate Indonesia 035
+18652.66,1004.51,18.57,USA,True,Manufacturing,False,17,PT,Verified,USA-PT-MANUFACTURING-165,PT Manufacturing USA 165
+16859.34,1109.64,15.19,USA,False,Energy,False,12,PT,Verified,USA-PT-ENERGY-163,PT Energy USA 163
+23888277.93,55468682.14,0.43,Panama,True,Holding Company,True,1,LLC,High-Risk,PAN-LLC-HOLDING_COMPANY-082,LLC Holding Company Panama 082
+28008.75,1843.48,15.19,Indonesia,False,Manufacturing,False,15,PT,Verified,IDN-PT-MANUFACTURING-047,PT Manufacturing Indonesia 047
+7272.49,388.95,18.7,Indonesia,False,Agriculture,False,9,PT,Verified,IDN-PT-AGRICULTURE-042,PT Agriculture Indonesia 042
+232883.9,20970.43,11.11,Indonesia,True,Energy,False,9,PT,Verified,IDN-PT-ENERGY-044,PT Energy Indonesia 044
+122038.68,5732.69,21.29,UAE,False,Holding Company,False,22,Individual,Caution,UAE-INDIVIDUAL-HOLDING_COMPANY-131,Individual Holding Company UAE 131
+56474.14,5495.23,10.28,Indonesia,True,Manufacturing,False,12,PT,Verified,IDN-PT-MANUFACTURING-047,PT Manufacturing Indonesia 047
+26800.73,1466.82,18.27,Indonesia,False,Manufacturing,False,12,PT,Verified,IDN-PT-MANUFACTURING-047,PT Manufacturing Indonesia 047
+37354.86,3608.78,10.35,Indonesia,False,Technology,False,14,CV,Verified,IDN-CV-TECHNOLOGY-028,CV Technology Indonesia 028
+2157734.2,180996.97,11.92,China,True,Technology,False,8,PT,Caution,CHN-PT-TECHNOLOGY-022,PT Technology China 022
+36627.75,2899.42,12.63,Indonesia,False,Energy,False,12,PT,Verified,IDN-PT-ENERGY-044,PT Energy Indonesia 044
+21983.32,2119.59,10.37,Indonesia,False,Manufacturing,False,17,PT,Verified,IDN-PT-MANUFACTURING-047,PT Manufacturing Indonesia 047
+32016.1,2357.39,13.58,Indonesia,False,Manufacturing,False,13,PT,Verified,IDN-PT-MANUFACTURING-047,PT Manufacturing Indonesia 047
+38658.72,3094.35,12.49,Malaysia,False,Manufacturing,False,16,CV,Verified,MYS-CV-MANUFACTURING-060,CV Manufacturing Malaysia 060
+7466.21,379.75,19.66,USA,False,Agriculture,False,17,CV,Verified,USA-CV-AGRICULTURE-153,CV Agriculture USA 153
+3483.75,229.67,15.17,Indonesia,False,Technology,False,12,CV,Verified,IDN-CV-TECHNOLOGY-028,CV Technology Indonesia 028
+25412.32,1822.57,13.94,Singapore,False,Agriculture,False,15,PT,Verified,SGP-PT-AGRICULTURE-102,PT Agriculture Singapore 102
+47353.16,2056.75,23.02,China,True,Holding Company,False,8,PT,Caution,CHN-PT-HOLDING_COMPANY-020,PT Holding Company China 020
+52056.22,3010.09,17.29,Indonesia,False,Forestry,False,17,PT,Verified,IDN-PT-FORESTRY-045,PT Forestry Indonesia 045
+18505.14,1221.7,15.15,Singapore,False,Technology,False,15,Ltd.,Verified,SGP-LTD-TECHNOLOGY-101,Ltd. Technology Singapore 101
+54311.84,4016.24,13.52,Indonesia,False,Agriculture,False,14,PT,Verified,IDN-PT-AGRICULTURE-042,PT Agriculture Indonesia 042
+35261.03,2204.27,16.0,Indonesia,False,Holding Company,True,8,Individual,Caution,IDN-INDIVIDUAL-HOLDING_COMPANY-034,Individual Holding Company Indonesia 034
+156926.55,,12.23,Indonesia,False,,False,12,,Verified,IDN-UNKNOWN-UNKNOWN-056,Unknown Unknown Indonesia 056
+51899.68,2976.09,17.44,Indonesia,False,Agriculture,False,11,PT,Verified,IDN-PT-AGRICULTURE-042,PT Agriculture Indonesia 042
+15037.17,964.45,15.59,Indonesia,False,Energy,False,17,PT,Verified,IDN-PT-ENERGY-044,PT Energy Indonesia 044
+16932.64,1235.61,13.7,Singapore,False,Technology,False,9,CV,Verified,SGP-CV-TECHNOLOGY-090,CV Technology Singapore 090
+7564.91,722.94,10.46,Indonesia,True,Manufacturing,False,16,PT,Verified,IDN-PT-MANUFACTURING-047,PT Manufacturing Indonesia 047
+14418.67,984.77,14.64,Malaysia,False,Energy,False,11,PT,Verified,MYS-PT-ENERGY-068,PT Energy Malaysia 068
+1307715.38,10785806.46,0.12,Cayman Islands,True,Real Estate,True,1,Foundation,High-Risk,CAY-FOUNDATION-REAL_ESTATE-003,Foundation Real Estate Cayman Islands 003
+14681.29,804.98,18.24,Indonesia,False,Energy,False,17,PT,Verified,IDN-PT-ENERGY-044,PT Energy Indonesia 044
+193412.95,15866.81,12.19,Singapore,True,Consulting,False,19,Individual,Caution,SGP-INDIVIDUAL-CONSULTING-095,Individual Consulting Singapore 095
+19459.92,1372.0,14.18,USA,False,Agriculture,False,11,PT,Verified,USA-PT-AGRICULTURE-162,PT Agriculture USA 162
+19734.27,1449.9,13.61,Indonesia,False,Energy,False,10,PT,Verified,IDN-PT-ENERGY-044,PT Energy Indonesia 044
+296682.76,17013.38,17.44,Indonesia,False,Manufacturing,False,16,Ltd.,Verified,IDN-LTD-MANUFACTURING-040,Ltd. Manufacturing Indonesia 040
+27833.47,1550.61,17.95,Indonesia,False,Energy,False,13,CV,Verified,IDN-CV-ENERGY-025,CV Energy Indonesia 025
+44085.24,2646.13,16.66,USA,False,Technology,False,11,PT,Verified,USA-PT-TECHNOLOGY-166,PT Technology USA 166
+24647.35,1332.6,18.5,Indonesia,False,Energy,False,16,PT,Verified,IDN-PT-ENERGY-044,PT Energy Indonesia 044
+357231.52,38511.1,9.28,UAE,True,Real Estate,True,8,Foundation,Caution,UAE-FOUNDATION-REAL_ESTATE-128,Foundation Real Estate UAE 128
+7278772.31,16666395.61,0.44,Panama,True,Luxury Goods,True,0,LLC,High-Risk,PAN-LLC-LUXURY_GOODS-083,LLC Luxury Goods Panama 083
+207476.39,11893.89,17.44,Indonesia,False,Technology,False,13,PT,Verified,IDN-PT-TECHNOLOGY-049,PT Technology Indonesia 049
+12359.17,957.5,12.91,Indonesia,True,Technology,False,12,PT,Verified,IDN-PT-TECHNOLOGY-049,PT Technology Indonesia 049
+14028.72,948.42,14.79,USA,False,Manufacturing,False,16,PT,Verified,USA-PT-MANUFACTURING-165,PT Manufacturing USA 165
+6329.92,469.48,13.48,Malaysia,False,Forestry,False,10,Ltd.,Verified,MYS-LTD-FORESTRY-064,Ltd. Forestry Malaysia 064
+140097.4,10895.93,12.86,Indonesia,False,Agriculture,False,9,PT,Verified,IDN-PT-AGRICULTURE-042,PT Agriculture Indonesia 042
+495528.67,2161456.51,0.23,UAE,True,Holding Company,True,0,Individual,High-Risk,UAE-INDIVIDUAL-HOLDING_COMPANY-131,Individual Holding Company UAE 131
+32974.1,1717.62,19.2,Vietnam,True,Holding Company,True,6,PT,Caution,VIE-PT-HOLDING_COMPANY-177,PT Holding Company Vietnam 177
+545595.46,33621.12,16.23,Vietnam,False,Consulting,True,21,Individual,Caution,VIE-INDIVIDUAL-CONSULTING-173,Individual Consulting Vietnam 173
+93389.16,8036.85,11.62,Singapore,False,Manufacturing,False,16,PT,Verified,SGP-PT-MANUFACTURING-107,PT Manufacturing Singapore 107
+19409.02,1307.06,14.85,Indonesia,False,Technology,False,10,PT,Verified,IDN-PT-TECHNOLOGY-049,PT Technology Indonesia 049
+22577.86,2051.74,11.0,Indonesia,False,Forestry,False,13,PT,Verified,IDN-PT-FORESTRY-045,PT Forestry Indonesia 045
+17317.97,1564.3,11.07,Indonesia,False,Agriculture,False,12,CV,Verified,IDN-CV-AGRICULTURE-024,CV Agriculture Indonesia 024
+33182.68,2045.17,16.22,Indonesia,False,Manufacturing,False,17,PT,Verified,IDN-PT-MANUFACTURING-047,PT Manufacturing Indonesia 047
+283169.71,616972.64,0.46,Switzerland,True,Holding Company,False,5,Individual,High-Risk,SWI-INDIVIDUAL-HOLDING_COMPANY-118,Individual Holding Company Switzerland 118
+11405.09,720.77,15.82,Indonesia,False,Manufacturing,False,14,Ltd.,Verified,IDN-LTD-MANUFACTURING-040,Ltd. Manufacturing Indonesia 040
+20742.48,1411.21,14.7,Indonesia,False,Forestry,False,17,PT,Verified,IDN-PT-FORESTRY-045,PT Forestry Indonesia 045
+2174236.83,127416.19,17.06,UAE,True,Consulting,True,6,Foundation,Caution,UAE-FOUNDATION-CONSULTING-125,Foundation Consulting UAE 125
+50799.55,2750.32,18.47,Indonesia,True,Manufacturing,False,16,PT,Verified,IDN-PT-MANUFACTURING-047,PT Manufacturing Indonesia 047
+13650.61,860.95,15.86,Indonesia,True,Energy,False,15,CV,Verified,IDN-CV-ENERGY-025,CV Energy Indonesia 025
+25912097.74,104828227.59,0.25,Cayman Islands,True,Luxury Goods,True,3,Individual,High-Risk,CAY-INDIVIDUAL-LUXURY_GOODS-006,Individual Luxury Goods Cayman Islands 006
+16555.39,,15.28,Indonesia,False,,False,11,,Verified,IDN-UNKNOWN-UNKNOWN-056,Unknown Unknown Indonesia 056
+9685.23,703.31,13.77,Indonesia,False,Technology,False,9,PT,Verified,IDN-PT-TECHNOLOGY-049,PT Technology Indonesia 049
+14855.36,1132.85,13.11,Indonesia,False,Manufacturing,False,13,PT,Verified,IDN-PT-MANUFACTURING-047,PT Manufacturing Indonesia 047
+11148.62,1051.83,10.6,Indonesia,False,Manufacturing,False,12,PT,Verified,IDN-PT-MANUFACTURING-047,PT Manufacturing Indonesia 047
+15710.49,1009.5,15.56,Indonesia,False,Energy,False,17,PT,Verified,IDN-PT-ENERGY-044,PT Energy Indonesia 044
+36225.91,3502.04,10.34,UK,False,Technology,False,11,CV,Verified,UK-CV-TECHNOLOGY-143,CV Technology UK 143
+2462.62,158.06,15.58,Indonesia,False,Real Estate,False,21,PT,Caution,IDN-PT-REAL_ESTATE-048,PT Real Estate Indonesia 048
+335909.88,31880.79,10.54,Singapore,False,Holding Company,False,6,PT,Caution,SGP-PT-HOLDING_COMPANY-106,PT Holding Company Singapore 106
+16510.74,1337.55,12.34,UAE,False,Technology,False,21,Foundation,Caution,UAE-FOUNDATION-TECHNOLOGY-129,Foundation Technology UAE 129
+19113.28,1190.81,16.05,Singapore,False,Energy,False,11,CV,Verified,SGP-CV-ENERGY-087,CV Energy Singapore 087
+24150.95,,13.85,UK,False,,False,10,,Verified,UK-UNKNOWN-UNKNOWN-152,Unknown Unknown UK 152
+8600.48,467.46,18.4,Indonesia,False,Energy,False,12,Ltd.,Verified,IDN-LTD-ENERGY-038,Ltd. Energy Indonesia 038
+23276.41,1399.19,16.64,Indonesia,True,Energy,False,16,PT,Verified,IDN-PT-ENERGY-044,PT Energy Indonesia 044
+44464.42,3784.91,11.75,Indonesia,False,Agriculture,False,9,PT,Verified,IDN-PT-AGRICULTURE-042,PT Agriculture Indonesia 042
+3517.97,207.31,16.97,USA,True,Manufacturing,False,15,PT,Verified,USA-PT-MANUFACTURING-165,PT Manufacturing USA 165
+263142.33,10567.22,24.9,Indonesia,False,Consulting,False,6,Individual,Caution,IDN-INDIVIDUAL-CONSULTING-033,Individual Consulting Indonesia 033
+21882.78,1351.02,16.2,UK,True,Energy,False,17,PT,Verified,UK-PT-ENERGY-145,PT Energy UK 145
+104785.2,4654.95,22.51,UAE,True,Real Estate,False,7,Foundation,Caution,UAE-FOUNDATION-REAL_ESTATE-128,Foundation Real Estate UAE 128
+881796.47,76354.04,11.55,Vietnam,True,Consulting,True,19,PT,Caution,VIE-PT-CONSULTING-176,PT Consulting Vietnam 176
+26914.13,1966.96,13.68,Indonesia,False,Forestry,False,11,PT,Verified,IDN-PT-FORESTRY-045,PT Forestry Indonesia 045
+270850.2,13944.21,19.42,Indonesia,False,Technology,False,16,CV,Verified,IDN-CV-TECHNOLOGY-028,CV Technology Indonesia 028
+35251.31,2780.85,12.68,Indonesia,False,Manufacturing,False,13,CV,Verified,IDN-CV-MANUFACTURING-027,CV Manufacturing Indonesia 027
+34132.19,2243.89,15.21,USA,True,Forestry,False,10,PT,Verified,USA-PT-FORESTRY-164,PT Forestry USA 164
+1210554.5,66553.84,18.19,Singapore,True,Real Estate,True,21,PT,Caution,SGP-PT-REAL_ESTATE-108,PT Real Estate Singapore 108
+7357.38,586.2,12.55,Singapore,False,Technology,False,15,PT,Verified,SGP-PT-TECHNOLOGY-109,PT Technology Singapore 109
+46277.57,3923.94,11.79,Singapore,False,Energy,False,15,PT,Verified,SGP-PT-ENERGY-104,PT Energy Singapore 104
+8201.23,816.75,10.04,Indonesia,False,Technology,False,17,CV,Verified,IDN-CV-TECHNOLOGY-028,CV Technology Indonesia 028
+30957.35,2508.04,12.34,Indonesia,False,Manufacturing,False,10,PT,Verified,IDN-PT-MANUFACTURING-047,PT Manufacturing Indonesia 047
+117403.11,7065.66,16.62,Indonesia,False,Energy,False,15,CV,Verified,IDN-CV-ENERGY-025,CV Energy Indonesia 025
+667910.86,1451490.16,0.46,Panama,True,Holding Company,True,0,Foundation,High-Risk,PAN-FOUNDATION-HOLDING_COMPANY-075,Foundation Holding Company Panama 075
+214682.45,11007.07,19.5,Indonesia,False,Forestry,False,17,PT,Verified,IDN-PT-FORESTRY-045,PT Forestry Indonesia 045
+9362.29,566.1,16.54,Indonesia,False,Manufacturing,False,14,Ltd.,Verified,IDN-LTD-MANUFACTURING-040,Ltd. Manufacturing Indonesia 040
+97980.39,5843.98,16.77,Indonesia,True,Manufacturing,False,9,PT,Verified,IDN-PT-MANUFACTURING-047,PT Manufacturing Indonesia 047
+29950.06,1551.09,19.31,Malaysia,False,Energy,False,14,PT,Verified,MYS-PT-ENERGY-068,PT Energy Malaysia 068
+15307.89,982.0,15.59,Indonesia,False,Energy,False,10,CV,Verified,IDN-CV-ENERGY-025,CV Energy Indonesia 025
+30154.61,2059.62,14.64,Malaysia,False,Agriculture,False,14,Ltd.,Verified,MYS-LTD-AGRICULTURE-062,Ltd. Agriculture Malaysia 062
+589779.85,26989.35,21.85,Indonesia,True,Holding Company,True,22,PT.,Caution,IDN-PT-HOLDING_COMPANY-053,PT. Holding Company Indonesia 053
+18631.44,866.52,21.5,China,False,Consulting,True,18,Individual,Caution,CHN-INDIVIDUAL-CONSULTING-015,Individual Consulting China 015
+46389.08,2160.82,21.47,Vietnam,True,Real Estate,True,6,Foundation,Caution,VIE-FOUNDATION-REAL_ESTATE-171,Foundation Real Estate Vietnam 171
+4919.85,266.13,18.49,Malaysia,False,Energy,False,9,PT,Verified,MYS-PT-ENERGY-068,PT Energy Malaysia 068
+45160986.93,302963598.95,0.15,Panama,True,Holding Company,True,1,LLC,High-Risk,PAN-LLC-HOLDING_COMPANY-082,LLC Holding Company Panama 082
+10749.01,561.2,19.15,Malaysia,False,Forestry,False,16,PT,Verified,MYS-PT-FORESTRY-069,PT Forestry Malaysia 069
+15658266.43,58254866.69,0.27,Switzerland,True,Holding Company,True,2,Foundation,High-Risk,SWI-FOUNDATION-HOLDING_COMPANY-116,Foundation Holding Company Switzerland 116
+29443.31,2553.06,11.53,Singapore,False,Energy,False,11,PT,Verified,SGP-PT-ENERGY-104,PT Energy Singapore 104
+35965354.05,80845529.42,0.44,Panama,True,Real Estate,True,3,Foundation,High-Risk,PAN-FOUNDATION-REAL_ESTATE-077,Foundation Real Estate Panama 077
+48737.42,2759.2,17.66,Singapore,False,Technology,False,12,CV,Verified,SGP-CV-TECHNOLOGY-090,CV Technology Singapore 090
+1103627.08,105035.73,10.51,Indonesia,True,Consulting,False,20,PT,Caution,IDN-PT-CONSULTING-043,PT Consulting Indonesia 043
+15186.55,1180.2,12.87,Singapore,False,Manufacturing,False,17,Ltd.,Verified,SGP-LTD-MANUFACTURING-100,Ltd. Manufacturing Singapore 100
+31425.72,2827.35,11.11,Singapore,False,Forestry,False,15,Ltd.,Verified,SGP-LTD-FORESTRY-099,Ltd. Forestry Singapore 099
+28201.33,2615.84,10.78,Indonesia,False,Agriculture,False,17,PT,Verified,IDN-PT-AGRICULTURE-042,PT Agriculture Indonesia 042
+26847.95,1510.15,17.78,Indonesia,False,Agriculture,False,10,PT,Verified,IDN-PT-AGRICULTURE-042,PT Agriculture Indonesia 042
+120743.58,,0.25,Cayman Islands,True,,True,4,,High-Risk,CAY-UNKNOWN-UNKNOWN-010,Unknown Unknown Cayman Islands 010
+142922665.08,839385457.85,0.17,Panama,True,Luxury Goods,True,5,Foundation,High-Risk,PAN-FOUNDATION-LUXURY_GOODS-076,Foundation Luxury Goods Panama 076
+27538.23,1507.2,18.27,Indonesia,False,Energy,False,17,PT.,Verified,IDN-PT-ENERGY-051,PT. Energy Indonesia 051
+2036896.36,9235705.35,0.22,Switzerland,True,Luxury Goods,True,4,Foundation,High-Risk,SWI-FOUNDATION-LUXURY_GOODS-117,Foundation Luxury Goods Switzerland 117
+14168.68,1415.06,10.01,Indonesia,False,Agriculture,False,9,CV,Verified,IDN-CV-AGRICULTURE-024,CV Agriculture Indonesia 024
+175361.37,8866.38,19.78,Singapore,False,Energy,False,15,PT.,Verified,SGP-PT-ENERGY-110,PT. Energy Singapore 110
+1471957.46,,14.66,UAE,True,,False,23,,Caution,UAE-UNKNOWN-UNKNOWN-141,Unknown Unknown UAE 141
+26096.05,1073.36,24.31,Indonesia,False,Technology,True,20,Foundation,Caution,IDN-FOUNDATION-TECHNOLOGY-032,Foundation Technology Indonesia 032
+75622.47,3866.51,19.56,Indonesia,False,Energy,False,15,PT,Verified,IDN-PT-ENERGY-044,PT Energy Indonesia 044
+3232.8,198.86,16.26,Indonesia,True,Agriculture,False,11,PT,Verified,IDN-PT-AGRICULTURE-042,PT Agriculture Indonesia 042
+91852.7,209050.27,0.44,Switzerland,True,Luxury Goods,True,0,Individual,High-Risk,SWI-INDIVIDUAL-LUXURY_GOODS-119,Individual Luxury Goods Switzerland 119
+40055.97,3434.69,11.66,USA,False,Manufacturing,False,16,PT,Verified,USA-PT-MANUFACTURING-165,PT Manufacturing USA 165
+12457448.51,53378566.76,0.23,Switzerland,True,Real Estate,True,4,LLC,High-Risk,SWI-LLC-REAL_ESTATE-123,LLC Real Estate Switzerland 123
+14763.1,1065.07,13.86,Indonesia,False,Forestry,False,10,CV,Verified,IDN-CV-FORESTRY-026,CV Forestry Indonesia 026
+11315.09,917.01,12.34,Indonesia,False,Manufacturing,False,9,PT,Verified,IDN-PT-MANUFACTURING-047,PT Manufacturing Indonesia 047
+5169.01,270.09,19.14,Indonesia,False,Manufacturing,False,10,PT,Verified,IDN-PT-MANUFACTURING-047,PT Manufacturing Indonesia 047
+2281680.95,9188097.77,0.25,Cayman Islands,True,Luxury Goods,True,2,Individual,High-Risk,CAY-INDIVIDUAL-LUXURY_GOODS-006,Individual Luxury Goods Cayman Islands 006
+4336.68,,19.09,Malaysia,False,,False,10,,Verified,MYS-UNKNOWN-UNKNOWN-074,Unknown Unknown Malaysia 074
+20195.71,1126.01,17.94,Indonesia,True,Technology,False,15,PT,Verified,IDN-PT-TECHNOLOGY-049,PT Technology Indonesia 049
+2236992.35,10237593.67,0.22,UAE,True,Holding Company,True,0,Individual,High-Risk,UAE-INDIVIDUAL-HOLDING_COMPANY-131,Individual Holding Company UAE 131
+240377.53,13763.55,17.46,Indonesia,True,Holding Company,False,23,PT,Caution,IDN-PT-HOLDING_COMPANY-046,PT Holding Company Indonesia 046
+55593.88,5912.13,9.4,UAE,False,Consulting,False,21,Foundation,Caution,UAE-FOUNDATION-CONSULTING-125,Foundation Consulting UAE 125
+15327.69,1449.62,10.57,China,False,Technology,False,20,PT,Caution,CHN-PT-TECHNOLOGY-022,PT Technology China 022
+11322.63,1066.01,10.62,USA,False,Manufacturing,False,14,PT,Verified,USA-PT-MANUFACTURING-165,PT Manufacturing USA 165
+71109.21,5793.3,12.27,Vietnam,False,Holding Company,False,22,Foundation,Caution,VIE-FOUNDATION-HOLDING_COMPANY-170,Foundation Holding Company Vietnam 170
+63275.46,6526.8,9.69,Indonesia,False,Consulting,True,6,Foundation,Caution,IDN-FOUNDATION-CONSULTING-029,Foundation Consulting Indonesia 029
+9770.69,951.81,10.27,Indonesia,False,Technology,False,9,CV,Verified,IDN-CV-TECHNOLOGY-028,CV Technology Indonesia 028
+125714458.45,1013737572.56,0.12,Cayman Islands,True,Consulting,True,0,LLC,High-Risk,CAY-LLC-CONSULTING-008,LLC Consulting Cayman Islands 008
+130851.98,6458.11,20.26,UAE,True,Technology,True,19,Individual,Caution,UAE-INDIVIDUAL-TECHNOLOGY-134,Individual Technology UAE 134
+6517.07,461.48,14.12,Indonesia,False,Energy,False,15,PT,Verified,IDN-PT-ENERGY-044,PT Energy Indonesia 044
+1287275.57,,0.47,Panama,True,,False,5,,High-Risk,PAN-UNKNOWN-UNKNOWN-085,Unknown Unknown Panama 085
+38275.3,1977.35,19.36,Indonesia,False,Technology,False,13,PT,Verified,IDN-PT-TECHNOLOGY-049,PT Technology Indonesia 049
+150772.14,840802.84,0.18,Cayman Islands,True,Holding Company,True,3,Foundation,High-Risk,CAY-FOUNDATION-HOLDING_COMPANY-001,Foundation Holding Company Cayman Islands 001
+114908.56,9726.65,11.81,Indonesia,False,Manufacturing,False,9,PT,Verified,IDN-PT-MANUFACTURING-047,PT Manufacturing Indonesia 047
+537127.45,46117.76,11.65,Vietnam,False,Real Estate,True,18,Foundation,Caution,VIE-FOUNDATION-REAL_ESTATE-171,Foundation Real Estate Vietnam 171
+255015.61,662942.49,0.38,Switzerland,True,Luxury Goods,True,2,LLC,High-Risk,SWI-LLC-LUXURY_GOODS-122,LLC Luxury Goods Switzerland 122
+870847.58,56217.12,15.49,Indonesia,True,Holding Company,False,19,Foundation,Caution,IDN-FOUNDATION-HOLDING_COMPANY-030,Foundation Holding Company Indonesia 030
+173277.81,9553.17,18.14,UK,False,Forestry,False,10,PT.,Verified,UK-PT-FORESTRY-150,PT. Forestry UK 150
+112413.77,6875.83,16.35,Indonesia,False,Energy,False,17,CV,Verified,IDN-CV-ENERGY-025,CV Energy Indonesia 025
+28615.94,2090.6,13.69,Indonesia,False,Technology,False,12,CV,Verified,IDN-CV-TECHNOLOGY-028,CV Technology Indonesia 028
+7708.0,760.69,10.13,UK,False,Energy,False,17,PT,Verified,UK-PT-ENERGY-145,PT Energy UK 145
+7133.27,665.57,10.72,Indonesia,False,Forestry,False,16,Ltd.,Verified,IDN-LTD-FORESTRY-039,Ltd. Forestry Indonesia 039
+3061.55,184.73,16.57,USA,False,Manufacturing,False,16,PT,Verified,USA-PT-MANUFACTURING-165,PT Manufacturing USA 165
+315272.87,27880.59,11.31,China,True,Holding Company,True,18,Individual,Caution,CHN-INDIVIDUAL-HOLDING_COMPANY-016,Individual Holding Company China 016
+15562.31,1076.33,14.46,Indonesia,False,Energy,False,17,CV,Verified,IDN-CV-ENERGY-025,CV Energy Indonesia 025
+158363.62,18967.14,8.35,China,False,Technology,False,22,Individual,Caution,CHN-INDIVIDUAL-TECHNOLOGY-018,Individual Technology China 018
+43644.57,2594.7,16.82,USA,False,Manufacturing,False,10,PT,Verified,USA-PT-MANUFACTURING-165,PT Manufacturing USA 165
+36590.81,,13.83,Singapore,False,,False,13,,Verified,SGP-UNKNOWN-UNKNOWN-114,Unknown Unknown Singapore 114
+28131.02,2487.15,11.31,Indonesia,False,Manufacturing,False,17,PT,Verified,IDN-PT-MANUFACTURING-047,PT Manufacturing Indonesia 047
+85398.21,7120.05,11.99,Indonesia,True,Manufacturing,False,10,PT,Verified,IDN-PT-MANUFACTURING-047,PT Manufacturing Indonesia 047
+17051.09,1295.3,13.16,Malaysia,False,Technology,False,12,PT,Verified,MYS-PT-TECHNOLOGY-071,PT Technology Malaysia 071
+16534030.16,37226165.72,0.44,Cayman Islands,True,Consulting,True,2,Individual,High-Risk,CAY-INDIVIDUAL-CONSULTING-004,Individual Consulting Cayman Islands 004
+4562.17,251.14,18.17,Indonesia,False,Manufacturing,False,13,PT,Verified,IDN-PT-MANUFACTURING-047,PT Manufacturing Indonesia 047
+21811.66,1375.89,15.85,Indonesia,False,Manufacturing,False,9,PT,Verified,IDN-PT-MANUFACTURING-047,PT Manufacturing Indonesia 047
+372563.07,17787.35,20.95,UAE,False,Holding Company,True,8,PT,Caution,UAE-PT-HOLDING_COMPANY-138,PT Holding Company UAE 138
+97392.3,4805.12,20.27,Indonesia,False,Technology,False,21,PT,Caution,IDN-PT-TECHNOLOGY-049,PT Technology Indonesia 049
+19197.07,1845.74,10.4,Indonesia,False,Manufacturing,False,15,PT,Verified,IDN-PT-MANUFACTURING-047,PT Manufacturing Indonesia 047
+253634.41,20894.99,12.14,Vietnam,True,Real Estate,False,7,Foundation,Caution,VIE-FOUNDATION-REAL_ESTATE-171,Foundation Real Estate Vietnam 171
+36188.42,1989.68,18.19,Indonesia,False,Manufacturing,False,11,Ltd.,Verified,IDN-LTD-MANUFACTURING-040,Ltd. Manufacturing Indonesia 040
+49431.84,,18.61,Indonesia,False,,False,9,,Verified,IDN-UNKNOWN-UNKNOWN-056,Unknown Unknown Indonesia 056
+11049.38,944.89,11.69,Indonesia,False,Energy,False,16,PT,Verified,IDN-PT-ENERGY-044,PT Energy Indonesia 044
+117252.76,11524.85,10.17,Indonesia,False,Manufacturing,False,10,PT,Verified,IDN-PT-MANUFACTURING-047,PT Manufacturing Indonesia 047
+16703.56,971.46,17.19,Indonesia,False,Energy,False,17,CV,Verified,IDN-CV-ENERGY-025,CV Energy Indonesia 025
+282782.89,12906.73,21.91,Singapore,True,Real Estate,False,20,Individual,Caution,SGP-INDIVIDUAL-REAL_ESTATE-096,Individual Real Estate Singapore 096
+36480.56,2973.92,12.27,Indonesia,True,Energy,False,14,CV,Verified,IDN-CV-ENERGY-025,CV Energy Indonesia 025
+3895.84,211.82,18.39,Malaysia,False,Forestry,False,10,PT.,Verified,MYS-PT-FORESTRY-073,PT. Forestry Malaysia 073
+1192502.14,76273.1,15.63,China,True,Holding Company,True,22,Individual,Caution,CHN-INDIVIDUAL-HOLDING_COMPANY-016,Individual Holding Company China 016
+159902.43,8741.27,18.29,Singapore,False,Technology,True,23,PT,Caution,SGP-PT-TECHNOLOGY-109,PT Technology Singapore 109
+73270.94,,16.01,Indonesia,False,,False,17,,Verified,IDN-UNKNOWN-UNKNOWN-056,Unknown Unknown Indonesia 056
+26798.97,2160.64,12.4,Malaysia,False,Forestry,False,16,PT,Verified,MYS-PT-FORESTRY-069,PT Forestry Malaysia 069
+13807.89,899.95,15.34,Singapore,False,Agriculture,False,13,Ltd.,Verified,SGP-LTD-AGRICULTURE-098,Ltd. Agriculture Singapore 098
+15422.46,772.91,19.95,Singapore,False,Agriculture,False,11,PT,Verified,SGP-PT-AGRICULTURE-102,PT Agriculture Singapore 102
+14296.16,1397.42,10.23,Malaysia,False,Energy,False,11,PT,Verified,MYS-PT-ENERGY-068,PT Energy Malaysia 068
+124267.86,11764.05,10.56,UAE,True,Consulting,False,21,Foundation,Caution,UAE-FOUNDATION-CONSULTING-125,Foundation Consulting UAE 125
+21913.92,1244.51,17.61,Malaysia,True,Technology,False,13,CV,Verified,MYS-CV-TECHNOLOGY-061,CV Technology Malaysia 061
+522619.7,50277.28,10.39,Vietnam,False,Consulting,False,8,Foundation,Caution,VIE-FOUNDATION-CONSULTING-169,Foundation Consulting Vietnam 169
+9106.79,508.26,17.92,Indonesia,False,Energy,False,9,PT,Verified,IDN-PT-ENERGY-044,PT Energy Indonesia 044
+2125920.51,97937.08,21.71,Indonesia,False,Real Estate,True,8,PT,Caution,IDN-PT-REAL_ESTATE-048,PT Real Estate Indonesia 048
+14900.11,1378.98,10.81,Indonesia,False,Energy,False,13,PT,Verified,IDN-PT-ENERGY-044,PT Energy Indonesia 044
+20545.18,1235.27,16.63,Indonesia,True,Agriculture,False,16,PT.,Verified,IDN-PT-AGRICULTURE-050,PT. Agriculture Indonesia 050
+4868.87,247.93,19.64,Indonesia,False,Technology,False,13,Ltd.,Verified,IDN-LTD-TECHNOLOGY-041,Ltd. Technology Indonesia 041
+139049.28,8787.92,15.82,Singapore,False,Technology,True,18,PT,Caution,SGP-PT-TECHNOLOGY-109,PT Technology Singapore 109
+10156425.92,22547252.26,0.45,Switzerland,True,Holding Company,True,1,LLC,High-Risk,SWI-LLC-HOLDING_COMPANY-121,LLC Holding Company Switzerland 121
+133596.44,8416.13,15.87,Singapore,True,Consulting,False,20,PT,Caution,SGP-PT-CONSULTING-103,PT Consulting Singapore 103
+38364.82,3325.51,11.54,Malaysia,False,Forestry,False,15,PT,Verified,MYS-PT-FORESTRY-069,PT Forestry Malaysia 069
+227022.63,12328.24,18.41,Indonesia,False,Energy,False,9,PT,Verified,IDN-PT-ENERGY-044,PT Energy Indonesia 044
+23065.53,1457.18,15.83,Indonesia,False,Energy,False,17,PT,Verified,IDN-PT-ENERGY-044,PT Energy Indonesia 044
+43367.93,2918.42,14.86,USA,False,Agriculture,False,16,PT,Verified,USA-PT-AGRICULTURE-162,PT Agriculture USA 162
+26957.17,1378.18,19.56,Indonesia,False,Technology,False,11,PT,Verified,IDN-PT-TECHNOLOGY-049,PT Technology Indonesia 049
+278385.42,18698.68,14.89,UK,False,Forestry,False,11,PT,Verified,UK-PT-FORESTRY-146,PT Forestry UK 146
+75958.95,3472.16,21.88,Indonesia,True,Real Estate,True,8,Individual,Caution,IDN-INDIVIDUAL-REAL_ESTATE-035,Individual Real Estate Indonesia 035
+25822.59,1841.27,14.02,Indonesia,False,Energy,False,17,PT,Verified,IDN-PT-ENERGY-044,PT Energy Indonesia 044
+14105.37,1169.07,12.07,Indonesia,False,Manufacturing,False,9,Ltd.,Verified,IDN-LTD-MANUFACTURING-040,Ltd. Manufacturing Indonesia 040
+80537094.53,244625081.9,0.33,Cayman Islands,True,Real Estate,True,0,Individual,High-Risk,CAY-INDIVIDUAL-REAL_ESTATE-007,Individual Real Estate Cayman Islands 007
+11037.32,873.89,12.63,Indonesia,False,Energy,False,15,Ltd.,Verified,IDN-LTD-ENERGY-038,Ltd. Energy Indonesia 038
+31090.64,2072.84,15.0,Indonesia,False,Agriculture,False,15,Ltd.,Verified,IDN-LTD-AGRICULTURE-037,Ltd. Agriculture Indonesia 037
+32726.76,1728.75,18.93,Indonesia,False,Technology,False,15,Ltd.,Verified,IDN-LTD-TECHNOLOGY-041,Ltd. Technology Indonesia 041
+121403.98,7894.96,15.38,Indonesia,False,Energy,False,12,PT,Verified,IDN-PT-ENERGY-044,PT Energy Indonesia 044
+21012.98,1667.31,12.6,Singapore,True,Manufacturing,False,16,Ltd.,Verified,SGP-LTD-MANUFACTURING-100,Ltd. Manufacturing Singapore 100
+54393.67,3456.39,15.74,Indonesia,False,Technology,False,14,PT,Verified,IDN-PT-TECHNOLOGY-049,PT Technology Indonesia 049
+151949.15,13884.22,10.94,Indonesia,False,Agriculture,False,15,CV,Verified,IDN-CV-AGRICULTURE-024,CV Agriculture Indonesia 024
+33015.13,2237.62,14.75,Malaysia,False,Manufacturing,False,9,PT,Verified,MYS-PT-MANUFACTURING-070,PT Manufacturing Malaysia 070
+37510.84,2974.32,12.61,Singapore,False,Technology,False,10,PT,Verified,SGP-PT-TECHNOLOGY-109,PT Technology Singapore 109
+10985.52,681.08,16.13,Indonesia,False,Forestry,False,10,PT,Verified,IDN-PT-FORESTRY-045,PT Forestry Indonesia 045
+4156.13,282.99,14.69,Indonesia,False,Agriculture,False,9,CV,Verified,IDN-CV-AGRICULTURE-024,CV Agriculture Indonesia 024
+4555216.93,10439143.23,0.44,Panama,True,Real Estate,True,1,Individual,High-Risk,PAN-INDIVIDUAL-REAL_ESTATE-080,Individual Real Estate Panama 080
+1395334.36,58432.26,23.88,Indonesia,True,Consulting,False,18,PT,Caution,IDN-PT-CONSULTING-043,PT Consulting Indonesia 043
+527362.84,1614607.67,0.33,Switzerland,True,Real Estate,True,2,Individual,High-Risk,SWI-INDIVIDUAL-REAL_ESTATE-120,Individual Real Estate Switzerland 120
+78926.37,7947.96,9.93,Vietnam,True,Holding Company,False,22,PT,Caution,VIE-PT-HOLDING_COMPANY-177,PT Holding Company Vietnam 177
+53398.38,2420.77,22.06,China,True,Consulting,True,20,Foundation,Caution,CHN-FOUNDATION-CONSULTING-011,Foundation Consulting China 011
+24373.06,1342.62,18.15,UK,False,Energy,False,12,PT,Verified,UK-PT-ENERGY-145,PT Energy UK 145
+18179.08,947.21,19.19,Indonesia,False,Forestry,False,16,PT,Verified,IDN-PT-FORESTRY-045,PT Forestry Indonesia 045
+18818.0,1420.65,13.25,Indonesia,False,Technology,False,10,PT,Verified,IDN-PT-TECHNOLOGY-049,PT Technology Indonesia 049
+175963.28,7644.45,23.02,Vietnam,True,Consulting,False,8,PT,Caution,VIE-PT-CONSULTING-176,PT Consulting Vietnam 176
+44942.51,2023.42,22.21,Singapore,True,Technology,True,7,Foundation,Caution,SGP-FOUNDATION-TECHNOLOGY-094,Foundation Technology Singapore 094
+131589.58,6045.89,21.77,Singapore,True,Real Estate,False,21,Foundation,Caution,SGP-FOUNDATION-REAL_ESTATE-093,Foundation Real Estate Singapore 093
+58600649.62,229863264.6,0.25,Panama,True,Holding Company,True,2,Foundation,High-Risk,PAN-FOUNDATION-HOLDING_COMPANY-075,Foundation Holding Company Panama 075
+25662.45,2054.76,12.49,Malaysia,False,Manufacturing,False,15,PT,Verified,MYS-PT-MANUFACTURING-070,PT Manufacturing Malaysia 070
+81059.78,5899.01,13.74,Indonesia,False,Agriculture,False,12,Ltd.,Verified,IDN-LTD-AGRICULTURE-037,Ltd. Agriculture Indonesia 037
+25016226.09,150398660.32,0.17,Cayman Islands,True,Holding Company,True,1,Foundation,High-Risk,CAY-FOUNDATION-HOLDING_COMPANY-001,Foundation Holding Company Cayman Islands 001
+267594.68,19979.14,13.39,UAE,False,Real Estate,False,7,PT,Caution,UAE-PT-REAL_ESTATE-139,PT Real Estate UAE 139
+56352.08,5327.03,10.58,China,True,Real Estate,False,7,PT,Caution,CHN-PT-REAL_ESTATE-021,PT Real Estate China 021
+16692665.36,55486934.32,0.3,Panama,True,Real Estate,True,0,LLC,High-Risk,PAN-LLC-REAL_ESTATE-084,LLC Real Estate Panama 084
+29672.24,1830.91,16.21,Indonesia,False,Manufacturing,False,12,Ltd.,Verified,IDN-LTD-MANUFACTURING-040,Ltd. Manufacturing Indonesia 040
+472881.49,37151.82,12.73,Indonesia,False,Consulting,True,20,PT,Caution,IDN-PT-CONSULTING-043,PT Consulting Indonesia 043
+160060.32,9197.12,17.4,Vietnam,True,Real Estate,True,7,PT,Caution,VIE-PT-REAL_ESTATE-178,PT Real Estate Vietnam 178
+20578.29,1429.01,14.4,Indonesia,False,Technology,False,13,CV,Verified,IDN-CV-TECHNOLOGY-028,CV Technology Indonesia 028
+6464279.63,53044776.69,0.12,UAE,True,Luxury Goods,True,3,Foundation,High-Risk,UAE-FOUNDATION-LUXURY_GOODS-127,Foundation Luxury Goods UAE 127
+82900.71,6739.4,12.3,Indonesia,True,Energy,False,10,Ltd.,Verified,IDN-LTD-ENERGY-038,Ltd. Energy Indonesia 038
+10028.69,564.36,17.77,Singapore,False,Manufacturing,False,17,PT,Verified,SGP-PT-MANUFACTURING-107,PT Manufacturing Singapore 107
+1030366.87,70483.95,14.62,Indonesia,False,Holding Company,False,7,Foundation,Caution,IDN-FOUNDATION-HOLDING_COMPANY-030,Foundation Holding Company Indonesia 030
+4316.99,228.2,18.92,Indonesia,False,Manufacturing,False,14,PT,Verified,IDN-PT-MANUFACTURING-047,PT Manufacturing Indonesia 047
+19705.86,,18.02,USA,False,,False,9,,Verified,USA-UNKNOWN-UNKNOWN-168,Unknown Unknown USA 168
+38617.41,2788.75,13.85,Singapore,True,Agriculture,False,9,PT,Verified,SGP-PT-AGRICULTURE-102,PT Agriculture Singapore 102
+6447.61,,13.59,USA,False,,False,10,,Verified,USA-UNKNOWN-UNKNOWN-168,Unknown Unknown USA 168
+5125.5,444.8,11.52,Indonesia,False,Energy,False,9,CV,Verified,IDN-CV-ENERGY-025,CV Energy Indonesia 025
+14636.76,1307.67,11.19,UAE,False,Real Estate,False,8,Individual,Caution,UAE-INDIVIDUAL-REAL_ESTATE-133,Individual Real Estate UAE 133
+140774.52,7731.13,18.21,Indonesia,False,Forestry,False,16,CV,Verified,IDN-CV-FORESTRY-026,CV Forestry Indonesia 026
+15737.07,883.07,17.82,Singapore,False,Technology,False,15,PT,Verified,SGP-PT-TECHNOLOGY-109,PT Technology Singapore 109
+11847.98,625.39,18.94,Indonesia,False,Agriculture,False,14,PT,Verified,IDN-PT-AGRICULTURE-042,PT Agriculture Indonesia 042
+4178688.37,14667691.86,0.28,Panama,True,Holding Company,True,3,Foundation,High-Risk,PAN-FOUNDATION-HOLDING_COMPANY-075,Foundation Holding Company Panama 075
+104237.47,6235.62,16.72,Indonesia,True,Technology,True,21,Individual,Caution,IDN-INDIVIDUAL-TECHNOLOGY-036,Individual Technology Indonesia 036
+30754.69,2331.28,13.19,Indonesia,False,Agriculture,False,17,PT,Verified,IDN-PT-AGRICULTURE-042,PT Agriculture Indonesia 042
+9728.36,1112.26,8.75,Singapore,True,Real Estate,False,7,Individual,Caution,SGP-INDIVIDUAL-REAL_ESTATE-096,Individual Real Estate Singapore 096
+20018.3,1842.03,10.87,USA,False,Energy,False,17,Ltd.,Verified,USA-LTD-ENERGY-158,Ltd. Energy USA 158
+69883.45,5142.08,13.59,Indonesia,False,Manufacturing,False,17,CV,Verified,IDN-CV-MANUFACTURING-027,CV Manufacturing Indonesia 027
+19927.83,1918.4,10.39,Indonesia,False,Manufacturing,False,9,PT,Verified,IDN-PT-MANUFACTURING-047,PT Manufacturing Indonesia 047
+139008.22,12646.18,10.99,Indonesia,False,Technology,False,17,PT,Verified,IDN-PT-TECHNOLOGY-049,PT Technology Indonesia 049
+126077.34,12895.51,9.78,Indonesia,True,Real Estate,True,22,Individual,Caution,IDN-INDIVIDUAL-REAL_ESTATE-035,Individual Real Estate Indonesia 035
+640335.76,28893.17,22.16,Indonesia,True,Technology,False,20,Foundation,Caution,IDN-FOUNDATION-TECHNOLOGY-032,Foundation Technology Indonesia 032
+9120.02,625.45,14.58,USA,False,Technology,False,16,PT,Verified,USA-PT-TECHNOLOGY-166,PT Technology USA 166
+24816.0,2221.18,11.17,Indonesia,True,Manufacturing,False,16,PT,Verified,IDN-PT-MANUFACTURING-047,PT Manufacturing Indonesia 047
+30245.71,,14.15,China,False,,False,8,,Caution,CHN-UNKNOWN-UNKNOWN-023,Unknown Unknown China 023
+10828.14,916.97,11.81,Indonesia,True,Energy,False,9,CV,Verified,IDN-CV-ENERGY-025,CV Energy Indonesia 025
+12132.96,751.67,16.14,Indonesia,False,Manufacturing,False,9,PT,Verified,IDN-PT-MANUFACTURING-047,PT Manufacturing Indonesia 047
+43064.27,3550.96,12.13,Indonesia,False,Manufacturing,False,14,PT,Verified,IDN-PT-MANUFACTURING-047,PT Manufacturing Indonesia 047
+35995.99,2672.75,13.47,Malaysia,True,Forestry,False,9,PT,Verified,MYS-PT-FORESTRY-069,PT Forestry Malaysia 069
+24208.44,1628.06,14.87,Singapore,False,Technology,False,9,PT,Verified,SGP-PT-TECHNOLOGY-109,PT Technology Singapore 109
+7543.62,412.27,18.3,USA,True,Energy,False,12,PT,Verified,USA-PT-ENERGY-163,PT Energy USA 163
+319279760.74,996577488.48,0.32,Switzerland,True,Consulting,True,5,Foundation,High-Risk,SWI-FOUNDATION-CONSULTING-115,Foundation Consulting Switzerland 115
+121601.21,7102.82,17.12,Indonesia,True,Technology,False,21,Individual,Caution,IDN-INDIVIDUAL-TECHNOLOGY-036,Individual Technology Indonesia 036
+18821.41,,16.89,Indonesia,True,,False,16,,Verified,IDN-UNKNOWN-UNKNOWN-056,Unknown Unknown Indonesia 056
+9963.09,937.47,10.63,Indonesia,False,Agriculture,False,15,CV,Verified,IDN-CV-AGRICULTURE-024,CV Agriculture Indonesia 024
+50725.98,2754.45,18.42,Indonesia,True,Energy,False,12,Ltd.,Verified,IDN-LTD-ENERGY-038,Ltd. Energy Indonesia 038
+8111.39,456.52,17.77,Indonesia,False,Manufacturing,False,14,CV,Verified,IDN-CV-MANUFACTURING-027,CV Manufacturing Indonesia 027
+163795.32,347781.84,0.47,Cayman Islands,True,Holding Company,True,0,Individual,High-Risk,CAY-INDIVIDUAL-HOLDING_COMPANY-005,Individual Holding Company Cayman Islands 005
+35268738.3,154785515.13,0.23,Switzerland,True,Real Estate,True,4,Individual,High-Risk,SWI-INDIVIDUAL-REAL_ESTATE-120,Individual Real Estate Switzerland 120
+16564078.63,40879280.64,0.41,Panama,True,Real Estate,True,1,Foundation,High-Risk,PAN-FOUNDATION-REAL_ESTATE-077,Foundation Real Estate Panama 077
+33107.29,2525.54,13.11,Malaysia,False,Forestry,False,11,PT,Verified,MYS-PT-FORESTRY-069,PT Forestry Malaysia 069
+133865.41,9064.83,14.77,Indonesia,True,Holding Company,False,23,PT,Caution,IDN-PT-HOLDING_COMPANY-046,PT Holding Company Indonesia 046
+17613.23,1064.94,16.54,Singapore,True,Real Estate,True,6,Individual,Caution,SGP-INDIVIDUAL-REAL_ESTATE-096,Individual Real Estate Singapore 096
+42707.26,2761.21,15.47,Indonesia,False,Energy,False,10,CV,Verified,IDN-CV-ENERGY-025,CV Energy Indonesia 025
+388882.25,18763.49,20.73,Indonesia,True,Holding Company,True,21,Foundation,Caution,IDN-FOUNDATION-HOLDING_COMPANY-030,Foundation Holding Company Indonesia 030
+156480.5,7925.28,19.74,Singapore,True,Agriculture,False,14,CV,Verified,SGP-CV-AGRICULTURE-086,CV Agriculture Singapore 086
+4837016.96,18386780.58,0.26,Switzerland,True,Holding Company,True,1,Foundation,High-Risk,SWI-FOUNDATION-HOLDING_COMPANY-116,Foundation Holding Company Switzerland 116
+52269.79,,16.88,Malaysia,False,,False,16,,Verified,MYS-UNKNOWN-UNKNOWN-074,Unknown Unknown Malaysia 074
+517532.39,39603.18,13.07,China,True,Technology,True,20,Individual,Caution,CHN-INDIVIDUAL-TECHNOLOGY-018,Individual Technology China 018
+63209.1,6005.61,10.53,UK,False,Forestry,False,15,PT,Verified,UK-PT-FORESTRY-146,PT Forestry UK 146
+32753.65,,15.34,Indonesia,False,,False,9,,Verified,IDN-UNKNOWN-UNKNOWN-056,Unknown Unknown Indonesia 056
+5270.08,281.74,18.71,USA,True,Manufacturing,False,13,PT,Verified,USA-PT-MANUFACTURING-165,PT Manufacturing USA 165
+35705.15,1821.57,19.6,Indonesia,False,Technology,False,13,CV,Verified,IDN-CV-TECHNOLOGY-028,CV Technology Indonesia 028
+17833.49,974.08,18.31,Indonesia,False,Agriculture,False,14,PT,Verified,IDN-PT-AGRICULTURE-042,PT Agriculture Indonesia 042
+7186.26,453.1,15.86,Indonesia,True,Manufacturing,False,16,PT,Verified,IDN-PT-MANUFACTURING-047,PT Manufacturing Indonesia 047
+50119.56,3097.04,16.18,Indonesia,False,Agriculture,False,11,PT,Verified,IDN-PT-AGRICULTURE-042,PT Agriculture Indonesia 042
+12997.31,795.23,16.34,Singapore,True,Manufacturing,False,17,PT.,Verified,SGP-PT-MANUFACTURING-111,PT. Manufacturing Singapore 111
+25698.2,1573.79,16.33,Indonesia,False,Energy,False,14,PT,Verified,IDN-PT-ENERGY-044,PT Energy Indonesia 044
+96366.76,10124.1,9.52,Singapore,False,Consulting,True,6,PT,Caution,SGP-PT-CONSULTING-103,PT Consulting Singapore 103
+406369.73,38824.99,10.47,Vietnam,False,Consulting,True,19,Foundation,Caution,VIE-FOUNDATION-CONSULTING-169,Foundation Consulting Vietnam 169
+1432786.24,147556.98,9.71,Indonesia,True,Technology,False,20,Foundation,Caution,IDN-FOUNDATION-TECHNOLOGY-032,Foundation Technology Indonesia 032
+1034271.29,2470665.58,0.42,Panama,True,Luxury Goods,True,2,Foundation,High-Risk,PAN-FOUNDATION-LUXURY_GOODS-076,Foundation Luxury Goods Panama 076
+419929.8,17278.11,24.3,Indonesia,False,Holding Company,False,8,Foundation,Caution,IDN-FOUNDATION-HOLDING_COMPANY-030,Foundation Holding Company Indonesia 030
+527726.26,48464.89,10.89,Singapore,False,Energy,False,11,PT,Verified,SGP-PT-ENERGY-104,PT Energy Singapore 104
+37847.32,2883.85,13.12,Singapore,False,Manufacturing,False,14,PT,Verified,SGP-PT-MANUFACTURING-107,PT Manufacturing Singapore 107
+25040.47,1482.52,16.89,Indonesia,False,Manufacturing,False,10,CV,Verified,IDN-CV-MANUFACTURING-027,CV Manufacturing Indonesia 027
+23569.95,2838.44,8.3,China,False,Real Estate,False,18,Foundation,Caution,CHN-FOUNDATION-REAL_ESTATE-013,Foundation Real Estate China 013
+60690.84,3882.02,15.63,Indonesia,False,Energy,False,13,PT,Verified,IDN-PT-ENERGY-044,PT Energy Indonesia 044
+15773.19,892.65,17.67,Indonesia,False,Technology,False,15,PT,Verified,IDN-PT-TECHNOLOGY-049,PT Technology Indonesia 049
+25648.77,1410.15,18.19,Malaysia,True,Technology,False,10,PT,Verified,MYS-PT-TECHNOLOGY-071,PT Technology Malaysia 071
+18597.37,991.63,18.75,Malaysia,True,Energy,False,12,Ltd.,Verified,MYS-LTD-ENERGY-063,Ltd. Energy Malaysia 063
+166336.22,8300.53,20.04,Vietnam,False,Real Estate,True,7,Foundation,Caution,VIE-FOUNDATION-REAL_ESTATE-171,Foundation Real Estate Vietnam 171
+37986.1,2290.87,16.58,Indonesia,False,Manufacturing,False,15,CV,Verified,IDN-CV-MANUFACTURING-027,CV Manufacturing Indonesia 027
+60156.56,5873.5,10.24,Indonesia,True,Technology,False,9,PT,Verified,IDN-PT-TECHNOLOGY-049,PT Technology Indonesia 049
+46319.74,3467.69,13.36,Indonesia,False,Real Estate,False,8,Individual,Caution,IDN-INDIVIDUAL-REAL_ESTATE-035,Individual Real Estate Indonesia 035
+32436.72,2029.28,15.98,Malaysia,False,Technology,False,10,CV,Verified,MYS-CV-TECHNOLOGY-061,CV Technology Malaysia 061
+346932.07,14379.92,24.13,Indonesia,False,Consulting,False,8,PT,Caution,IDN-PT-CONSULTING-043,PT Consulting Indonesia 043
+55668.41,4978.91,11.18,Indonesia,False,Real Estate,False,8,Individual,Caution,IDN-INDIVIDUAL-REAL_ESTATE-035,Individual Real Estate Indonesia 035
+73619.02,4318.52,17.05,Indonesia,False,Technology,False,11,PT,Verified,IDN-PT-TECHNOLOGY-049,PT Technology Indonesia 049
+10354.38,836.98,12.37,Singapore,False,Energy,False,10,PT,Verified,SGP-PT-ENERGY-104,PT Energy Singapore 104
+205983.33,10366.29,19.87,China,True,Technology,True,21,Individual,Caution,CHN-INDIVIDUAL-TECHNOLOGY-018,Individual Technology China 018
+10008.34,526.8,19.0,Indonesia,False,Forestry,False,9,PT,Verified,IDN-PT-FORESTRY-045,PT Forestry Indonesia 045
+3317570.41,,0.34,Switzerland,True,,True,3,,High-Risk,SWI-UNKNOWN-UNKNOWN-124,Unknown Unknown Switzerland 124
+10429.5,619.35,16.84,Singapore,False,Agriculture,False,11,PT,Verified,SGP-PT-AGRICULTURE-102,PT Agriculture Singapore 102
+4409459.5,188530.91,23.39,Indonesia,False,Technology,False,7,PT,Caution,IDN-PT-TECHNOLOGY-049,PT Technology Indonesia 049
+50926.85,2575.15,19.78,Indonesia,False,Agriculture,False,17,PT,Verified,IDN-PT-AGRICULTURE-042,PT Agriculture Indonesia 042
+164999.73,8236.19,20.03,Indonesia,True,Consulting,False,19,PT,Caution,IDN-PT-CONSULTING-043,PT Consulting Indonesia 043
+34489.47,2069.49,16.67,Singapore,False,Forestry,False,11,PT,Verified,SGP-PT-FORESTRY-105,PT Forestry Singapore 105
+32074.86,2715.74,11.81,Malaysia,False,Energy,False,9,PT,Verified,MYS-PT-ENERGY-068,PT Energy Malaysia 068
+116808.39,5180.23,22.55,UAE,True,Consulting,False,8,PT,Caution,UAE-PT-CONSULTING-137,PT Consulting UAE 137
+95083.33,8783.21,10.83,Singapore,False,Technology,False,7,PT,Caution,SGP-PT-TECHNOLOGY-109,PT Technology Singapore 109
+28096.52,2598.57,10.81,Indonesia,True,Energy,False,15,PT,Verified,IDN-PT-ENERGY-044,PT Energy Indonesia 044
+24165.98,2342.86,10.31,Singapore,False,Technology,False,16,PT,Verified,SGP-PT-TECHNOLOGY-109,PT Technology Singapore 109
+92406.51,,14.12,Indonesia,False,,False,9,,Verified,IDN-UNKNOWN-UNKNOWN-056,Unknown Unknown Indonesia 056
+27833.13,1615.0,17.23,Malaysia,False,Energy,False,11,PT,Verified,MYS-PT-ENERGY-068,PT Energy Malaysia 068
+12975.43,726.76,17.85,Indonesia,False,Forestry,False,11,CV,Verified,IDN-CV-FORESTRY-026,CV Forestry Indonesia 026
+383237.44,17725.52,21.62,Vietnam,True,Holding Company,False,22,PT,Caution,VIE-PT-HOLDING_COMPANY-177,PT Holding Company Vietnam 177
+177431.07,7319.1,24.24,Vietnam,True,Consulting,False,6,Foundation,Caution,VIE-FOUNDATION-CONSULTING-169,Foundation Consulting Vietnam 169
+17245.79,976.49,17.66,Indonesia,True,Technology,False,17,PT,Verified,IDN-PT-TECHNOLOGY-049,PT Technology Indonesia 049
+16789.58,880.39,19.07,Indonesia,False,Energy,False,16,CV,Verified,IDN-CV-ENERGY-025,CV Energy Indonesia 025
+125476.68,8509.64,14.75,USA,False,Energy,False,12,PT,Verified,USA-PT-ENERGY-163,PT Energy USA 163
+47129.96,1999.23,23.57,China,False,Holding Company,False,6,Individual,Caution,CHN-INDIVIDUAL-HOLDING_COMPANY-016,Individual Holding Company China 016
+17880.68,1123.33,15.92,Singapore,False,Energy,False,10,PT,Verified,SGP-PT-ENERGY-104,PT Energy Singapore 104
+9645.32,578.57,16.67,Indonesia,False,Energy,False,11,Ltd.,Verified,IDN-LTD-ENERGY-038,Ltd. Energy Indonesia 038
+22501639.87,2274019.42,9.9,China,False,Real Estate,False,18,Individual,Caution,CHN-INDIVIDUAL-REAL_ESTATE-017,Individual Real Estate China 017
+16707.33,1440.41,11.6,USA,True,Manufacturing,False,15,PT,Verified,USA-PT-MANUFACTURING-165,PT Manufacturing USA 165
+11857.89,622.38,19.05,Indonesia,False,Energy,False,13,PT,Verified,IDN-PT-ENERGY-044,PT Energy Indonesia 044
+65299.13,4396.55,14.85,Indonesia,False,Manufacturing,False,9,PT,Verified,IDN-PT-MANUFACTURING-047,PT Manufacturing Indonesia 047
+379598.08,21079.9,18.01,Singapore,False,Energy,False,14,PT,Verified,SGP-PT-ENERGY-104,PT Energy Singapore 104
+17684.95,1235.21,14.32,Indonesia,False,Energy,False,17,PT,Verified,IDN-PT-ENERGY-044,PT Energy Indonesia 044
+31334.3,2368.57,13.23,Singapore,False,Agriculture,False,12,PT,Verified,SGP-PT-AGRICULTURE-102,PT Agriculture Singapore 102
+6115.44,505.06,12.11,Indonesia,False,Energy,False,14,PT,Verified,IDN-PT-ENERGY-044,PT Energy Indonesia 044
+3511.34,209.05,16.8,Indonesia,False,Agriculture,False,15,CV,Verified,IDN-CV-AGRICULTURE-024,CV Agriculture Indonesia 024
+10461.24,618.95,16.9,Singapore,False,Agriculture,False,10,PT,Verified,SGP-PT-AGRICULTURE-102,PT Agriculture Singapore 102
+12792.61,1063.17,12.03,Indonesia,False,Energy,False,11,PT,Verified,IDN-PT-ENERGY-044,PT Energy Indonesia 044
+60303.59,,13.21,Singapore,False,,False,14,,Verified,SGP-UNKNOWN-UNKNOWN-114,Unknown Unknown Singapore 114
+27649.63,2190.38,12.62,Indonesia,False,Agriculture,False,11,PT,Verified,IDN-PT-AGRICULTURE-042,PT Agriculture Indonesia 042
+21948115.9,70873320.95,0.31,Cayman Islands,True,Holding Company,True,5,LLC,High-Risk,CAY-LLC-HOLDING_COMPANY-009,LLC Holding Company Cayman Islands 009
+12539.04,695.09,18.04,Indonesia,False,Manufacturing,False,11,PT,Verified,IDN-PT-MANUFACTURING-047,PT Manufacturing Indonesia 047
+4766.37,285.2,16.71,Vietnam,False,Consulting,False,20,PT,Caution,VIE-PT-CONSULTING-176,PT Consulting Vietnam 176
+5090808.21,13588522.64,0.37,Cayman Islands,True,Luxury Goods,True,4,Foundation,High-Risk,CAY-FOUNDATION-LUXURY_GOODS-002,Foundation Luxury Goods Cayman Islands 002
+41919.78,3042.43,13.78,Indonesia,False,Energy,False,10,CV,Verified,IDN-CV-ENERGY-025,CV Energy Indonesia 025
+216952.8,12434.48,17.45,Vietnam,True,Technology,True,20,Foundation,Caution,VIE-FOUNDATION-TECHNOLOGY-172,Foundation Technology Vietnam 172
+34151.58,1970.23,17.33,Singapore,True,Technology,False,14,PT,Verified,SGP-PT-TECHNOLOGY-109,PT Technology Singapore 109
+196152.41,12746.99,15.39,Indonesia,False,Manufacturing,False,14,PT,Verified,IDN-PT-MANUFACTURING-047,PT Manufacturing Indonesia 047
+424973.09,23263.54,18.27,Singapore,False,Agriculture,False,16,Ltd.,Verified,SGP-LTD-AGRICULTURE-098,Ltd. Agriculture Singapore 098
+8917.59,651.23,13.69,Indonesia,False,Technology,False,11,PT,Verified,IDN-PT-TECHNOLOGY-049,PT Technology Indonesia 049
+45213.2,3424.25,13.2,Malaysia,False,Energy,False,13,PT,Verified,MYS-PT-ENERGY-068,PT Energy Malaysia 068
+86046.53,7581.24,11.35,Indonesia,True,Forestry,False,10,PT,Verified,IDN-PT-FORESTRY-045,PT Forestry Indonesia 045
+800310.29,38171.7,20.97,Singapore,True,Holding Company,True,8,PT,Caution,SGP-PT-HOLDING_COMPANY-106,PT Holding Company Singapore 106
+184843.69,11681.98,15.82,Singapore,True,Technology,False,14,PT,Verified,SGP-PT-TECHNOLOGY-109,PT Technology Singapore 109
+64974.89,8040.24,8.08,Singapore,True,Holding Company,False,18,Foundation,Caution,SGP-FOUNDATION-HOLDING_COMPANY-092,Foundation Holding Company Singapore 092
+6222.28,569.53,10.93,Indonesia,False,Energy,False,17,PT,Verified,IDN-PT-ENERGY-044,PT Energy Indonesia 044
+132600.84,13912.82,9.53,Singapore,False,Consulting,True,8,Individual,Caution,SGP-INDIVIDUAL-CONSULTING-095,Individual Consulting Singapore 095
+11834.59,989.79,11.96,USA,False,Energy,False,9,PT,Verified,USA-PT-ENERGY-163,PT Energy USA 163
+10623.58,611.59,17.37,UAE,False,Consulting,False,23,Foundation,Caution,UAE-FOUNDATION-CONSULTING-125,Foundation Consulting UAE 125
+285900.16,16301.35,17.54,Singapore,False,Technology,True,18,Individual,Caution,SGP-INDIVIDUAL-TECHNOLOGY-097,Individual Technology Singapore 097
+13693.36,756.26,18.11,China,False,Technology,True,7,Foundation,Caution,CHN-FOUNDATION-TECHNOLOGY-014,Foundation Technology China 014
+32884.47,1672.22,19.67,Indonesia,False,Energy,False,13,PT,Verified,IDN-PT-ENERGY-044,PT Energy Indonesia 044
+177802.36,21179.57,8.39,Indonesia,True,Holding Company,True,7,PT.,Caution,IDN-PT-HOLDING_COMPANY-053,PT. Holding Company Indonesia 053
+57072.65,3707.46,15.39,Indonesia,False,Manufacturing,False,15,PT,Verified,IDN-PT-MANUFACTURING-047,PT Manufacturing Indonesia 047
+6030214.66,329611.1,18.29,UAE,True,Holding Company,False,20,Individual,Caution,UAE-INDIVIDUAL-HOLDING_COMPANY-131,Individual Holding Company UAE 131
+20296.54,1150.33,17.64,Indonesia,False,Manufacturing,False,17,PT,Verified,IDN-PT-MANUFACTURING-047,PT Manufacturing Indonesia 047
+52877.43,3758.89,14.07,UK,False,Agriculture,False,16,CV,Verified,UK-CV-AGRICULTURE-142,CV Agriculture UK 142
+28230510.76,83770679.05,0.34,Panama,True,Holding Company,True,2,LLC,High-Risk,PAN-LLC-HOLDING_COMPANY-082,LLC Holding Company Panama 082
+119822.18,8003.28,14.97,Indonesia,True,Real Estate,False,6,PT,Caution,IDN-PT-REAL_ESTATE-048,PT Real Estate Indonesia 048
+138221.87,8782.07,15.74,Indonesia,False,Consulting,False,21,PT,Caution,IDN-PT-CONSULTING-043,PT Consulting Indonesia 043
+60998.68,4074.22,14.97,Indonesia,False,Manufacturing,False,16,CV,Verified,IDN-CV-MANUFACTURING-027,CV Manufacturing Indonesia 027
+16658.49,1339.78,12.43,Malaysia,False,Manufacturing,False,9,PT,Verified,MYS-PT-MANUFACTURING-070,PT Manufacturing Malaysia 070
+12062.64,809.73,14.9,USA,False,Energy,False,14,Ltd.,Verified,USA-LTD-ENERGY-158,Ltd. Energy USA 158
+21483.48,1874.07,11.46,UK,True,Forestry,False,16,PT,Verified,UK-PT-FORESTRY-146,PT Forestry UK 146
+2627213.99,133846.71,19.63,UAE,False,Consulting,True,19,Individual,Caution,UAE-INDIVIDUAL-CONSULTING-130,Individual Consulting UAE 130
+27743.98,2028.52,13.68,Indonesia,False,Technology,False,10,PT,Verified,IDN-PT-TECHNOLOGY-049,PT Technology Indonesia 049
+2238153.91,,8.45,Indonesia,True,,True,8,,Caution,IDN-UNKNOWN-UNKNOWN-056,Unknown Unknown Indonesia 056
+11578.13,591.72,19.57,USA,False,Technology,False,9,PT,Verified,USA-PT-TECHNOLOGY-166,PT Technology USA 166
+224744.19,9438.39,23.81,Vietnam,True,Holding Company,False,19,PT,Caution,VIE-PT-HOLDING_COMPANY-177,PT Holding Company Vietnam 177
+10541.65,447.69,23.55,Indonesia,True,Real Estate,True,22,Individual,Caution,IDN-INDIVIDUAL-REAL_ESTATE-035,Individual Real Estate Indonesia 035
+21339.76,1297.01,16.45,Indonesia,True,Energy,False,12,PT,Verified,IDN-PT-ENERGY-044,PT Energy Indonesia 044
+17733.05,1059.68,16.73,Singapore,True,Manufacturing,False,10,PT,Verified,SGP-PT-MANUFACTURING-107,PT Manufacturing Singapore 107
+10952.71,766.1,14.3,UK,False,Forestry,False,14,PT,Verified,UK-PT-FORESTRY-146,PT Forestry UK 146
+6299.42,443.39,14.21,Indonesia,False,Technology,False,15,PT,Verified,IDN-PT-TECHNOLOGY-049,PT Technology Indonesia 049
+1357070.87,6068306.29,0.22,Switzerland,True,Holding Company,True,0,Individual,High-Risk,SWI-INDIVIDUAL-HOLDING_COMPANY-118,Individual Holding Company Switzerland 118
+403316.46,2705539.62,0.15,Cayman Islands,True,Holding Company,True,0,Foundation,High-Risk,CAY-FOUNDATION-HOLDING_COMPANY-001,Foundation Holding Company Cayman Islands 001
+13220.27,662.31,19.96,Indonesia,False,Energy,False,15,PT,Verified,IDN-PT-ENERGY-044,PT Energy Indonesia 044
+24747.45,1282.11,19.3,Malaysia,False,Technology,False,11,PT,Verified,MYS-PT-TECHNOLOGY-071,PT Technology Malaysia 071
+7203.18,593.96,12.13,Indonesia,False,Forestry,False,9,PT,Verified,IDN-PT-FORESTRY-045,PT Forestry Indonesia 045
+6209.63,418.04,14.85,Indonesia,False,Energy,False,10,PT,Verified,IDN-PT-ENERGY-044,PT Energy Indonesia 044
+165980.7,16247.43,10.22,Vietnam,False,Real Estate,False,21,Individual,Caution,VIE-INDIVIDUAL-REAL_ESTATE-174,Individual Real Estate Vietnam 174
+30657.59,1640.99,18.68,Indonesia,False,Manufacturing,False,11,PT,Verified,IDN-PT-MANUFACTURING-047,PT Manufacturing Indonesia 047
+4991.81,348.86,14.31,USA,False,Agriculture,False,16,CV,Verified,USA-CV-AGRICULTURE-153,CV Agriculture USA 153
+26868.47,1443.64,18.61,Indonesia,True,Manufacturing,False,11,PT,Verified,IDN-PT-MANUFACTURING-047,PT Manufacturing Indonesia 047
+31255.69,1568.14,19.93,Indonesia,True,Forestry,False,11,CV,Verified,IDN-CV-FORESTRY-026,CV Forestry Indonesia 026
+50120.39,2547.33,19.68,Singapore,False,Forestry,False,11,PT,Verified,SGP-PT-FORESTRY-105,PT Forestry Singapore 105
+38614.93,3404.33,11.34,Indonesia,False,Agriculture,False,17,CV,Verified,IDN-CV-AGRICULTURE-024,CV Agriculture Indonesia 024
+331811.32,18446.33,17.99,China,False,Consulting,True,21,Individual,Caution,CHN-INDIVIDUAL-CONSULTING-015,Individual Consulting China 015
+20739.82,1524.91,13.6,Indonesia,False,Agriculture,False,16,PT,Verified,IDN-PT-AGRICULTURE-042,PT Agriculture Indonesia 042
+71569.48,,12.2,Singapore,False,,False,14,,Verified,SGP-UNKNOWN-UNKNOWN-114,Unknown Unknown Singapore 114
+114957.6,5285.55,21.75,Vietnam,True,Consulting,True,21,PT,Caution,VIE-PT-CONSULTING-176,PT Consulting Vietnam 176
+86390.96,4758.14,18.16,Indonesia,False,Technology,False,14,PT,Verified,IDN-PT-TECHNOLOGY-049,PT Technology Indonesia 049
+75544.03,4509.88,16.75,Indonesia,False,Manufacturing,False,10,PT,Verified,IDN-PT-MANUFACTURING-047,PT Manufacturing Indonesia 047
+2976.18,195.83,15.2,Indonesia,True,Energy,False,17,PT,Verified,IDN-PT-ENERGY-044,PT Energy Indonesia 044
+12931.69,,13.62,Indonesia,True,,False,14,,Verified,IDN-UNKNOWN-UNKNOWN-056,Unknown Unknown Indonesia 056
+14678.89,904.97,16.22,Indonesia,False,Manufacturing,False,14,Ltd.,Verified,IDN-LTD-MANUFACTURING-040,Ltd. Manufacturing Indonesia 040
+6716.99,491.57,13.66,Indonesia,True,Energy,False,11,PT,Verified,IDN-PT-ENERGY-044,PT Energy Indonesia 044
+47769.26,3782.5,12.63,Indonesia,False,Forestry,False,11,PT,Verified,IDN-PT-FORESTRY-045,PT Forestry Indonesia 045
+73783.42,4135.16,17.84,Singapore,False,Real Estate,True,18,Individual,Caution,SGP-INDIVIDUAL-REAL_ESTATE-096,Individual Real Estate Singapore 096
+140526322.9,337959146.51,0.42,Panama,True,Holding Company,True,3,Foundation,High-Risk,PAN-FOUNDATION-HOLDING_COMPANY-075,Foundation Holding Company Panama 075
+26135.06,2461.5,10.62,Singapore,False,Agriculture,False,13,CV,Verified,SGP-CV-AGRICULTURE-086,CV Agriculture Singapore 086
+106705.06,,8.82,Singapore,True,,True,7,,Caution,SGP-UNKNOWN-UNKNOWN-114,Unknown Unknown Singapore 114
+50729.76,3865.7,13.12,Indonesia,False,Energy,False,12,CV,Verified,IDN-CV-ENERGY-025,CV Energy Indonesia 025
+8324593.86,24307259.47,0.34,Panama,True,Holding Company,True,0,Foundation,High-Risk,PAN-FOUNDATION-HOLDING_COMPANY-075,Foundation Holding Company Panama 075
+16229.77,1383.73,11.73,Singapore,False,Agriculture,False,10,PT,Verified,SGP-PT-AGRICULTURE-102,PT Agriculture Singapore 102
+60904.11,4819.58,12.64,Vietnam,True,Holding Company,True,6,Foundation,Caution,VIE-FOUNDATION-HOLDING_COMPANY-170,Foundation Holding Company Vietnam 170
+20129.96,1040.61,19.34,Indonesia,False,Energy,False,12,PT,Verified,IDN-PT-ENERGY-044,PT Energy Indonesia 044
+1736.67,124.7,13.93,Indonesia,False,Technology,False,14,Ltd.,Verified,IDN-LTD-TECHNOLOGY-041,Ltd. Technology Indonesia 041
+41289.17,3530.54,11.69,Vietnam,True,Technology,True,22,Foundation,Caution,VIE-FOUNDATION-TECHNOLOGY-172,Foundation Technology Vietnam 172
+36656.21,2363.13,15.51,Indonesia,False,Agriculture,False,16,CV,Verified,IDN-CV-AGRICULTURE-024,CV Agriculture Indonesia 024
+22239.15,1212.38,18.34,Indonesia,False,Energy,False,13,PT,Verified,IDN-PT-ENERGY-044,PT Energy Indonesia 044
+60850.83,4408.91,13.8,Indonesia,True,Technology,False,14,PT,Verified,IDN-PT-TECHNOLOGY-049,PT Technology Indonesia 049
+27557.38,2134.63,12.91,China,True,Holding Company,True,6,Foundation,Caution,CHN-FOUNDATION-HOLDING_COMPANY-012,Foundation Holding Company China 012
+7554.17,598.82,12.62,Indonesia,False,Manufacturing,False,11,PT,Verified,IDN-PT-MANUFACTURING-047,PT Manufacturing Indonesia 047
+13403.23,681.61,19.66,Indonesia,True,Energy,False,12,CV,Verified,IDN-CV-ENERGY-025,CV Energy Indonesia 025
+8545.33,648.04,13.19,Indonesia,True,Energy,False,16,PT,Verified,IDN-PT-ENERGY-044,PT Energy Indonesia 044
+15132.9,1376.75,10.99,Indonesia,False,Agriculture,False,15,PT,Verified,IDN-PT-AGRICULTURE-042,PT Agriculture Indonesia 042
+14312.82,1012.46,14.14,USA,False,Energy,False,15,CV,Verified,USA-CV-ENERGY-154,CV Energy USA 154
+17706.83,1075.8,16.46,Indonesia,False,Agriculture,False,14,CV,Verified,IDN-CV-AGRICULTURE-024,CV Agriculture Indonesia 024
+122558.07,6920.77,17.71,Indonesia,True,Energy,False,17,PT,Verified,IDN-PT-ENERGY-044,PT Energy Indonesia 044
+21175.23,2119.04,9.99,Vietnam,False,Holding Company,False,7,Foundation,Caution,VIE-FOUNDATION-HOLDING_COMPANY-170,Foundation Holding Company Vietnam 170
+52388.75,2745.1,19.08,China,False,Real Estate,True,22,PT,Caution,CHN-PT-REAL_ESTATE-021,PT Real Estate China 021
+39162.43,3848.44,10.18,Indonesia,False,Manufacturing,False,16,PT,Verified,IDN-PT-MANUFACTURING-047,PT Manufacturing Indonesia 047
+11832.55,953.23,12.41,Indonesia,False,Manufacturing,False,16,PT,Verified,IDN-PT-MANUFACTURING-047,PT Manufacturing Indonesia 047
+16588.52,1221.51,13.58,Malaysia,False,Agriculture,False,17,PT,Verified,MYS-PT-AGRICULTURE-067,PT Agriculture Malaysia 067
+35868.51,2657.42,13.5,Indonesia,False,Manufacturing,False,16,PT,Verified,IDN-PT-MANUFACTURING-047,PT Manufacturing Indonesia 047
+59553.39,4415.88,13.49,Indonesia,False,Agriculture,False,17,PT,Verified,IDN-PT-AGRICULTURE-042,PT Agriculture Indonesia 042
+1018.8,95.37,10.68,Indonesia,False,Forestry,False,17,Ltd.,Verified,IDN-LTD-FORESTRY-039,Ltd. Forestry Indonesia 039
+745698.06,2033975.48,0.37,Panama,True,Real Estate,True,4,LLC,High-Risk,PAN-LLC-REAL_ESTATE-084,LLC Real Estate Panama 084
+37708.16,2846.65,13.25,Indonesia,False,Energy,False,9,PT,Verified,IDN-PT-ENERGY-044,PT Energy Indonesia 044
+4587.26,240.49,19.07,Indonesia,False,Agriculture,False,17,PT,Verified,IDN-PT-AGRICULTURE-042,PT Agriculture Indonesia 042
+3135.53,128.37,24.43,Indonesia,True,Real Estate,False,22,Individual,Caution,IDN-INDIVIDUAL-REAL_ESTATE-035,Individual Real Estate Indonesia 035
+70694.38,6170.72,11.46,USA,False,Technology,False,17,PT,Verified,USA-PT-TECHNOLOGY-166,PT Technology USA 166
+59369.71,3092.17,19.2,Indonesia,False,Technology,False,15,PT,Verified,IDN-PT-TECHNOLOGY-049,PT Technology Indonesia 049
+7342.23,467.51,15.7,USA,False,Technology,False,15,PT,Verified,USA-PT-TECHNOLOGY-166,PT Technology USA 166
+104844.75,6056.36,17.31,Vietnam,False,Consulting,True,18,Foundation,Caution,VIE-FOUNDATION-CONSULTING-169,Foundation Consulting Vietnam 169
+15110.82,1189.7,12.7,USA,False,Manufacturing,False,10,PT,Verified,USA-PT-MANUFACTURING-165,PT Manufacturing USA 165
+6868.69,505.43,13.59,Indonesia,False,Manufacturing,False,16,PT,Verified,IDN-PT-MANUFACTURING-047,PT Manufacturing Indonesia 047
+11578.18,812.36,14.25,Indonesia,True,Forestry,False,11,PT,Verified,IDN-PT-FORESTRY-045,PT Forestry Indonesia 045
+11124.41,783.9,14.19,Indonesia,False,Agriculture,False,12,PT,Verified,IDN-PT-AGRICULTURE-042,PT Agriculture Indonesia 042
+587029.62,59622.86,9.85,Vietnam,True,Technology,True,19,Individual,Caution,VIE-INDIVIDUAL-TECHNOLOGY-175,Individual Technology Vietnam 175
+28902.52,2220.97,13.01,Singapore,True,Agriculture,False,15,PT,Verified,SGP-PT-AGRICULTURE-102,PT Agriculture Singapore 102
+76185.33,6232.07,12.22,Indonesia,True,Technology,False,15,PT,Verified,IDN-PT-TECHNOLOGY-049,PT Technology Indonesia 049
+7269.94,371.3,19.58,Indonesia,True,Energy,False,9,PT,Verified,IDN-PT-ENERGY-044,PT Energy Indonesia 044
+11065.63,968.81,11.42,Indonesia,False,Manufacturing,False,14,CV,Verified,IDN-CV-MANUFACTURING-027,CV Manufacturing Indonesia 027
+3561.82,339.65,10.49,Indonesia,True,Manufacturing,False,13,PT,Verified,IDN-PT-MANUFACTURING-047,PT Manufacturing Indonesia 047
+69691.66,5331.81,13.07,Indonesia,False,Agriculture,False,11,PT,Verified,IDN-PT-AGRICULTURE-042,PT Agriculture Indonesia 042
+86556.09,7478.67,11.57,UK,False,Energy,False,12,PT,Verified,UK-PT-ENERGY-145,PT Energy UK 145
+111326.54,7009.99,15.88,Indonesia,False,Agriculture,False,10,PT,Verified,IDN-PT-AGRICULTURE-042,PT Agriculture Indonesia 042
+21440.75,,12.81,Indonesia,False,,False,16,,Verified,IDN-UNKNOWN-UNKNOWN-056,Unknown Unknown Indonesia 056
+5716.77,330.47,17.3,Indonesia,False,Energy,False,9,PT,Verified,IDN-PT-ENERGY-044,PT Energy Indonesia 044
+468744.82,23382.14,20.05,UAE,True,Consulting,True,7,Individual,Caution,UAE-INDIVIDUAL-CONSULTING-130,Individual Consulting UAE 130
+20594.01,1038.9,19.82,Indonesia,False,Forestry,False,14,Ltd.,Verified,IDN-LTD-FORESTRY-039,Ltd. Forestry Indonesia 039
+16736.55,1111.69,15.06,Indonesia,False,Energy,False,11,PT,Verified,IDN-PT-ENERGY-044,PT Energy Indonesia 044
+35729.12,3396.81,10.52,UK,False,Forestry,False,12,PT,Verified,UK-PT-FORESTRY-146,PT Forestry UK 146
+70854.95,5038.94,14.06,Vietnam,True,Consulting,True,22,PT,Caution,VIE-PT-CONSULTING-176,PT Consulting Vietnam 176
+5204.06,260.64,19.97,Indonesia,False,Forestry,False,9,CV,Verified,IDN-CV-FORESTRY-026,CV Forestry Indonesia 026
+66490.54,3906.2,17.02,Indonesia,False,Technology,False,12,PT,Verified,IDN-PT-TECHNOLOGY-049,PT Technology Indonesia 049
